@@ -5,3 +5,5 @@ cdsapi>=0.7
 xarray>=2026.9
 netCDF4>=1.7
 python-dotenv>=1.0
+numpy>=1.26
+ipykernel>=6.29
