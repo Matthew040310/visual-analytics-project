@@ -14,7 +14,7 @@ University group project for **Visual Analytics for Business Intelligence**. We 
 
 | Dataset | Content | Source |
 |---|---|---|
-| **CQI** (Coffee Quality Institute), Arabica | Lot-level cupping scores, origin, altitude, variety, processing method | Kaggle: `fatihb/coffee-quality-data-cqi` (mirror: `fatih-boyar/coffee-quality-data-CQI` on GitHub) |
+| **CQI** (Coffee Quality Institute), Arabica | Lot-level cupping scores, origin, altitude, variety, processing method | Kaggle: `erwinhmtang/coffee-quality-institute-reviews-may2023` |
 | **FAO** | Coffee production statistics by country and year | UN Food and Agriculture Organization |
 | **CHIRPS** | Gridded precipitation | Climate Hazards Group |
 | **ERA5** | Gridded temperature (reanalysis) | Copernicus Climate Data Store |
@@ -66,4 +66,4 @@ This downloads the raw datasets into `data/raw/`.
 
 ## Acknowledgements
 
-Data credit to the Coffee Quality Institute, Fatih Boyar (Kaggle dataset), the FAO, the Climate Hazards Group (CHIRPS) and the Copernicus Climate Change Service (ERA5).
+Data credit to the Coffee Quality Institute,  (Kaggle dataset), the FAO, the Climate Hazards Group (CHIRPS) and the Copernicus Climate Change Service (ERA5).

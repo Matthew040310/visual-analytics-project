@@ -1,0 +1,1510 @@
+coffee_id,Country_of_Origin,Altitude,Processing_Method,Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Uniformity,Clean_Cup,Sweetness,Overall,Total_Cup_Points,Moisture,Region_Clean,Harvest_Year_Start,Harvest_Year_End,Altitude_Outlier,Altitude_Imputed
+#647123,Guatemala,1600.0,Washed / Wet,7.83,7.92,7.75,8.0,7.75,7.75,10.0,10.0,10.0,7.92,84.92,0.1169999999999999,quiche,2021,2022,False,False
+#927000,Guatemala,1600.0,Washed / Wet,7.58,7.83,7.58,7.75,7.67,7.75,10.0,10.0,10.0,7.75,83.92,0.1,atitlan,2022,2023,False,False
+#902618,Guatemala,1550.0,Washed / Wet,7.67,7.83,7.67,7.83,7.75,7.67,10.0,10.0,10.0,7.67,84.08,0.11,oriente santa rosa,2022,2023,False,False
+#781706,Guatemala,1600.0,Washed / Wet,7.58,7.92,7.67,7.75,7.83,7.75,10.0,10.0,10.0,7.75,84.25,0.1,atitlan,2022,2023,False,False
+#237025,Guatemala,1350.0,Washed / Wet,7.67,7.83,7.75,7.75,7.83,7.75,10.0,10.0,10.0,7.75,84.33,0.092,huehuetenango,2022,2023,False,False
+#932904,Guatemala,1550.0,Washed / Wet,7.67,7.92,7.67,7.75,7.67,7.58,10.0,10.0,10.0,7.75,84.0,0.11,sierra de las minas,2022,2023,False,False
+#614786,Guatemala,1432.0,Washed / Wet,7.67,8.0,7.75,7.92,8.0,7.83,10.0,10.0,10.0,7.83,85.0,0.113,santa rosa,2022,2023,False,False
+#975481,Guatemala,1600.0,Washed / Wet,7.67,8.0,7.67,7.83,7.92,7.67,10.0,10.0,10.0,7.92,84.67,0.106,huehuetenango,2022,2023,False,False
+#938229,Guatemala,1600.0,Washed / Wet,7.67,8.08,7.67,8.0,7.92,7.83,10.0,10.0,10.0,7.83,85.0,0.099,antigua,2022,2023,False,False
+#797284,Guatemala,1500.0,Washed / Wet,7.67,7.92,7.67,7.75,7.75,7.75,10.0,10.0,10.0,7.75,84.25,0.107,huehuetenango,2022,2023,False,False
+#300191,Brazil,1250.0,Pulped natural / honey,7.83,8.08,7.83,7.92,8.0,7.83,10.0,10.0,10.0,8.0,85.5,0.113,regiao vulcanica,2022,2022,False,False
+#914711,Brazil,950.0,Natural / Dry,7.58,7.5,7.5,7.83,7.67,7.5,10.0,10.0,10.0,7.67,83.25,0.1159999999999999,sul de minas,2022,2023,False,False
+#319783,Brazil,950.0,Natural / Dry,7.17,7.17,6.92,7.17,7.42,7.17,10.0,10.0,10.0,7.08,80.08,0.114,sul de minas,2022,2023,False,False
+#421693,Honduras,1450.0,Washed / Wet,7.67,7.58,7.33,7.5,7.58,7.5,10.0,10.0,10.0,7.5,82.67,0.096,los planes de santa maria la paz,2022,2023,False,False
+#102399,Honduras,1450.0,Washed / Wet,7.75,7.58,7.58,7.58,7.58,7.5,10.0,10.0,10.0,7.5,83.08,0.096,"los planes de santa maria, la paz",2022,2023,False,False
+#915144,Honduras,1280.0,Washed / Wet,7.67,7.58,7.5,7.5,7.58,7.5,10.0,10.0,10.0,7.5,82.83,0.1,marcala,2022,2023,False,False
+#442273,Honduras,1400.0,Washed / Wet,7.75,7.58,7.58,7.58,7.5,7.58,10.0,10.0,10.0,7.67,83.25,0.113,marcala,2021,2022,False,False
+#183019,Honduras,1400.0,Washed / Wet,7.75,7.67,7.58,7.58,7.58,7.67,10.0,10.0,10.0,7.67,83.5,0.1119999999999999,marcala,2021,2022,False,False
+#176177,Honduras,1368.0,Washed / Wet,7.75,7.75,7.58,7.83,7.75,7.75,10.0,10.0,10.0,7.75,84.17,0.102,"centro, lagunetillas ajuterique, comayagua",2022,2023,False,False
+#748155,Honduras,1368.0,Washed / Wet,7.83,7.92,7.75,7.75,7.75,7.75,10.0,10.0,10.0,7.75,84.5,0.098,"centro, lagunetillas ajuterique, comayagua",2022,2023,False,False
+#858598,Colombia,1700.0,Washed / Wet,7.92,7.75,7.42,7.58,7.92,7.67,10.0,10.0,10.0,7.58,83.83,0.121,cauca,2022,2023,False,False
+#329719,Colombia,1700.0,Washed / Wet,7.75,7.75,7.5,7.58,7.83,7.5,10.0,10.0,10.0,7.58,83.5,0.122,popayan cauca,2022,2022,False,False
+#449544,Colombia,1650.0,Washed / Wet,8.0,7.67,7.42,7.58,7.58,7.42,10.0,10.0,10.0,7.33,83.0,0.131,huila,2022,2023,False,False
+#882894,Colombia,1600.0,Washed / Wet,7.75,7.67,7.67,7.75,7.75,7.75,10.0,10.0,10.0,7.75,84.08,0.119,huila,2021,2022,False,False
+#208327,Vietnam,1646.0,Pulped natural / honey,7.5,7.5,7.25,7.42,7.42,7.42,10.0,10.0,10.0,7.33,81.83,0.1119999999999999,lam dong province,2022,2023,False,False
+#274853,Colombia,,,7.83,7.75,7.5,7.58,7.67,7.67,10.0,10.0,10.0,7.67,83.67,0.124,,2022,2022,False,False
+#829408,El Salvador,1400.0,Natural / Dry,7.42,7.33,7.33,7.5,7.08,7.0,10.0,10.0,10.0,7.17,80.83,0.105,"volcan chinchontepek, san vicente",2023,2023,False,False
+#181854,El Salvador,1300.0,Natural / Dry,7.08,7.25,7.08,7.42,7.42,7.08,10.0,10.0,10.0,7.0,80.33,0.115,"volcan chinchontepek, san vicente",2023,2023,False,False
+#322731,El Salvador,1200.0,Washed / Wet,7.33,7.67,7.25,7.67,7.83,7.42,10.0,10.0,10.0,7.17,82.33,0.118,apaneca ilamatepec,2021,2022,False,False
+#112317,El Salvador,1200.0,Washed / Wet,7.5,7.5,7.42,7.42,7.42,7.67,10.0,10.0,10.0,7.42,82.33,0.12,apaneca ilamatepec,2022,2023,False,False
+#840458,El Salvador,1200.0,Washed / Wet,7.67,7.33,7.17,7.67,7.83,7.5,10.0,10.0,10.0,7.33,82.5,0.113,apaneca ilamatepec,2022,2023,False,False
+#955194,Madagascar,1500.0,Washed / Wet,7.92,7.92,7.58,7.75,7.58,7.67,10.0,10.0,10.0,7.83,84.25,0.121,itasy,2022,2022,False,False
+#847918,Indonesia,1350.0,Pulped natural / honey,7.67,7.33,7.25,7.67,7.42,7.25,10.0,10.0,10.0,7.42,82.0,0.125,sumatra,2022,2022,False,False
+#119514,Colombia,1550.0,Washed / Wet,7.67,7.83,7.58,7.92,7.67,7.67,10.0,10.0,10.0,7.67,84.0,0.133,huila,2022,2022,False,False
+#350205,Indonesia,1200.0,,7.83,7.92,7.75,7.83,7.83,7.83,10.0,10.0,10.0,7.83,84.83,0.119,aceh tengah,2022,2022,False,False
+#617945,Taiwan,1300.0,Natural / Dry,8.0,8.17,8.0,7.92,7.92,7.92,10.0,10.0,10.0,8.17,86.08,0.103,"shibi, gukeng township, yunlin county 郵遞區號",2022,2022,False,False
+#356700,Taiwan,1250.0,Washed / Wet,7.67,7.67,7.75,7.75,7.5,7.67,10.0,10.0,10.0,7.67,83.67,0.1,"caoling, gukeng township, yunlin county",2022,2022,False,False
+#814850,Taiwan,1200.0,Natural / Dry,8.08,8.17,7.75,7.92,7.83,8.0,10.0,10.0,10.0,8.17,85.92,0.11,"gukeng township, yunlin county",2021,2022,False,False
+#259403,Taiwan,850.0,Washed / Wet,7.75,7.92,7.75,8.0,7.83,7.92,10.0,10.0,10.0,8.0,85.17,0.103,"caoling, gukeng township, yunlin county",2017,2018,False,False
+#409732,Ethiopia,1943.0,Washed / Wet,7.92,7.83,7.75,7.92,7.58,7.67,10.0,10.0,10.0,7.83,84.5,0.109,,2021,2022,False,False
+#280845,Taiwan,1200.0,,7.67,7.5,7.42,7.75,7.42,7.58,10.0,10.0,10.0,7.58,82.92,0.102,"shibi, gukeng township, yunlin county 郵遞區號",2022,2022,False,False
+#994915,Panama,1200.0,Washed / Wet,7.83,7.83,7.75,7.92,7.83,7.75,10.0,10.0,10.0,7.83,84.75,0.103,boquete,2022,2023,False,False
+#594815,Costa Rica,1500.0,Washed / Wet,7.42,7.42,7.42,7.33,7.58,7.33,10.0,10.0,10.0,7.5,82.0,0.105,corralillo tarrazu,2018,2019,False,False
+#793199,Costa Rica,1200.0,Washed / Wet,7.33,7.42,7.25,7.42,7.42,7.33,10.0,10.0,10.0,7.42,81.58,0.0969999999999999,occidente,2022,2023,False,False
+#444508,Costa Rica,1850.0,Washed / Wet,7.58,7.83,7.5,7.67,7.83,7.67,10.0,10.0,10.0,8.58,84.67,0.1,tarrazu,2022,2023,False,False
+#191702,Costa Rica,1850.0,Washed / Wet,7.58,7.75,7.42,7.67,7.5,7.75,10.0,10.0,10.0,7.67,83.33,0.0,tarrazu,2022,2023,False,False
+#820121,Costa Rica,1850.0,Washed / Wet,7.67,7.92,7.58,7.75,7.67,7.58,10.0,10.0,10.0,7.75,83.92,0.095,tarrazu,2022,2023,False,False
+#777610,"Tanzania, United Republic Of",1654.0,Washed / Wet,7.92,7.75,7.75,7.92,7.83,7.83,10.0,10.0,10.0,7.83,84.83,0.1119999999999999,mbeya,2022,2023,False,False
+#605124,"Tanzania, United Republic Of",1550.0,Washed / Wet,7.75,7.58,7.58,7.92,7.67,7.75,10.0,10.0,10.0,7.75,84.0,0.1159999999999999,kilimanjaro,2022,2023,False,False
+#170699,"Tanzania, United Republic Of",1550.0,Washed / Wet,8.08,8.17,8.08,8.17,8.0,8.0,10.0,10.0,10.0,8.0,86.5,0.11,kilimanjaro,2022,2023,False,False
+#431038,"Tanzania, United Republic Of",1550.0,Washed / Wet,7.92,7.67,7.42,7.5,7.67,7.58,10.0,10.0,10.0,7.5,83.25,0.104,kilimanjaro,2022,2023,False,False
+#778301,"Tanzania, United Republic Of",1675.0,Washed / Wet,7.58,7.67,7.75,7.75,7.75,7.75,10.0,10.0,10.0,7.75,84.0,0.098,arusha,2022,2023,False,False
+#346202,"Tanzania, United Republic Of",1585.0,Washed / Wet,8.17,8.0,7.92,7.92,8.17,7.75,10.0,10.0,10.0,7.92,85.83,0.1,arusha,2022,2023,False,False
+#387213,Kenya,1750.0,Washed / Wet,8.17,7.75,7.83,7.58,7.92,8.0,10.0,10.0,10.0,8.0,85.25,0.092,central,2022,2023,False,False
+#656708,Ethiopia,2000.0,Washed / Wet,7.83,7.67,7.5,7.92,7.5,7.67,10.0,10.0,10.0,7.75,83.83,0.12,sidama,2021,2022,False,False
+164,China,1100.0,Washed / Wet,7.67,8.0,7.75,7.83,7.75,7.58,10.0,10.0,10.0,7.92,84.5,0.0,yunnan,2013,2013,False,False
+978,Philippines,1200.0,Natural / Dry,7.25,7.25,7.25,7.08,7.58,7.5,10.0,10.0,10.0,7.25,81.17,0.0,corillera administrative,2014,2014,False,False
+957,Philippines,1400.0,Washed / Wet,7.08,7.33,7.42,7.33,7.33,7.5,10.0,10.0,10.0,7.33,81.33,0.14,"davao city, region 11",2014,2014,False,False
+990,United States,1707.0,Natural / Dry,7.42,7.17,7.33,7.42,7.25,7.33,10.0,10.0,10.0,7.17,81.08,0.0,central america,2014,2014,False,False
+662,Mexico,1600.0,Washed / Wet,7.42,7.58,7.5,7.67,7.25,7.5,10.0,10.0,10.0,7.58,82.5,0.0,chiapas,2013,2013,False,False
+49,Kenya,1860.0,Washed / Wet,7.92,8.17,7.83,8.5,7.5,7.92,10.0,10.0,10.0,8.17,86.0,0.11,kiambu,2013,2013,False,False
+769,Mexico,1400.0,Washed / Wet,7.5,7.5,7.33,7.42,7.5,7.42,10.0,10.0,10.0,7.5,82.17,0.1,"la concordia, chiapas",2013,2013,False,False
+64,El Salvador,1350.0,Semi-washed / Semi-pulped,7.83,8.0,8.0,7.75,7.92,8.17,10.0,10.0,10.0,7.92,85.58,0.11,"ataco, apaneca ilamatepec mountain range",2012,2012,False,False
+251,Ethiopia,1550.0,Natural / Dry,7.75,7.75,7.5,7.58,7.67,7.92,10.0,10.0,10.0,7.83,84.0,0.09,sidamo,2013,2013,False,False
+1156,Guatemala,1500.0,Washed / Wet,7.58,7.33,7.5,7.33,7.0,7.33,9.33,9.33,9.33,7.67,79.75,0.0,antigua,2012,2012,False,True
+824,Zambia,1250.0,Washed / Wet,7.67,7.08,7.42,7.33,7.75,7.42,10.0,10.0,10.0,7.25,81.92,0.0,mubuyu estate,2014,2014,False,False
+48,Colombia,1825.0,Washed / Wet,7.75,7.92,7.83,8.08,8.08,8.17,10.0,10.0,10.0,8.17,86.0,0.12,tolima,2013,2013,True,True
+237,Guatemala,1550.0,Washed / Wet,7.58,7.75,7.67,8.0,7.75,7.67,10.0,10.0,10.0,7.67,84.08,0.1,"aldea xeucalvitz, ixil region, quiche department",2014,2014,False,False
+155,Costa Rica,1575.0,Semi-washed / Semi-pulped,7.75,7.83,7.75,8.0,7.83,7.67,10.0,10.0,10.0,7.75,84.58,0.12,tres rios,2012,2012,False,False
+1082,El Salvador,1450.0,Washed / Wet,7.33,7.17,7.08,7.08,7.33,7.17,10.0,10.0,10.0,7.25,80.42,0.0,"department of ahuachapan, municipality of apanecallamatepec mountain",2013,2013,False,False
+31,Nicaragua,,,7.92,8.25,8.0,8.33,8.0,8.08,10.0,10.0,10.0,8.0,86.58,0.08,,,,False,False
+104,Mexico,1400.0,,7.92,8.17,7.75,8.08,7.42,7.83,10.0,10.0,10.0,7.83,85.0,0.0,,2010,2011,False,False
+631,Mexico,1400.0,,7.75,7.58,7.25,7.75,7.67,7.58,10.0,10.0,10.0,7.08,82.67,0.0,,2010,2011,False,False
+750,El Salvador,,Washed / Wet,7.75,7.33,7.33,7.5,7.5,7.5,10.0,10.0,10.0,7.33,82.25,0.0,,2012,2012,False,False
+624,El Salvador,,Washed / Wet,7.92,8.0,7.5,6.75,7.92,7.58,10.0,10.0,9.33,7.67,82.67,0.0,,2012,2012,False,False
+674,Guatemala,1600.0,,7.75,7.58,7.67,7.67,7.58,7.58,9.33,10.0,10.0,7.33,82.5,0.01,huehuetenango,,,False,False
+646,Guatemala,,Natural / Dry,7.5,7.58,7.42,7.58,7.42,7.58,10.0,10.0,10.0,7.5,82.58,0.0,,2012,2012,False,False
+691,Honduras,,Washed / Wet,7.25,7.67,7.42,7.17,7.75,7.5,10.0,10.0,10.0,7.67,82.42,0.09,,2012,2012,False,False
+1189,Costa Rica,1350.0,Washed / Wet,7.17,7.42,7.5,8.0,7.25,7.83,10.0,10.0,6.67,7.33,79.17,0.1,san rafael,2012,2012,False,True
+675,Honduras,1500.0,Washed / Wet,7.42,7.67,7.17,7.58,7.58,7.5,10.0,10.0,10.0,7.5,82.42,0.12,comayagua,2017,2017,False,False
+825,Honduras,,Washed / Wet,7.42,7.33,7.33,7.58,7.33,7.5,10.0,10.0,10.0,7.42,81.92,0.11,,2012,2012,False,False
+549,Guatemala,,Washed / Wet,7.58,7.58,7.25,7.58,7.58,7.58,10.0,10.0,10.0,7.75,82.92,0.1,,2012,2012,False,False
+135,Costa Rica,,Washed / Wet,8.08,7.83,7.75,7.83,7.92,8.0,10.0,10.0,9.33,7.92,84.67,0.0,,2012,2012,False,False
+1178,Cote d?Ivoire,200.0,Washed / Wet,7.42,7.25,6.83,7.0,7.33,7.08,9.33,10.0,10.0,7.08,79.33,0.13,cnra station of divo,2016,2016,False,False
+91,Ethiopia,1700.0,Natural / Dry,8.42,8.0,7.42,8.0,7.92,7.92,9.33,10.0,10.0,8.08,85.08,0.1,aricha,2014,2014,False,False
+413,Burundi,1880.0,Washed / Wet,7.75,7.67,7.33,7.5,7.5,7.75,10.0,10.0,10.0,7.83,83.33,0.0,kayanza,2012,2012,False,False
+240,Ethiopia,1800.0,Natural / Dry,7.92,7.92,7.83,8.0,7.92,7.92,10.0,10.0,8.67,7.92,84.08,0.09,sidamo,2012,2012,False,False
+1270,Indonesia,1067.0,Natural / Dry,7.33,7.0,6.5,6.08,7.58,6.33,9.33,10.0,9.33,6.67,76.17,0.12,,2011,2011,False,False
+1169,Guatemala,1326.0,,7.08,7.0,6.83,7.33,7.25,7.0,10.0,10.0,10.0,7.08,79.58,0.17,"chuva, san marcos",2009,2010,False,False
+106,Guatemala,1326.0,,7.83,8.08,7.67,8.0,7.75,7.67,10.0,10.0,10.0,8.0,85.0,0.04,"chuva, san marcos",2009,2010,False,False
+1024,Nicaragua,1050.0,Washed / Wet,7.33,7.08,7.25,7.0,7.5,7.42,10.0,10.0,10.0,7.33,80.92,0.1,matagalpa,2013,2013,False,False
+224,Guatemala,,Washed / Wet,7.67,7.75,7.67,7.75,7.75,7.75,10.0,10.0,10.0,7.83,84.17,0.11,,2013,2013,False,False
+823,Nicaragua,,Washed / Wet,7.58,7.42,7.25,7.17,7.5,7.67,10.0,10.0,10.0,7.33,81.92,0.12,,2013,2013,False,False
+496,Guatemala,,,7.92,7.67,7.67,7.25,7.83,7.67,9.33,10.0,10.0,7.75,83.08,0.02,,,,False,False
+882,Indonesia,1500.0,Semi-washed / Semi-pulped,7.17,7.42,7.33,7.42,7.33,7.42,10.0,10.0,10.0,7.58,81.67,0.11,bener meriah,2013,2013,False,True
+1149,Peru,1600.0,Washed / Wet,7.0,7.08,7.0,7.25,7.5,7.42,9.33,10.0,10.0,7.17,79.75,0.12,huanuco,2013,2013,False,True
+688,Peru,,Washed / Wet,7.58,7.58,7.58,7.75,7.5,7.58,9.33,10.0,10.0,7.5,82.42,0.0,,2013,2013,False,False
+944,Peru,1600.0,Washed / Wet,7.42,7.42,7.17,7.33,7.42,7.42,10.0,10.0,10.0,7.25,81.42,0.1,puno,2013,2013,False,True
+645,Mexico,1200.0,Washed / Wet,7.58,7.58,7.42,7.75,7.67,7.67,9.33,10.0,10.0,7.58,82.58,0.0,veracruz,2014,2014,False,True
+719,Mexico,1200.0,Washed / Wet,7.33,7.58,7.42,7.5,7.5,7.5,10.0,10.0,10.0,7.5,82.33,0.11,veracruz,2014,2014,False,True
+61,Peru,1600.0,Washed / Wet,8.0,8.0,8.0,8.08,7.92,7.75,10.0,10.0,10.0,8.0,85.75,0.1,cajamarca,2013,2013,False,True
+885,Mexico,1200.0,Washed / Wet,7.42,7.42,7.67,8.0,7.58,7.5,9.33,9.33,10.0,7.42,81.67,0.0,veracruz,2014,2014,False,True
+408,Peru,,Washed / Wet,7.83,7.75,7.58,7.83,7.92,7.58,9.33,10.0,10.0,7.5,83.33,0.12,,2013,2013,False,False
+287,Ecuador,800.0,Natural / Dry,7.5,7.67,7.58,7.75,7.83,7.83,10.0,10.0,10.0,7.67,83.83,0.09,province of manabi,2013,2013,False,False
+808,Brazil,1038.5,Natural / Dry,7.33,7.67,7.42,7.17,7.33,7.42,10.0,10.0,10.0,7.67,82.0,0.11,"minas gerais, br",2012,2012,False,False
+226,Brazil,1038.5,Natural / Dry,7.58,7.83,7.75,7.67,7.67,8.0,10.0,10.0,10.0,7.67,84.17,0.11,"minas gerais, br",2012,2012,False,False
+323,Colombia,1625.0,Washed / Wet,7.5,7.75,7.5,7.75,7.67,7.67,10.0,10.0,10.0,7.83,83.67,0.11,huila,2014,2015,False,False
+835,Costa Rica,1900.0,Pulped natural / honey,7.25,7.33,7.5,7.33,7.67,7.42,10.0,10.0,10.0,7.33,81.83,0.0,tarrazu,2016,2016,False,False
+99,Costa Rica,1900.0,Washed / Wet,7.83,8.0,7.58,7.92,7.92,7.83,10.0,10.0,10.0,7.92,85.0,0.12,tarrazu,2016,2016,False,False
+418,Costa Rica,1900.0,Pulped natural / honey,7.5,7.5,7.83,7.5,7.67,7.67,10.0,10.0,10.0,7.58,83.25,0.11,tarrazu,2016,2016,False,False
+1273,Philippines,1000.0,Washed / Wet,6.83,6.5,6.5,6.92,6.75,7.0,9.33,10.0,9.33,6.67,75.83,0.12,"benguet, mountain province",2012,2012,False,False
+1098,Myanmar,914.0,Natural / Dry,8.0,7.08,7.0,7.33,7.08,6.92,10.0,10.0,10.0,6.83,80.25,0.11,"yauk sauk, shan state",2015,2015,False,False
+373,Guatemala,1402.0,Washed / Wet,7.5,7.5,7.75,7.5,8.0,7.67,10.0,10.0,10.0,7.58,83.5,0.0,oriente,2012,2012,False,False
+474,Guatemala,1402.0,Washed / Wet,7.75,7.5,7.67,7.5,7.92,8.0,10.0,10.0,9.33,7.5,83.17,0.0,oriente,2012,2012,False,False
+814,Guatemala,1402.0,Washed / Wet,7.75,7.33,7.33,7.42,7.75,7.67,10.0,10.0,9.33,7.42,82.0,0.0,oriente,2012,2012,False,False
+176,Taiwan,1200.0,Washed / Wet,7.83,7.83,7.75,8.0,7.5,7.75,10.0,10.0,10.0,7.75,84.42,0.11,mountain ali,2012,2012,False,False
+943,Mexico,1550.0,Washed / Wet,7.67,7.33,7.25,7.17,7.25,7.42,10.0,10.0,10.0,7.33,81.42,0.0,siltepec el triunfo,2014,2014,False,False
+1295,Mexico,1200.0,Washed / Wet,7.08,7.08,6.92,7.08,6.92,6.92,8.0,8.0,8.0,6.92,72.92,0.0,sierra alta mixe y zapoteca,2014,2014,False,False
+1222,Mexico,1600.0,Washed / Wet,7.25,6.75,6.92,6.92,7.25,7.58,9.33,9.33,10.0,7.17,78.5,0.0,"sierra, chiapas",2014,2014,False,False
+850,Mexico,1550.0,Washed / Wet,7.42,7.42,7.25,7.5,7.33,7.42,10.0,10.0,10.0,7.5,81.83,0.11,"siltepec el triunfo, chiapas",2014,2014,False,False
+1302,Mexico,1000.0,Washed / Wet,6.92,7.0,6.83,6.92,7.42,6.92,6.0,6.0,10.0,6.75,70.75,0.12,"sierra norte yajalon, chiapas",2014,2014,False,False
+1125,Mexico,1400.0,Washed / Wet,7.58,7.75,7.42,7.5,7.5,7.5,8.67,8.67,10.0,7.42,80.0,0.0,"sierra fraylesca, chiapas",2014,2014,False,False
+1243,Colombia,,,7.42,7.17,7.0,7.17,7.67,7.17,8.67,9.33,9.33,7.08,78.0,0.1,,,,False,False
+241,Costa Rica,,Washed / Wet,7.58,7.75,7.67,7.75,7.83,7.75,10.0,10.0,10.0,7.67,84.0,0.08,,2017,2017,False,False
+543,Mexico,1300.0,Washed / Wet,7.75,7.67,7.42,7.42,7.75,7.5,10.0,10.0,10.0,7.42,82.92,0.12,chiapas,2015,2015,False,False
+1260,Peru,1200.0,Washed / Wet,7.42,7.75,7.42,7.67,7.92,7.83,8.67,5.33,9.33,7.67,77.0,0.0,san ignacio,2014,2014,False,False
+785,Colombia,,Washed / Wet,7.5,7.42,7.42,7.42,7.67,7.42,10.0,10.0,10.0,7.25,82.08,0.11,,2013,2013,False,False
+1248,Brazil,,Washed / Wet,7.0,6.75,6.67,6.83,7.08,6.83,10.0,10.0,10.0,6.67,77.83,0.11,,2014,2014,False,False
+863,Brazil,,Natural / Dry,7.17,7.25,7.17,7.25,7.42,8.25,10.0,10.0,10.0,7.25,81.75,0.1,,2013,2013,False,False
+458,Colombia,,Washed / Wet,7.58,7.75,7.5,7.58,7.58,7.58,10.0,10.0,10.0,7.58,83.17,0.11,,2014,2014,False,False
+1194,United States (Puerto Rico),853.0,Washed / Wet,7.42,7.08,6.75,7.33,7.33,6.92,10.0,9.33,10.0,6.92,79.08,0.13,yauco region,2013,2013,False,False
+510,United States (Puerto Rico),853.0,Washed / Wet,7.67,7.5,7.67,7.83,7.75,7.83,10.0,10.0,9.33,7.42,83.0,0.0,yauco region,2013,2013,False,False
+304,United States (Puerto Rico),853.0,Washed / Wet,7.83,7.83,7.83,7.67,8.0,8.17,9.33,9.33,10.0,7.75,83.75,0.12,yauco region,2013,2013,False,False
+993,United States (Puerto Rico),853.0,Washed / Wet,7.67,7.75,7.67,7.58,7.58,7.67,6.67,10.0,10.0,8.5,81.08,0.0,yauco region,2013,2013,False,False
+962,Brazil,1100.0,Natural / Dry,7.5,7.58,7.5,7.5,7.75,7.83,9.33,9.33,9.33,7.58,81.33,0.11,matas de minas,,,False,False
+735,Brazil,1100.0,Washed / Wet,7.58,7.5,7.25,7.42,7.67,7.33,10.0,10.0,10.0,7.5,82.25,0.09,brazil matas de minas,,,False,False
+1213,China,1850.0,Washed / Wet,7.0,6.92,6.83,7.17,7.17,7.17,10.0,10.0,9.33,7.08,78.67,0.0,yunnan,2013,2013,False,False
+1083,China,1700.0,Washed / Wet,7.25,7.08,7.25,7.17,7.33,7.17,10.0,10.0,10.0,7.17,80.42,0.17,yunnan,2013,2013,False,False
+115,Kenya,,,8.0,7.67,7.83,8.17,7.92,7.75,10.0,10.0,10.0,7.58,84.92,0.06,,2009,2010,False,False
+988,Brazil,695.0,Natural / Dry,7.58,7.42,7.5,7.25,7.75,7.58,9.33,10.0,9.33,7.33,81.08,0.11,alta paulista,2016,2016,False,False
+726,Costa Rica,1300.0,Washed / Wet,7.92,7.58,7.25,7.75,7.92,7.58,9.33,9.33,10.0,7.67,82.33,0.0,central valley,2012,2012,False,True
+564,Rwanda,1900.0,Washed / Wet,7.83,7.92,7.75,7.83,7.75,7.75,9.33,9.33,9.33,8.0,82.83,0.11,gicumbi,2015,2015,False,False
+1238,United States (Hawaii),620.0,Natural / Dry,7.58,7.33,7.5,7.42,7.5,7.33,8.0,8.67,9.33,7.33,78.0,0.12,kona,2014,2014,False,True
+1258,United States (Hawaii),620.0,Natural / Dry,7.08,6.92,6.83,6.67,7.58,7.42,8.67,9.33,10.0,6.75,77.25,0.12,kona,2013,2013,False,True
+1132,United States (Hawaii),620.0,Natural / Dry,7.5,7.0,7.0,6.92,7.33,7.17,10.0,10.0,10.0,7.0,79.92,0.11,kona,2014,2014,False,True
+1019,United States (Hawaii),620.0,Natural / Dry,7.42,7.08,7.17,7.17,7.58,7.25,10.0,10.0,10.0,7.25,80.92,0.1,kona,2014,2014,False,True
+1268,United States (Hawaii),620.0,Natural / Dry,7.5,7.33,7.33,7.58,7.67,7.25,8.0,8.0,8.0,7.5,76.17,0.0,kona,2013,2013,False,True
+406,United States (Hawaii),620.0,Natural / Dry,7.83,7.58,7.83,7.67,7.92,8.0,9.33,10.0,9.33,7.83,83.33,0.11,kona,2014,2014,False,True
+92,United States (Hawaii),620.0,Natural / Dry,7.58,7.83,7.83,7.92,7.83,8.17,10.0,10.0,10.0,7.92,85.08,0.11,kona,2014,2014,False,True
+1267,United States (Hawaii),620.0,Natural / Dry,7.25,7.08,6.83,7.17,7.33,6.83,8.67,8.67,9.33,7.08,76.25,0.0,kona,2014,2014,False,True
+462,United States (Hawaii),620.0,Natural / Dry,7.5,7.5,7.58,7.42,7.92,7.67,10.0,10.0,10.0,7.58,83.17,0.11,kona,2013,2013,False,True
+597,United States (Hawaii),620.0,Natural / Dry,7.67,7.58,7.42,7.83,7.33,7.5,10.0,10.0,10.0,7.42,82.75,0.1,kona,2013,2013,False,True
+1227,United States (Hawaii),620.0,Natural / Dry,7.5,7.75,7.58,7.83,7.92,7.92,7.33,8.0,8.67,7.83,78.33,0.1,kona,2014,2014,False,True
+598,United States (Hawaii),620.0,Natural / Dry,7.58,7.83,7.75,7.75,7.42,8.0,9.33,9.33,10.0,7.75,82.75,0.1,kona,2013,2013,False,True
+1101,United States (Hawaii),620.0,Natural / Dry,7.5,7.08,7.67,7.67,7.42,7.58,9.33,9.33,9.33,7.33,80.25,0.12,kona,2014,2014,False,True
+487,United States (Hawaii),620.0,Natural / Dry,7.33,7.75,7.58,7.33,7.83,7.67,10.0,10.0,10.0,7.58,83.08,0.12,kona,2013,2013,False,True
+1297,United States (Hawaii),620.0,Natural / Dry,6.92,6.92,6.92,7.5,7.58,7.17,6.67,6.67,9.33,6.92,72.58,0.11,kona,2014,2014,False,True
+1077,United States (Hawaii),620.0,Natural / Dry,7.42,7.33,7.33,7.58,7.58,7.42,8.67,10.0,10.0,7.17,80.5,0.11,kona,2013,2013,False,True
+1208,United States (Hawaii),620.0,Natural / Dry,7.5,6.92,6.92,7.25,7.58,7.42,9.33,9.33,9.33,7.17,78.75,0.12,kona,2013,2013,False,True
+1287,United States (Hawaii),620.0,Natural / Dry,7.5,7.25,7.0,7.25,7.42,7.33,8.0,8.67,6.67,7.33,74.42,0.0,kona,2014,2014,False,True
+1232,United States (Hawaii),620.0,Natural / Dry,7.5,7.5,7.33,7.58,7.5,7.42,8.67,8.67,8.67,7.42,78.25,0.11,kona,2014,2014,False,True
+713,Brazil,1268.0,Natural / Dry,8.25,7.83,7.25,8.33,8.17,8.08,10.0,6.67,10.0,7.75,82.33,0.07,south of minas,2015,2016,False,False
+252,Brazil,1260.0,Natural / Dry,7.58,7.83,7.67,7.25,8.0,7.75,10.0,10.0,10.0,7.92,84.0,0.1,south of minas,2013,2014,False,False
+717,Brazil,1100.0,Natural / Dry,7.75,8.08,7.67,8.08,8.08,8.0,10.0,10.0,6.67,8.0,82.33,0.11,south of minas,2014,2015,False,False
+881,Brazil,1260.0,Washed / Wet,7.25,7.42,7.25,7.5,7.5,7.42,10.0,10.0,10.0,7.33,81.67,0.1,south of minas,2014,2015,False,False
+663,Brazil,1260.0,Semi-washed / Semi-pulped,7.42,7.5,7.67,7.33,7.42,7.67,10.0,10.0,10.0,7.5,82.5,0.11,south of minas,2013,2014,False,False
+1064,Brazil,1200.0,Semi-washed / Semi-pulped,7.42,7.25,7.33,7.0,7.08,7.25,10.0,10.0,10.0,7.25,80.58,0.0,south of minas,2014,2015,False,False
+1023,Brazil,1100.0,Natural / Dry,7.17,7.42,7.17,7.25,7.25,7.33,10.0,10.0,10.0,7.33,80.92,0.1,south of minas,2014,2015,False,False
+400,Brazil,1227.0,Semi-washed / Semi-pulped,7.5,7.83,7.33,7.58,7.58,7.92,10.0,10.0,10.0,7.58,83.33,0.1,south of minas,2015,2016,False,False
+742,Brazil,1100.0,Natural / Dry,7.75,7.58,7.42,7.42,7.33,7.33,10.0,10.0,10.0,7.42,82.25,0.11,south of minas,2014,2015,False,False
+941,Brazil,1100.0,Natural / Dry,7.25,7.5,7.42,7.17,7.33,7.33,10.0,10.0,10.0,7.42,81.42,0.0,south of minas,2014,2015,False,False
+689,Brazil,1260.0,Natural / Dry,7.25,7.33,7.25,7.5,7.42,7.5,10.0,10.0,10.0,8.17,82.42,0.0,south of minas,2013,2014,False,False
+283,Brazil,1200.0,Semi-washed / Semi-pulped,7.67,7.67,7.58,7.5,7.83,8.17,10.0,10.0,9.33,8.08,83.83,0.0,south of minas,2014,2015,False,False
+286,Brazil,1260.0,Natural / Dry,7.92,7.5,7.33,7.67,8.17,7.5,10.0,10.0,10.0,7.75,83.83,0.1,south of minas,2013,2014,False,False
+485,Brazil,1200.0,Washed / Wet,7.58,7.83,7.67,7.42,7.42,7.5,10.0,10.0,10.0,7.67,83.08,0.0,south of minas,2014,2015,False,False
+848,Brazil,1100.0,Natural / Dry,7.33,7.58,7.25,7.17,7.83,7.33,10.0,10.0,10.0,7.33,81.83,0.11,south of minas,2014,2015,False,False
+1261,India,,Natural / Dry,7.67,7.33,7.17,6.67,7.17,7.42,9.33,10.0,6.67,7.42,76.83,0.0,chickmangalore,2016,2016,False,False
+569,United States,1200.0,Other,7.42,7.58,7.25,7.5,7.75,7.75,10.0,10.0,10.0,7.58,82.83,0.0,berastagi,2014,2014,False,False
+606,Panama,1100.0,Washed / Wet,7.42,7.42,7.5,7.58,7.5,7.75,10.0,10.0,10.0,7.58,82.75,0.0,boquete,2012,2012,False,False
+261,Thailand,1350.0,Natural / Dry,7.67,7.75,7.5,7.67,7.67,7.83,10.0,10.0,10.0,7.83,83.92,0.1,chiangrai,2015,2015,False,False
+409,Haiti,1280.0,Washed / Wet,7.58,7.5,7.67,7.5,7.83,7.42,10.0,10.0,10.0,7.83,83.33,0.11,thiotte,2012,2012,False,False
+1240,China,1200.0,Washed / Wet,7.33,7.17,6.92,7.08,7.33,7.0,9.33,9.33,9.33,7.17,78.0,0.1,yunnan,2013,2013,False,False
+1051,Indonesia,1350.0,Semi-washed / Semi-pulped,7.58,7.42,7.0,7.67,7.5,7.5,9.33,9.33,10.0,7.33,80.67,0.13,sumatra brastagi,2015,2015,False,False
+173,Indonesia,1400.0,Other,7.67,7.67,7.83,7.58,7.83,7.83,10.0,10.0,10.0,8.0,84.42,0.0,sumatra brastagi,2017,2017,False,False
+837,Indonesia,1250.0,Other,7.75,7.83,7.58,7.75,7.92,7.83,10.0,10.0,10.0,5.17,81.83,0.11,bali,2015,2015,False,False
+359,Indonesia,1500.0,Semi-washed / Semi-pulped,7.25,7.67,7.58,7.92,7.83,7.58,10.0,10.0,10.0,7.67,83.5,0.13,bener meriah,2015,2015,False,False
+1117,Nicaragua,,Natural / Dry,7.25,7.17,6.92,7.25,7.17,7.25,10.0,10.0,10.0,7.08,80.08,0.1,,2013,2013,False,False
+1102,Colombia,,Washed / Wet,7.42,8.0,7.83,7.75,8.08,7.58,8.67,8.67,8.67,7.58,80.25,0.1,,2012,2012,False,False
+1296,Colombia,,Natural / Dry,8.0,7.33,7.75,7.33,7.42,7.67,6.67,6.67,6.67,7.33,72.83,0.0,,2013,2013,False,False
+1192,Mexico,1200.0,,6.75,6.75,6.83,7.25,7.58,7.08,10.0,10.0,10.0,6.92,79.17,0.01,"pluma hidalogo, oaxaca",2008,2009,False,False
+1262,Mexico,1200.0,,6.67,6.33,6.42,6.83,7.0,6.92,10.0,10.0,10.0,6.58,76.75,0.0,"pluma hidalogo, oaxaca",2008,2009,False,False
+143,Peru,1600.0,,7.67,7.83,7.75,7.75,7.92,7.83,10.0,10.0,10.0,7.92,84.67,0.0,"penachi, cecanor",,,False,True
+190,Ethiopia,1493.0,,7.75,7.75,7.92,7.75,7.5,7.92,10.0,10.0,10.0,7.75,84.33,0.0,limu,,,False,False
+910,Costa Rica,1600.0,,7.25,7.17,7.33,7.33,7.5,7.75,10.0,10.0,10.0,7.25,81.58,0.0,tarrazu,,,False,False
+41,Thailand,1300.0,Washed / Wet,7.83,8.33,7.83,8.25,7.58,7.92,10.0,10.0,10.0,8.42,86.17,0.1,chiang rai,2012,2012,False,False
+541,Philippines,1600.0,Washed / Wet,8.08,7.5,7.67,7.42,7.33,7.5,10.0,10.0,10.0,7.42,82.92,0.0,asia pacific,2014,2014,False,False
+629,Colombia,1800.0,,7.33,7.58,7.42,7.42,7.67,7.67,10.0,10.0,10.0,7.58,82.67,0.11,52 narino exact location mattituy municipal region florida code 381,2011,2011,False,False
+503,Vietnam,1550.0,Other,7.75,7.67,7.58,7.58,7.42,7.67,9.33,10.0,10.0,8.0,83.0,0.0,vietnam cau dat,2014,2014,False,False
+445,Vietnam,1550.0,Natural / Dry,7.58,7.42,7.08,7.33,7.58,8.58,10.0,10.0,10.0,7.58,83.17,0.07,dala,2017,2017,False,False
+565,Vietnam,1040.0,Other,7.25,7.58,7.5,7.42,7.75,7.42,10.0,10.0,10.0,7.92,82.83,0.11,vietnam tutra,2014,2014,False,False
+861,Vietnam,1040.0,Washed / Wet,7.0,7.08,7.33,7.5,7.5,7.33,10.0,10.0,10.0,8.0,81.75,0.12,,2014,2014,False,False
+1106,Vietnam,1550.0,Other,7.42,7.25,7.25,7.58,7.42,7.33,8.67,10.0,10.0,7.25,80.17,0.0,dala,2017,2017,False,False
+555,Vietnam,1040.0,Natural / Dry,7.67,7.33,7.17,7.58,8.08,7.42,10.0,10.0,10.0,7.67,82.92,0.0,don duong,2012,2012,False,False
+791,Vietnam,1040.0,Natural / Dry,7.67,8.0,7.17,7.08,7.67,7.08,10.0,10.0,10.0,7.42,82.08,0.12,don duong,2012,2012,False,False
+1104,Guatemala,1400.0,Washed / Wet,7.0,7.17,7.33,7.33,7.0,7.17,10.0,10.0,10.0,7.25,80.25,0.11,oriente,2012,2012,False,False
+774,Guatemala,1350.0,Washed / Wet,7.25,7.75,7.0,7.75,8.17,7.75,10.0,10.0,9.33,7.17,82.17,0.12,oriente,2012,2012,False,False
+311,Guatemala,1300.0,Washed / Wet,7.67,7.58,7.58,7.67,7.75,7.75,10.0,10.0,10.0,7.75,83.75,0.11,quetzaltenango,2012,2012,False,False
+330,Guatemala,1450.0,Natural / Dry,8.17,8.17,7.83,7.67,8.08,7.75,9.33,9.33,9.33,8.0,83.67,0.11,oriente,2012,2012,False,False
+88,Guatemala,1400.0,Washed / Wet,8.25,8.0,7.67,7.92,7.75,7.67,10.0,10.0,10.0,7.92,85.17,0.0,huehuetenango,2012,2012,False,False
+1046,Costa Rica,1300.0,Washed / Wet,7.33,7.33,7.25,7.25,7.17,7.17,10.0,10.0,10.0,7.25,80.75,0.11,san ramon,2014,2014,False,False
+1179,Colombia,1411.0,Washed / Wet,7.42,7.25,6.75,7.25,7.42,7.25,9.33,9.33,10.0,7.33,79.33,0.0,pereira,2013,2013,True,True
+984,Guatemala,1450.0,Washed / Wet,7.42,7.25,7.33,7.25,7.25,7.42,10.0,10.0,10.0,7.25,81.17,0.12,oriente,2012,2012,False,False
+405,Costa Rica,1300.0,Washed / Wet,7.67,7.67,7.42,7.67,7.67,7.67,10.0,10.0,10.0,7.58,83.33,0.12,san ramon,2014,2014,False,False
+22,Costa Rica,1300.0,Washed / Wet,8.08,8.25,8.0,8.17,8.0,8.33,10.0,10.0,10.0,8.33,87.17,0.11,san ramon,2014,2014,False,False
+1150,Costa Rica,1100.0,Washed / Wet,7.58,7.5,7.67,7.75,7.67,7.58,8.0,8.0,10.0,8.0,79.75,0.1,brunca,2013,2013,False,False
+124,El Salvador,1200.0,,7.75,8.0,8.0,8.33,7.67,7.92,10.0,10.0,9.33,7.75,84.75,0.15,santa ana,2010,2011,False,False
+79,Costa Rica,1300.0,Washed / Wet,8.0,7.58,7.58,7.67,8.08,8.5,10.0,10.0,10.0,7.92,85.33,0.1,san ramon,2014,2014,False,False
+191,Guatemala,1387.0,,7.5,7.67,7.75,7.67,7.92,7.92,10.0,10.0,10.0,7.92,84.33,0.04,nuevo oriente,2009,2010,False,False
+477,El Salvador,1200.0,,7.42,7.83,8.17,8.08,7.17,7.58,10.0,9.33,10.0,7.58,83.17,0.14,santa ana,2010,2011,False,False
+578,El Salvador,1200.0,,7.75,7.58,7.75,7.75,7.25,7.5,10.0,10.0,10.0,7.25,82.83,0.0,santa ana,2010,2011,False,False
+78,Costa Rica,1300.0,Washed / Wet,7.92,8.08,8.0,7.92,8.0,8.08,10.0,10.0,9.33,8.0,85.33,0.0,west valley,2014,2014,False,False
+1048,Haiti,1000.0,Washed / Wet,7.42,7.0,7.42,7.25,7.08,7.33,10.0,10.0,10.0,7.25,80.75,0.12,,2012,2012,False,False
+1298,Haiti,1020.0,,6.92,6.75,7.08,7.17,7.33,6.67,10.0,5.33,8.67,6.42,72.33,0.08,marmelade,2010,2010,False,False
+1308,Haiti,350.0,Natural / Dry,6.75,6.58,6.42,6.67,7.08,6.67,9.33,6.0,6.0,6.42,67.92,0.14,department d artibonite,2012,2012,False,False
+922,Haiti,825.0,Washed / Wet,7.42,7.33,7.25,7.42,7.42,7.33,10.0,10.0,10.0,7.33,81.5,0.11,dondon,2013,2013,False,False
+1257,Haiti,825.0,Washed / Wet,6.83,6.83,6.83,6.75,6.92,6.92,9.33,10.0,10.0,6.83,77.25,0.1,dondon,2013,2013,False,False
+17,Indonesia,1500.0,,8.33,8.25,7.83,7.75,8.5,8.42,10.0,10.0,10.0,8.33,87.42,0.03,sulawesi,,,False,False
+125,Nicaragua,925.0,,7.83,7.58,7.58,7.83,7.75,7.67,10.0,10.0,10.0,8.5,84.75,0.18,jinotega,2009,2010,False,False
+75,El Salvador,1400.0,,8.08,7.83,7.83,8.08,7.83,7.83,10.0,10.0,10.0,7.92,85.42,0.01,apaneca,2009,2010,False,False
+14,United States (Hawaii),2000.0,,8.33,8.42,8.08,8.25,8.25,8.0,10.0,10.0,10.0,8.58,87.92,0.0,kona,2009,2010,False,False
+396,Mexico,1050.0,,7.25,7.88,7.38,7.63,7.5,8.75,9.0,10.0,10.0,8.0,83.38,0.09,nayarit,,,False,False
+532,Nicaragua,1200.0,,7.58,7.83,7.75,7.92,7.92,8.08,9.33,9.33,9.33,7.92,83.0,0.07,matagalpa,2009,2010,False,True
+3,Guatemala,1700.0,,8.42,8.5,8.42,8.42,8.33,8.42,10.0,10.0,10.0,9.25,89.75,0.0,,,,False,False
+52,United States (Hawaii),427.0,,8.33,8.17,7.75,8.0,7.75,7.83,10.0,10.0,10.0,8.17,86.0,0.0,kona,2009,2009,False,False
+1076,Brazil,1250.0,Semi-washed / Semi-pulped,7.42,7.42,7.08,7.33,7.67,7.5,9.33,9.33,10.0,7.42,80.5,0.1,mantiqueira de minas,2013,2013,False,False
+42,Brazil,1200.0,,8.17,7.92,7.92,7.75,8.33,8.0,10.0,10.0,10.0,8.08,86.17,0.08,sul de minas carmo de minas,2010,2010,False,False
+43,Brazil,1200.0,,8.42,7.92,8.0,7.75,7.92,8.0,10.0,10.0,10.0,8.17,86.17,0.01,sul de minas carmo de minas,2010,2010,False,False
+853,Brazil,1250.0,Semi-washed / Semi-pulped,7.75,7.75,7.5,7.42,7.83,7.75,9.33,9.33,9.33,7.83,81.83,0.12,sul de minas,2012,2012,False,False
+513,Brazil,1250.0,Semi-washed / Semi-pulped,7.75,7.58,7.42,7.67,7.42,7.67,10.0,10.0,10.0,7.5,83.0,0.12,sul de minas,2013,2014,False,False
+921,Brazil,1200.0,Semi-washed / Semi-pulped,7.58,7.5,7.5,7.67,7.67,7.83,9.33,9.33,9.33,7.75,81.5,0.0,sul de minas,2014,2014,False,False
+87,Indonesia,1325.0,Semi-washed / Semi-pulped,7.75,7.83,7.67,8.0,8.08,7.83,10.0,10.0,10.0,8.0,85.17,0.11,lintong,2012,2012,False,False
+63,El Salvador,1500.0,Washed / Wet,7.92,8.17,8.0,7.92,7.75,7.83,10.0,10.0,10.0,8.0,85.58,0.1,apaneca,2013,2013,False,False
+228,El Salvador,1500.0,Natural / Dry,8.42,8.08,7.5,7.17,7.58,8.17,9.33,10.0,10.0,7.92,84.17,0.11,apaneca,2013,2013,False,False
+62,Papua New Guinea,1700.0,Washed / Wet,8.33,8.42,7.83,8.33,8.0,8.25,9.33,9.33,10.0,7.92,85.75,0.12,eastern highlands province,2012,2012,False,False
+293,Thailand,1500.0,,7.75,7.75,7.58,8.0,7.67,7.58,10.0,10.0,10.0,7.5,83.83,0.02,"doi chaang village, chiang rai, thialand",2011,2011,False,False
+908,Thailand,1500.0,,7.08,7.33,7.58,7.58,7.17,7.5,10.0,10.0,10.0,7.33,81.58,0.01,"doi chaang village, chiang rai, thialand",2011,2011,False,False
+1201,Peru,1400.0,Washed / Wet,7.67,7.17,7.08,7.25,8.0,7.5,8.67,9.33,9.33,7.0,79.0,0.0,san ignacio,2012,2012,False,False
+395,Thailand,,,7.58,7.25,7.5,7.92,7.92,7.42,10.0,10.0,10.0,7.83,83.42,0.11,,,,False,False
+559,Thailand,,,7.42,7.58,7.5,7.17,7.5,8.0,10.0,10.0,10.0,7.75,82.92,0.0,,,,False,False
+533,Thailand,,,7.5,7.25,7.42,7.75,8.17,7.5,10.0,10.0,10.0,7.42,83.0,0.0,,,,False,False
+803,Thailand,800.0,Washed / Wet,7.58,7.5,7.42,7.42,7.33,7.42,10.0,10.0,10.0,7.33,82.0,0.11,,2013,2013,False,False
+1127,Thailand,800.0,Washed / Wet,7.33,6.67,7.08,7.42,7.42,7.08,10.0,10.0,10.0,7.0,80.0,0.0,,2012,2012,False,False
+322,Thailand,800.0,Washed / Wet,7.5,7.75,7.58,7.83,7.67,7.58,10.0,10.0,10.0,7.75,83.67,0.12,,2014,2014,False,False
+1165,Thailand,,,7.17,7.17,7.0,7.0,7.25,6.92,10.0,10.0,10.0,7.17,79.67,0.0,,,,False,False
+454,Thailand,800.0,Washed / Wet,7.67,7.58,7.58,7.75,7.42,7.67,10.0,10.0,10.0,7.5,83.17,0.12,,2014,2014,False,False
+626,Thailand,,Washed / Wet,7.83,7.33,7.83,7.33,7.58,7.83,10.0,10.0,9.33,7.58,82.67,0.12,,2012,2012,False,False
+294,Thailand,,,7.5,7.83,7.58,7.58,7.75,7.83,10.0,10.0,10.0,7.75,83.83,0.01,,2011,2011,False,False
+255,Thailand,,Washed / Wet,7.92,8.17,8.17,8.42,8.08,8.17,8.67,8.67,9.33,8.42,84.0,0.12,,2012,2012,False,False
+640,Thailand,800.0,Washed / Wet,7.75,7.33,7.42,7.67,7.42,7.5,10.0,10.0,10.0,7.5,82.58,0.12,,2014,2014,False,False
+1011,Thailand,800.0,Washed / Wet,7.33,7.42,7.25,7.42,7.25,7.17,10.0,10.0,10.0,7.17,81.0,0.0,,2012,2012,False,False
+658,Thailand,800.0,Washed / Wet,7.5,7.83,7.5,7.75,7.33,7.42,9.33,10.0,10.0,7.83,82.5,0.12,,2014,2014,False,False
+909,Thailand,,,7.33,7.33,7.17,7.5,7.58,7.33,10.0,10.0,10.0,7.33,81.58,0.2,,2011,2011,False,False
+258,Thailand,,,7.58,7.75,7.58,7.75,7.58,7.75,10.0,10.0,10.0,8.0,84.0,0.06,,2011,2011,False,False
+1148,Thailand,800.0,Washed / Wet,7.25,7.08,6.92,7.5,7.08,6.92,10.0,10.0,10.0,7.0,79.75,0.12,,2013,2013,False,False
+1160,Thailand,800.0,Washed / Wet,6.92,7.17,6.83,7.42,7.17,7.08,10.0,10.0,10.0,7.08,79.67,0.12,,2013,2013,False,False
+527,Thailand,,,7.33,7.67,7.58,7.5,7.75,7.67,10.0,10.0,10.0,7.5,83.0,0.28,,2011,2011,False,False
+1030,Thailand,,,7.67,7.58,7.33,7.33,7.17,7.0,10.0,10.0,10.0,6.83,80.92,0.0,,,,False,False
+763,Thailand,800.0,Washed / Wet,7.42,7.42,7.17,7.75,7.25,7.67,10.0,10.0,10.0,7.5,82.17,0.12,,2014,2014,False,False
+44,Taiwan,1000.0,Semi-washed / Semi-pulped,8.08,8.17,7.75,8.08,7.75,7.83,10.0,10.0,10.0,8.42,86.08,0.12,natou county,2015,2015,False,False
+807,Taiwan,650.0,Washed / Wet,7.42,7.58,7.33,7.42,8.0,7.5,9.33,10.0,10.0,7.42,82.0,0.12,"dongshan dist, tainan city 臺南市東山區",2012,2012,False,False
+771,Taiwan,800.0,Washed / Wet,7.67,7.5,7.5,7.17,7.17,7.58,10.0,10.0,10.0,7.58,82.17,0.0,"dongshan dist, tainan city 臺南市東山區",2012,2012,False,False
+116,Taiwan,350.0,Natural / Dry,7.92,7.58,7.83,7.83,7.83,7.83,10.0,10.0,10.0,8.0,84.83,0.0,"dongshan dist, tainan city 臺南市東山區",2016,2016,False,False
+1146,Taiwan,1000.0,Natural / Dry,7.75,7.33,7.17,7.33,7.67,7.83,9.33,9.33,8.67,7.33,79.75,0.0,"taiwu township, pingtung county 屏東縣泰武鄉",2014,2014,False,False
+1218,Taiwan,800.0,Washed / Wet,6.83,6.75,7.17,7.25,7.0,6.92,10.0,10.0,10.0,6.67,78.58,0.1,"dongshan dist, tainan city 臺南市東山區",2013,2013,False,False
+425,Taiwan,1000.0,Washed / Wet,7.67,7.5,7.5,7.5,7.67,7.83,10.0,10.0,10.0,7.58,83.25,0.1,natou county,2015,2015,False,False
+1005,Taiwan,758.0,Washed / Wet,7.25,7.17,7.17,7.25,7.5,7.33,10.0,10.0,10.0,7.33,81.0,0.12,"dongshan dist, tainan city 臺南市東山區",2015,2015,False,False
+1183,Taiwan,850.0,Washed / Wet,7.08,6.83,6.83,7.25,7.42,7.08,10.0,10.0,10.0,6.75,79.25,0.11,natou county,2014,2014,False,False
+902,Taiwan,850.0,Semi-washed / Semi-pulped,7.33,7.17,7.08,7.08,8.33,8.25,10.0,10.0,9.33,7.0,81.58,0.0,natou county,2014,2014,False,False
+845,Taiwan,700.0,Washed / Wet,7.67,7.33,7.17,7.25,7.75,7.33,10.0,10.0,10.0,7.33,81.83,0.0,"dongshan dist, tainan city 臺南市東山區",2014,2014,False,False
+263,Taiwan,1200.0,Washed / Wet,7.83,7.75,7.83,7.75,7.83,7.75,9.33,10.0,10.0,7.83,83.92,0.11,"leye, alishan township, chiayi county 嘉義阿里山樂野村",2015,2015,False,False
+1147,Taiwan,600.0,Washed / Wet,7.08,7.08,7.25,7.0,7.17,7.17,10.0,10.0,10.0,7.0,79.75,0.1,"baihe dist, tainan city 臺南市白河區",2013,2013,False,False
+483,Taiwan,750.0,Natural / Dry,7.83,7.92,7.5,7.83,7.67,7.25,9.33,10.0,10.0,7.75,83.08,0.0,"dongshan dist, tainan city 臺南市東山區",2015,2015,False,False
+192,Taiwan,1000.0,Washed / Wet,7.92,7.75,7.75,7.67,7.67,7.83,10.0,10.0,10.0,7.67,84.25,0.12,國姓鄉 guoshing township,2016,2016,False,False
+898,Taiwan,800.0,Washed / Wet,7.42,7.42,7.25,7.67,7.33,7.25,10.0,10.0,10.0,7.25,81.58,0.1,natou county,2016,2016,False,False
+299,Taiwan,750.0,Natural / Dry,7.67,7.67,7.58,7.58,7.67,7.83,10.0,10.0,10.0,7.75,83.75,0.0,台南市東山區,2016,2016,False,False
+281,Taiwan,525.0,Washed / Wet,7.67,7.75,7.67,7.75,7.42,7.75,10.0,10.0,10.0,7.83,83.83,0.0,"dongshan dist, tainan city 臺南市東山區",2014,2014,False,False
+802,Taiwan,600.0,Washed / Wet,7.33,7.5,7.17,7.42,7.5,7.33,10.0,10.0,10.0,7.75,82.0,0.09,"dongshan dist, tainan city 臺南市東山區",2013,2013,False,False
+963,Taiwan,680.0,Natural / Dry,7.83,7.75,7.67,7.83,7.83,7.75,9.33,10.0,10.0,5.25,81.25,0.12,"dongshan dist, tainan city 台南市東山區",2015,2015,False,False
+635,Taiwan,1050.0,Pulped natural / honey,7.67,7.42,7.5,7.42,7.58,7.5,10.0,10.0,10.0,7.5,82.58,0.11,國姓鄉 guoshing township,2016,2016,False,False
+1250,Taiwan,775.0,Washed / Wet,7.17,6.75,6.58,7.33,7.33,7.17,9.33,9.33,10.0,6.67,77.67,0.11,"dongshan dist, tainan city 臺南市東山區",2012,2012,False,False
+109,Taiwan,800.0,Semi-washed / Semi-pulped,7.67,7.83,8.0,7.58,8.0,7.92,10.0,10.0,10.0,7.92,84.92,0.11,natou county,2015,2015,False,False
+320,Taiwan,1200.0,Natural / Dry,7.5,7.67,7.33,7.92,7.83,7.67,10.0,10.0,10.0,7.75,83.67,0.1,"leye, alishan township, chiayi county",2015,2015,False,False
+234,Taiwan,968.0,Washed / Wet,7.58,7.67,7.67,7.67,7.75,7.83,10.0,10.0,10.0,7.92,84.08,0.1,"nanxi dist, tainan city 臺南市楠西區",2016,2016,False,False
+586,Taiwan,650.0,Natural / Dry,7.83,7.67,7.33,7.67,7.58,7.67,9.33,10.0,10.0,7.67,82.75,0.0,台南市東山區,2016,2016,False,False
+30,Taiwan,1200.0,Pulped natural / honey,8.0,8.0,8.0,8.25,8.0,8.17,10.0,10.0,10.0,8.17,86.58,0.0,"leye, alishan township, chiayi county",2015,2015,False,False
+1236,Taiwan,650.0,Washed / Wet,7.5,7.08,7.33,7.17,7.5,7.5,6.67,10.0,10.0,7.25,78.0,0.0,台南市東山區,2016,2016,False,False
+537,Taiwan,350.0,Natural / Dry,7.17,7.83,7.25,7.67,7.67,7.58,10.0,10.0,10.0,7.75,82.92,0.09,"dongshan dist, tainan city 臺南市東山區",2016,2016,False,False
+920,Taiwan,900.0,Washed / Wet,7.42,7.33,7.67,7.33,7.42,7.5,10.0,10.0,9.33,7.5,81.5,0.11,natou county,2014,2014,False,False
+1251,United States (Hawaii),620.0,Natural / Dry,7.58,7.67,7.58,7.67,7.42,7.42,9.33,9.33,6.0,7.58,77.58,0.12,kona,2013,2013,False,True
+38,United States (Hawaii),620.0,,8.25,8.42,8.08,7.75,7.67,7.83,10.0,10.0,10.0,8.25,86.25,0.0,kona,2010,2010,False,True
+416,United States (Hawaii),,,7.58,7.67,7.58,7.5,7.83,7.67,10.0,10.0,10.0,7.5,83.33,0.0,,,,False,False
+1114,United States (Hawaii),620.0,,7.58,7.5,7.33,7.33,7.67,7.33,9.33,9.33,9.33,7.42,80.17,0.05,kona,,,False,True
+745,United States (Hawaii),620.0,Natural / Dry,7.33,7.42,7.5,7.67,7.5,7.42,10.0,10.0,10.0,7.42,82.25,0.0,kona,2013,2013,False,True
+177,United States (Hawaii),620.0,Natural / Dry,7.92,7.92,7.5,7.83,7.5,7.92,10.0,10.0,10.0,7.83,84.42,0.11,kona,2012,2012,False,True
+1093,United States (Hawaii),620.0,Washed / Wet,7.17,7.5,6.92,7.33,7.67,7.33,9.33,10.0,10.0,7.08,80.33,0.12,kona,2012,2012,False,True
+852,United States (Hawaii),620.0,Natural / Dry,7.83,7.83,7.83,8.0,7.83,7.83,10.0,6.67,10.0,8.0,81.83,0.0,kona,2012,2012,False,True
+65,United States (Hawaii),620.0,Natural / Dry,7.83,8.0,7.92,7.75,8.08,8.0,10.0,10.0,10.0,8.0,85.58,0.0,kona,2012,2012,False,True
+630,United States (Hawaii),620.0,,7.83,7.67,7.5,7.67,7.5,7.58,10.0,10.0,9.33,7.58,82.67,0.03,kona,,,False,True
+105,United States (Hawaii),620.0,,7.75,7.92,7.75,7.75,8.0,8.0,10.0,10.0,10.0,7.83,85.0,0.0,kona,,,False,True
+335,United States (Hawaii),,,7.75,8.0,7.92,8.08,7.75,8.0,9.33,9.33,9.33,8.17,83.67,0.0,,,,False,False
+37,United States (Hawaii),620.0,Natural / Dry,8.08,8.17,8.0,7.92,7.92,7.83,10.0,10.0,10.0,8.33,86.25,0.0,kona,2012,2012,False,True
+859,United States (Hawaii),620.0,,7.25,7.58,7.83,7.67,7.75,7.75,9.33,9.33,10.0,7.33,81.83,0.02,kona,,,False,True
+605,United States (Hawaii),620.0,Washed / Wet,7.25,7.75,7.5,7.83,7.67,7.67,9.33,10.0,10.0,7.75,82.75,0.12,kona,2012,2012,False,True
+787,United States (Hawaii),620.0,Natural / Dry,7.25,7.58,7.58,7.25,7.5,7.42,10.0,10.0,10.0,7.5,82.08,0.11,kona,2012,2012,False,True
+492,United States (Hawaii),620.0,Washed / Wet,7.33,7.58,7.58,7.92,7.67,7.58,10.0,10.0,10.0,7.42,83.08,0.12,kona,2012,2012,False,True
+934,United States (Hawaii),620.0,,7.33,7.33,7.33,7.5,7.5,7.83,9.33,10.0,10.0,7.33,81.5,0.0,kona,,,False,True
+529,United States (Hawaii),,,7.83,7.83,7.67,7.83,7.92,7.83,9.33,9.33,9.33,8.08,83.0,0.0,,,,False,False
+374,United States (Hawaii),,,7.5,7.67,7.58,7.92,7.58,7.67,10.0,10.0,10.0,7.58,83.5,0.01,,,,False,False
+96,United States (Hawaii),620.0,,7.5,7.92,8.25,7.83,7.92,7.75,10.0,10.0,10.0,7.92,85.08,0.0,kona,,,False,True
+73,United States (Hawaii),620.0,Natural / Dry,7.92,7.92,7.75,7.92,7.75,7.92,10.0,10.0,10.0,8.25,85.42,0.0,kona,2012,2012,False,True
+1049,United States (Hawaii),620.0,Natural / Dry,7.08,7.33,7.17,7.25,7.33,7.67,10.0,10.0,10.0,6.92,80.75,0.13,kona,2011,2011,False,True
+489,United States (Hawaii),620.0,Natural / Dry,7.83,7.83,7.33,7.17,7.75,7.67,10.0,10.0,10.0,7.5,83.08,0.1,kona,2012,2012,False,True
+431,United States (Hawaii),620.0,Natural / Dry,7.58,7.75,7.83,8.0,8.08,7.67,9.33,10.0,9.33,7.67,83.25,0.11,kona,2012,2012,False,True
+309,United States (Hawaii),620.0,Natural / Dry,7.25,7.42,7.67,7.58,7.83,8.25,10.0,10.0,10.0,7.75,83.75,0.0,kona,2013,2013,False,True
+1221,United States (Hawaii),620.0,,7.92,6.83,7.08,7.42,6.75,7.33,8.67,9.33,10.0,7.25,78.58,0.0,kona,,,False,True
+391,United States (Hawaii),620.0,Natural / Dry,7.42,7.75,7.67,7.58,7.67,7.67,10.0,10.0,10.0,7.67,83.42,0.0,kona,2012,2012,False,True
+607,United States (Hawaii),620.0,,7.75,7.67,7.5,7.83,7.17,7.42,10.0,10.0,10.0,7.42,82.75,0.0,kona,,,False,True
+1144,United States (Hawaii),620.0,Natural / Dry,7.58,7.08,6.83,7.17,7.5,7.17,9.33,10.0,10.0,7.17,79.83,0.12,kona,2012,2012,False,True
+895,United States (Hawaii),620.0,Washed / Wet,7.42,7.33,7.33,7.33,7.17,7.83,10.0,10.0,10.0,7.25,81.67,0.1,kona,2012,2012,False,True
+491,United States (Hawaii),620.0,Natural / Dry,7.67,7.58,7.5,7.67,7.92,8.0,9.33,9.33,10.0,8.08,83.08,0.0,kona,2012,2012,False,True
+394,United States (Hawaii),620.0,,7.5,7.92,7.42,7.67,7.83,7.58,10.0,10.0,10.0,7.5,83.42,0.01,kona,2010,2010,False,True
+557,United States (Hawaii),620.0,Washed / Wet,7.5,7.5,7.5,7.42,7.67,7.83,10.0,10.0,10.0,7.5,82.92,0.1,kona,2012,2012,False,True
+238,United States (Hawaii),620.0,Natural / Dry,7.83,7.75,7.83,7.83,7.42,8.08,9.33,10.0,10.0,8.0,84.08,0.11,kona,2012,2012,False,True
+94,United States (Hawaii),620.0,,8.08,8.17,7.92,8.0,8.08,8.0,9.33,9.33,10.0,8.17,85.08,0.01,kona,2010,2011,False,True
+998,United States (Hawaii),,Washed / Wet,7.42,7.42,7.25,7.58,6.92,7.17,10.0,10.0,10.0,7.33,81.08,0.06,,2012,2012,False,False
+314,United States (Hawaii),620.0,,7.83,7.67,7.75,7.67,7.58,7.5,10.0,10.0,10.0,7.75,83.75,0.0,kona,,,False,True
+415,United States (Hawaii),620.0,,8.08,7.83,7.83,7.75,7.67,7.58,9.33,10.0,9.33,7.92,83.33,0.01,kona,,,False,True
+412,United States (Hawaii),620.0,Natural / Dry,7.92,7.5,7.58,7.83,7.67,7.67,9.33,10.0,10.0,7.83,83.33,0.1,kona,2012,2012,False,True
+206,United States (Hawaii),620.0,Natural / Dry,7.33,7.92,7.92,7.92,7.92,8.08,10.0,10.0,9.33,7.83,84.25,0.11,kona,2012,2012,False,True
+950,United States (Hawaii),620.0,,7.83,7.0,7.0,7.58,7.58,7.5,10.0,10.0,10.0,6.92,81.42,0.01,kona,,,False,True
+530,United States (Hawaii),,,7.5,7.58,7.42,7.58,7.58,7.67,10.0,10.0,10.0,7.67,83.0,0.0,,,,False,False
+1292,United States (Hawaii),620.0,Natural / Dry,7.17,7.17,7.17,7.58,7.67,6.92,9.33,6.67,6.67,7.33,73.67,0.0,kona,2012,2012,False,True
+1139,United States (Hawaii),620.0,,7.5,7.42,7.58,7.42,7.5,7.58,8.67,8.67,10.0,7.58,79.92,0.05,kona,,,False,True
+1067,United States (Hawaii),,,7.42,7.58,7.5,7.92,7.83,7.83,8.67,8.67,9.33,7.83,80.58,0.0,,,,False,False
+1233,United States (Hawaii),620.0,Natural / Dry,7.42,7.33,7.33,7.5,7.67,7.75,8.0,8.67,9.33,7.25,78.25,0.11,kona,2012,2012,False,True
+1036,United States (Hawaii),620.0,Washed / Wet,7.42,7.33,7.0,7.25,7.33,7.5,10.0,10.0,10.0,7.0,80.83,0.1,kona,2012,2012,False,True
+793,United States (Hawaii),620.0,Washed / Wet,7.33,7.5,7.33,7.58,7.08,7.83,10.0,10.0,10.0,7.42,82.08,0.1,kona,2012,2012,False,True
+986,United States (Hawaii),620.0,,7.25,7.75,7.67,7.67,7.42,7.67,8.67,9.33,10.0,7.75,81.17,0.04,kona,,,False,True
+118,United States (Hawaii),620.0,Natural / Dry,7.67,7.75,7.75,7.75,7.83,8.0,10.0,10.0,10.0,8.08,84.83,0.0,kona,2012,2012,False,True
+673,United States (Hawaii),620.0,Washed / Wet,7.33,7.42,7.33,7.75,7.42,7.67,10.0,10.0,10.0,7.58,82.5,0.12,kona,2012,2012,False,True
+404,Mexico,1100.0,Washed / Wet,7.67,7.67,7.58,7.67,7.5,7.58,10.0,10.0,10.0,7.67,83.33,0.12,veracruz,2013,2013,False,False
+768,Mexico,1100.0,Washed / Wet,7.42,7.33,7.17,7.42,7.33,8.17,10.0,10.0,10.0,7.33,82.17,0.12,veracruz,2013,2013,False,False
+627,Mexico,1100.0,Washed / Wet,7.58,7.58,7.42,7.58,7.42,7.5,10.0,10.0,10.0,7.58,82.67,0.11,,2012,2012,False,False
+1136,Mexico,1100.0,Washed / Wet,7.17,7.08,7.08,7.08,7.5,7.33,9.33,10.0,10.0,7.33,79.92,0.11,jaltenango,2012,2012,False,False
+1157,Mexico,1100.0,Washed / Wet,7.25,6.83,6.92,7.08,7.25,7.08,10.0,10.0,10.0,7.33,79.75,0.12,tuxtla gutierrez,2012,2012,False,False
+1279,Mexico,1100.0,Washed / Wet,7.25,6.83,6.67,7.08,7.17,6.83,10.0,6.67,10.0,6.67,75.17,0.12,,2012,2012,False,False
+1219,Mexico,1400.0,Washed / Wet,7.0,7.0,6.75,7.33,6.92,6.92,10.0,10.0,10.0,6.67,78.58,0.13,tapachula,2012,2012,False,False
+1155,Mexico,1050.0,Washed / Wet,7.33,7.25,7.0,7.08,7.08,7.0,10.0,10.0,10.0,7.0,79.75,0.1,pochutla,2012,2012,False,False
+349,Mexico,1000.0,Washed / Wet,7.83,7.67,7.58,7.58,7.67,7.58,10.0,10.0,10.0,7.67,83.58,0.12,xalapa,2012,2012,False,False
+1164,Mexico,1264.0,Washed / Wet,6.92,7.17,7.17,7.17,7.08,7.08,10.0,10.0,10.0,7.08,79.67,0.0,"coatepec, coatepec",2012,2012,False,False
+575,Mexico,1250.0,Washed / Wet,7.67,7.58,7.42,7.75,7.42,7.42,10.0,10.0,10.0,7.58,82.83,0.12,veracruz,2012,2012,False,False
+925,Mexico,1600.0,Washed / Wet,7.58,7.42,7.25,7.42,7.33,7.33,10.0,10.0,10.0,7.17,81.5,0.12,amatenango de la frontera,2012,2012,False,False
+1085,Mexico,1050.0,Washed / Wet,6.92,7.17,7.08,7.5,7.33,7.17,10.0,10.0,10.0,7.25,80.42,0.1,pochutla,2012,2012,False,False
+273,Mexico,1500.0,Washed / Wet,7.5,7.67,7.58,7.83,7.75,7.75,10.0,10.0,10.0,7.83,83.92,0.11,la concordia,2012,2012,False,False
+209,Mexico,1400.0,Washed / Wet,7.83,7.92,7.67,7.75,7.5,7.75,10.0,10.0,10.0,7.83,84.25,0.1,"la concordia, chiapas",2012,2012,False,False
+725,Mexico,1300.0,Washed / Wet,7.67,7.5,7.42,7.5,7.42,7.42,10.0,10.0,10.0,7.42,82.33,0.12,"la concordia, chiapas",2013,2013,False,False
+1205,Mexico,1300.0,Washed / Wet,7.33,7.0,6.75,7.08,7.17,7.25,9.33,10.0,10.0,7.0,78.92,0.12,"la concordia, chiapas",2013,2013,False,False
+521,Mexico,1200.0,Washed / Wet,7.5,7.67,7.5,7.5,7.58,7.58,10.0,10.0,10.0,7.67,83.0,0.11,coatepec,2012,2012,False,False
+168,Mexico,1500.0,Washed / Wet,7.92,7.83,7.75,7.75,7.75,7.83,10.0,10.0,10.0,7.67,84.5,0.11,jaltenango,2012,2012,False,False
+893,Mexico,1400.0,Washed / Wet,7.58,7.42,7.25,7.58,7.25,7.17,10.0,10.0,10.0,7.42,81.67,0.11,"la concordia, chiapas",2012,2012,False,False
+577,Mexico,1380.0,Washed / Wet,7.58,7.58,7.5,7.42,7.67,7.58,10.0,10.0,10.0,7.5,82.83,0.11,la concordia,2012,2012,False,False
+971,Mexico,1500.0,Washed / Wet,7.42,7.42,7.33,7.33,7.5,7.42,9.33,10.0,10.0,7.5,81.25,0.12,motozintla,2012,2012,False,False
+291,Mexico,1300.0,Natural / Dry,7.67,7.58,7.5,7.75,7.75,7.75,10.0,10.0,10.0,7.83,83.83,0.11,"la concordia, chiapas",2012,2012,False,False
+471,Mexico,1380.0,Washed / Wet,7.5,7.75,7.58,7.58,7.67,7.5,10.0,10.0,10.0,7.58,83.17,0.11,la concordia,2012,2012,False,False
+924,Mexico,1150.0,Washed / Wet,7.33,7.33,7.17,7.42,7.5,7.5,10.0,10.0,10.0,7.25,81.5,0.13,"la concordia, chiapas",2013,2013,False,False
+1035,Mexico,1200.0,Washed / Wet,7.5,7.17,7.33,7.25,7.17,7.17,10.0,10.0,10.0,7.25,80.83,0.13,veracruz,2012,2012,True,True
+855,Mexico,1500.0,Washed / Wet,7.83,7.33,7.25,7.58,7.25,7.33,10.0,10.0,10.0,7.25,81.83,0.12,veracruz,2012,2012,False,False
+1135,Mexico,1100.0,Washed / Wet,7.5,7.17,7.0,7.17,7.25,7.08,10.0,10.0,10.0,6.75,79.92,0.0,veracruz,2012,2012,False,False
+892,Mexico,1200.0,Washed / Wet,7.5,7.42,7.33,7.42,7.42,7.42,10.0,10.0,10.0,7.17,81.67,0.11,veracruz,2012,2012,False,False
+701,Mexico,1450.0,Washed / Wet,7.83,7.5,7.42,7.67,7.17,7.33,10.0,10.0,10.0,7.5,82.42,0.12,fln mirador,2012,2012,False,False
+1291,Mexico,1250.0,Washed / Wet,7.67,7.0,7.17,7.58,7.33,7.33,10.0,2.67,10.0,7.08,73.83,0.12,coatepec,2012,2012,False,False
+1166,Mexico,1250.0,Washed / Wet,7.08,7.0,6.92,7.33,7.25,7.08,10.0,10.0,10.0,6.92,79.58,0.12,tepetzingo,2012,2012,False,False
+994,Mexico,1650.0,Washed / Wet,7.25,7.42,7.33,7.33,7.17,7.33,10.0,10.0,10.0,7.25,81.08,0.13,san fernando,2012,2012,False,False
+699,Mexico,1150.0,Washed / Wet,7.58,7.33,7.33,7.58,7.5,7.5,10.0,10.0,10.0,7.58,82.42,0.11,xicotepec de juarez,2012,2012,False,False
+668,Mexico,1100.0,Washed / Wet,7.67,7.5,7.33,7.67,7.5,7.33,10.0,10.0,10.0,7.5,82.5,0.12,zapotitlan de mendez,2012,2012,False,False
+600,Mexico,1550.0,Washed / Wet,7.58,7.58,7.5,7.5,7.5,7.5,10.0,10.0,10.0,7.58,82.75,0.12,chiapas,2013,2013,False,False
+693,Mexico,1560.0,Washed / Wet,7.5,7.42,7.42,7.67,7.42,7.58,10.0,10.0,10.0,7.42,82.42,0.12,chiapas,2013,2013,False,False
+1286,Mexico,1700.0,Washed / Wet,7.08,7.0,6.83,7.5,7.33,6.83,8.0,7.33,10.0,6.75,74.67,0.12,chiapas,2013,2013,False,False
+465,Mexico,1500.0,Washed / Wet,7.75,7.58,7.58,7.58,7.5,7.42,10.0,10.0,10.0,7.75,83.17,0.11,chiapas,2013,2013,False,False
+602,Mexico,1200.0,Natural / Dry,8.08,8.17,8.0,8.0,7.83,7.92,6.67,10.0,10.0,8.08,82.75,0.12,atoyac de alvarez,2012,2012,False,False
+239,Mexico,1480.0,Washed / Wet,7.67,7.75,7.67,7.75,7.67,7.75,10.0,10.0,10.0,7.83,84.08,0.11,santo domingo cacalotepec,2012,2012,False,False
+1224,Mexico,1200.0,Washed / Wet,7.25,7.17,7.0,6.83,7.58,7.08,8.67,10.0,10.0,6.92,78.5,0.13,los angeles,2012,2012,False,False
+888,Mexico,1400.0,Washed / Wet,7.5,7.42,7.08,7.58,7.33,7.33,10.0,10.0,10.0,7.42,81.67,0.12,"la concordia, chiapas",2013,2013,False,False
+1151,Mexico,1400.0,Washed / Wet,7.58,7.08,7.0,7.0,7.5,6.92,10.0,10.0,10.0,6.67,79.75,0.12,"la concordia, chiapas",2013,2013,False,False
+905,Mexico,1400.0,Washed / Wet,7.67,7.5,7.42,7.5,6.75,7.42,10.0,10.0,10.0,7.33,81.58,0.12,"la concordia, chiapas",2013,2013,False,False
+1162,Mexico,1400.0,Washed / Wet,7.42,7.25,6.83,7.58,7.17,6.58,10.0,10.0,10.0,6.83,79.67,0.12,"la concordia, chiapas",2013,2013,False,False
+1245,Mexico,1248.0,Washed / Wet,7.42,7.25,7.0,7.0,7.25,7.08,8.0,10.0,10.0,6.92,77.92,0.11,petatlan,2012,2012,False,False
+1174,Mexico,1100.0,Washed / Wet,7.25,7.33,7.0,7.25,7.17,7.17,9.33,10.0,10.0,7.0,79.5,0.12,"coatepec, coatepec",2012,2012,False,False
+1092,Mexico,940.0,Semi-washed / Semi-pulped,7.25,7.08,7.08,7.33,7.33,7.17,10.0,10.0,10.0,7.08,80.33,0.11,chilon,2012,2012,False,False
+369,Mexico,940.0,Semi-washed / Semi-pulped,7.67,7.75,7.67,7.75,7.58,7.5,10.0,10.0,10.0,7.58,83.5,0.11,chilon,2012,2012,False,False
+894,Mexico,940.0,Semi-washed / Semi-pulped,7.75,7.58,7.25,7.17,7.58,7.33,9.33,10.0,10.0,7.67,81.67,0.11,"sacun palma, municipio de chilon, chiapas",2012,2012,False,False
+865,Mexico,1250.0,Washed / Wet,7.42,7.5,7.17,7.67,7.33,7.42,10.0,10.0,10.0,7.25,81.75,0.13,tepictla,2012,2012,False,False
+928,Mexico,1250.0,Washed / Wet,7.42,7.42,7.33,7.17,7.25,7.42,10.0,10.0,10.0,7.5,81.5,0.13,tapachula,2012,2012,False,False
+112,Mexico,1200.0,Semi-washed / Semi-pulped,7.75,8.0,7.75,7.83,7.5,7.92,10.0,10.0,10.0,8.17,84.92,0.11,coatepec,2012,2012,False,False
+1211,Mexico,1250.0,Semi-washed / Semi-pulped,7.25,7.33,7.17,7.25,7.08,7.0,8.67,10.0,10.0,7.0,78.75,0.14,veracruz,2012,2012,False,False
+694,Mexico,1400.0,Semi-washed / Semi-pulped,7.42,7.58,7.5,7.42,7.58,7.5,10.0,10.0,10.0,7.42,82.42,0.13,san pedro cotzilnam,2012,2012,False,False
+207,Mexico,1450.0,Semi-washed / Semi-pulped,7.83,7.92,7.67,7.83,7.5,7.75,10.0,10.0,10.0,7.75,84.25,0.12,san pedro cotzilnam,2012,2012,False,False
+1214,Mexico,1150.0,Washed / Wet,6.92,6.92,6.67,7.25,7.17,6.92,10.0,10.0,10.0,6.83,78.67,0.13,yecuatla,2012,2012,False,False
+983,Mexico,1800.0,Natural / Dry,7.42,7.25,7.08,7.75,7.42,7.17,10.0,10.0,10.0,7.08,81.17,0.13,tapachula,2012,2012,False,False
+789,Mexico,1800.0,Washed / Wet,7.5,7.42,7.42,7.5,7.25,7.5,10.0,10.0,10.0,7.5,82.08,0.13,tapachula,2012,2012,False,False
+960,Mexico,1800.0,Washed / Wet,7.58,7.42,7.25,7.33,7.25,7.25,10.0,10.0,10.0,7.25,81.33,0.13,tapachula,2012,2012,False,False
+690,Mexico,1170.0,Washed / Wet,7.5,7.58,7.5,7.92,7.42,7.67,9.33,10.0,10.0,7.5,82.42,0.12,veracruz,2013,2013,False,False
+696,Mexico,1170.0,Washed / Wet,7.75,7.33,7.25,7.58,7.58,7.33,10.0,10.0,10.0,7.58,82.42,0.13,xalapa,2012,2012,False,False
+368,Mexico,1170.0,Natural / Dry,7.83,7.58,7.25,7.5,7.5,7.42,10.0,10.0,10.0,8.42,83.5,0.13,xalapa,2012,2012,False,False
+748,Mexico,1170.0,Washed / Wet,7.5,7.58,7.42,7.67,7.33,7.42,10.0,10.0,10.0,7.33,82.25,0.13,veracruz,2012,2012,False,False
+729,Mexico,1170.0,Washed / Wet,7.67,7.58,7.5,7.58,7.5,7.5,10.0,10.0,10.0,7.0,82.33,0.13,veracruz,2012,2012,False,False
+208,Mexico,1170.0,Washed / Wet,7.83,7.83,7.75,7.67,7.83,7.58,10.0,10.0,10.0,7.75,84.25,0.12,veracruz,2012,2012,False,False
+272,Mexico,900.0,Washed / Wet,7.67,7.75,7.58,7.67,7.75,7.83,10.0,10.0,10.0,7.67,83.92,0.12,xicotepec de juarez,2012,2012,False,False
+23,Mexico,1320.0,Washed / Wet,8.17,8.25,8.17,8.0,7.83,8.17,10.0,10.0,10.0,8.58,87.17,0.13,xalapa,2012,2012,False,False
+775,Mexico,1000.0,Washed / Wet,7.5,7.58,7.25,7.5,7.5,7.33,10.0,10.0,10.0,7.5,82.17,0.12,altotonga,2012,2012,False,False
+520,Mexico,1200.0,Semi-washed / Semi-pulped,7.67,7.83,7.5,7.58,7.58,7.67,9.33,10.0,10.0,7.83,83.0,0.11,atoyac de alvarez,2012,2012,False,False
+997,Mexico,1200.0,Washed / Wet,7.42,7.33,7.25,7.42,7.17,7.25,10.0,10.0,10.0,7.25,81.08,0.1,talpa de allende,2012,2012,False,False
+1197,Mexico,1200.0,Washed / Wet,7.17,7.25,7.25,7.17,7.25,7.08,9.33,9.33,10.0,7.25,79.08,0.1,talpa de allende,2012,2012,False,False
+432,Mexico,1200.0,Washed / Wet,7.75,7.58,7.58,7.58,7.5,7.58,10.0,10.0,10.0,7.67,83.25,0.13,veracruz,2012,2012,False,True
+1122,Mexico,1300.0,Washed / Wet,7.25,7.08,7.0,7.17,7.33,7.17,10.0,10.0,10.0,7.08,80.08,0.14,escuitla,2012,2012,False,False
+290,Mexico,1218.0,Natural / Dry,7.67,8.0,7.67,7.42,7.67,7.5,10.0,10.0,10.0,7.92,83.83,0.1,petatlan,2012,2012,False,False
+1280,Mexico,1280.0,Washed / Wet,7.17,7.17,6.83,7.17,7.42,6.67,8.67,7.33,10.0,6.75,75.17,0.13,huautla de jimenez,2012,2012,False,False
+827,Mexico,1300.0,Washed / Wet,7.58,7.5,7.25,7.58,7.5,7.25,10.0,10.0,10.0,7.25,81.92,0.12,chiapas,2013,2013,False,False
+1133,Mexico,1300.0,Washed / Wet,7.33,7.08,7.08,7.33,7.42,7.17,9.33,10.0,10.0,7.17,79.92,0.12,chiapas,2013,2013,False,False
+430,Mexico,1300.0,Washed / Wet,7.58,7.75,7.5,7.5,7.58,7.58,10.0,10.0,10.0,7.75,83.25,0.12,chiapas,2013,2013,False,False
+1153,Mexico,1300.0,Washed / Wet,7.25,7.08,7.0,7.17,7.17,7.08,10.0,10.0,10.0,7.0,79.75,0.12,chiapas,2013,2013,False,False
+749,Mexico,1250.0,Washed / Wet,7.67,7.58,7.33,7.5,7.42,7.42,10.0,10.0,10.0,7.33,82.25,0.12,juquila,2012,2012,False,False
+650,Mexico,1250.0,Washed / Wet,7.5,7.58,7.5,7.5,7.42,7.5,10.0,10.0,10.0,7.58,82.58,0.1,oaxaca,2012,2012,False,False
+1235,Mexico,1050.0,Washed / Wet,7.08,6.83,6.67,7.25,7.25,6.92,10.0,9.33,10.0,6.75,78.08,0.11,cordoba,2012,2012,False,False
+831,Mexico,1000.0,Washed / Wet,7.67,7.42,7.33,7.83,7.5,7.5,9.33,10.0,10.0,7.33,81.92,0.12,fortin de las flores,2012,2012,False,False
+433,Mexico,1000.0,Washed / Wet,7.75,7.75,7.42,7.92,7.33,7.5,10.0,10.0,10.0,7.58,83.25,0.12,fortin de las flores,2012,2012,False,False
+700,Mexico,1250.0,Washed / Wet,7.67,7.58,7.33,7.42,7.58,7.33,10.0,10.0,10.0,7.5,82.42,0.13,progreso santa rosa teocelo,2012,2012,False,False
+1202,Mexico,1300.0,Natural / Dry,6.75,7.08,6.67,7.25,7.17,7.08,10.0,10.0,10.0,7.0,79.0,0.12,"iliatenco, guerrero",2012,2012,False,False
+891,Mexico,1400.0,Washed / Wet,7.67,7.25,7.17,7.75,7.5,7.25,10.0,10.0,10.0,7.08,81.67,0.11,yajalon,2012,2012,False,False
+927,Mexico,1000.0,Semi-washed / Semi-pulped,7.33,7.5,7.33,7.33,7.33,7.42,10.0,10.0,10.0,7.25,81.5,0.11,manzanillo,2012,2012,False,False
+926,Mexico,1100.0,Washed / Wet,7.42,7.25,7.17,7.42,7.17,8.0,10.0,10.0,10.0,7.08,81.5,0.12,temaxcalapa,2012,2012,False,False
+1307,Mexico,900.0,Washed / Wet,7.08,6.83,6.25,7.42,7.25,6.75,10.0,0.0,10.0,6.75,68.33,0.11,juchique de ferrer,2012,2012,False,False
+1223,Mexico,1400.0,Washed / Wet,7.08,6.83,6.83,7.0,7.0,6.92,10.0,10.0,10.0,6.83,78.5,0.12,villa talea de castro,2012,2012,False,False
+1252,Mexico,1300.0,Washed / Wet,7.17,6.75,6.58,6.75,6.83,6.75,10.0,10.0,10.0,6.67,77.5,0.13,coatepec,2012,2012,False,False
+1134,Mexico,1100.0,Washed / Wet,7.17,7.17,6.92,7.25,7.33,7.08,10.0,10.0,10.0,7.0,79.92,0.12,"motozintla, chiapas",2012,2012,False,False
+1242,Mexico,850.0,Washed / Wet,7.25,7.33,7.0,7.0,7.25,7.08,10.0,10.0,8.0,7.08,78.0,0.12,"motozintla, chiapas",2012,2012,False,False
+1012,Mexico,950.0,Washed / Wet,7.08,7.33,7.33,7.33,7.42,7.25,10.0,10.0,10.0,7.25,81.0,0.12,"motozintla, chiapas",2012,2012,False,False
+1259,Mexico,1200.0,Washed / Wet,7.08,7.0,7.0,7.25,7.33,7.25,8.67,8.67,10.0,6.92,77.17,0.12,"motozintla, chiapas",2012,2012,False,False
+1181,Mexico,750.0,Washed / Wet,7.42,7.17,7.08,7.17,7.08,7.08,9.33,10.0,10.0,7.0,79.33,0.14,zentla,2012,2012,False,False
+1180,Mexico,950.0,Washed / Wet,7.0,7.0,6.83,7.33,7.42,6.92,10.0,10.0,10.0,6.83,79.33,0.14,zentla,2012,2012,False,False
+469,Mexico,700.0,Washed / Wet,7.75,7.5,7.42,7.75,7.58,7.58,10.0,10.0,10.0,7.58,83.17,0.13,san isidro,2012,2012,False,False
+1079,Mexico,1450.0,Washed / Wet,7.25,7.25,7.08,7.33,7.25,7.17,10.0,10.0,10.0,7.17,80.5,0.15,zaragoza itundujia,2012,2012,False,False
+1203,Mexico,1550.0,Semi-washed / Semi-pulped,7.5,7.17,6.92,7.5,7.25,7.0,8.67,10.0,10.0,7.0,79.0,0.14,zaragoza itundujia,2012,2012,False,False
+1226,Mexico,1500.0,Washed / Wet,7.58,7.17,7.0,7.17,7.33,7.0,8.0,10.0,10.0,7.17,78.42,0.14,zaragoza itundujia,2012,2012,False,False
+1111,Mexico,1550.0,Washed / Wet,7.58,7.42,7.33,7.5,7.08,7.17,8.67,10.0,10.0,7.42,80.17,0.14,zaragoza itundujia,2012,2012,False,False
+1256,Mexico,1500.0,Washed / Wet,7.33,7.0,6.67,7.0,6.92,6.92,9.33,9.33,10.0,6.83,77.33,0.15,zaragoza itundujia,2012,2012,False,False
+1195,Mexico,1500.0,Washed / Wet,7.33,7.0,6.92,7.25,7.33,7.08,9.33,10.0,10.0,6.83,79.08,0.16,zaragoza itundujia,2012,2012,False,False
+1121,Mexico,1300.0,Washed / Wet,7.33,7.17,7.25,7.08,7.08,7.08,10.0,10.0,10.0,7.08,80.08,0.15,zaragoza itundujia,2012,2012,False,False
+1282,Mexico,1500.0,Washed / Wet,7.08,6.75,6.58,7.0,7.0,6.75,8.67,8.67,10.0,6.42,74.92,0.17,zaragoza itundujia,2012,2012,False,False
+1190,Mexico,1550.0,Washed / Wet,7.25,7.08,6.92,7.08,7.17,7.17,9.33,10.0,10.0,7.17,79.17,0.14,zaragoza itundujia,2012,2012,False,False
+1206,Mexico,1400.0,Washed / Wet,7.5,7.0,6.92,7.08,6.92,6.75,10.0,10.0,10.0,6.75,78.92,0.16,zaragoza itundujia,2012,2012,False,False
+1269,Mexico,1400.0,Washed / Wet,7.42,7.0,6.83,7.08,6.92,6.83,7.33,10.0,10.0,6.75,76.17,0.16,zaragoza itundujia,2012,2012,False,False
+1154,Mexico,1450.0,Washed / Wet,7.25,7.17,7.17,7.08,7.17,7.0,10.0,10.0,10.0,6.92,79.75,0.14,zaragoza itundujia,2012,2012,False,False
+698,Mexico,1350.0,Washed / Wet,7.58,7.58,7.17,7.5,7.5,7.5,10.0,10.0,10.0,7.58,82.42,0.14,veracruz,2012,2012,False,False
+332,Mexico,1100.0,Washed / Wet,7.67,7.5,7.5,7.33,7.83,8.25,10.0,10.0,10.0,7.58,83.67,0.12,xicotepec de juarez,2012,2012,False,False
+1196,Mexico,1100.0,Washed / Wet,7.25,7.08,6.75,7.33,7.42,7.0,9.33,10.0,10.0,6.92,79.08,0.11,tlacuilotepec,2012,2012,False,False
+1277,Mexico,1100.0,Washed / Wet,7.5,7.25,6.92,7.0,7.17,6.83,8.0,8.0,10.0,6.83,75.5,0.11,tlacuilotepec,2012,2012,False,False
+1191,Mexico,1450.0,Washed / Wet,7.17,6.92,6.92,7.08,7.17,7.0,10.0,10.0,10.0,6.92,79.17,0.14,yajalon,2012,2012,False,False
+1152,Mexico,1022.0,Washed / Wet,7.58,7.08,6.92,7.58,7.5,6.92,10.0,9.33,10.0,6.83,79.75,0.13,chiapas,2013,2013,False,False
+773,Mexico,1144.0,Washed / Wet,7.5,7.67,7.0,7.5,7.33,7.5,10.0,10.0,10.0,7.67,82.17,0.15,san bartolo tutotepec,2012,2012,False,False
+864,Mexico,774.0,Washed / Wet,7.5,7.5,7.33,7.42,7.25,7.25,10.0,10.0,10.0,7.5,81.75,0.13,"tenango de doria, hidalgo",2012,2012,False,False
+1105,Mexico,808.0,Washed / Wet,7.58,7.33,7.17,7.25,6.75,7.0,10.0,10.0,10.0,7.17,80.25,0.11,"calnali, hidalgo",2012,2012,False,False
+946,Mexico,763.0,Washed / Wet,7.42,7.33,7.25,7.17,7.25,7.42,10.0,10.0,10.0,7.58,81.42,0.13,"huazalingo, hidalgo",2012,2012,False,False
+466,Mexico,1250.0,Washed / Wet,7.75,7.67,7.58,7.5,7.42,7.58,10.0,10.0,10.0,7.67,83.17,0.12,"tlanchinol, hidalgo",2012,2012,True,True
+1163,Mexico,975.0,Washed / Wet,7.33,7.17,7.0,6.75,7.08,7.0,10.0,10.0,10.0,7.33,79.67,0.13,"tenango de doria, hidalgo",2012,2012,False,False
+829,Mexico,690.0,Washed / Wet,7.5,7.42,7.25,7.5,7.33,7.33,10.0,10.0,10.0,7.58,81.92,0.14,"huazalingo, hidalgo",2012,2012,False,False
+828,Mexico,981.0,Semi-washed / Semi-pulped,7.5,7.5,7.25,7.25,7.5,7.5,10.0,10.0,10.0,7.42,81.92,0.13,"chapulhuacan, hidalgo",2012,2012,False,False
+746,Mexico,808.0,Washed / Wet,7.58,7.58,7.5,7.17,7.42,7.42,10.0,10.0,10.0,7.58,82.25,0.16,"calnali, hidalgo",2012,2012,True,True
+467,Mexico,1089.0,Washed / Wet,7.58,7.75,7.42,7.67,7.5,7.58,10.0,10.0,10.0,7.67,83.17,0.14,san bartolo tutotepec,2012,2012,False,False
+667,Mexico,1679.0,Washed / Wet,7.5,7.58,7.5,7.5,7.42,7.42,10.0,10.0,10.0,7.58,82.5,0.13,san bartolo tutotepec,2012,2012,False,False
+728,Mexico,1250.0,Natural / Dry,7.58,7.67,7.58,7.33,7.0,7.58,10.0,10.0,10.0,7.58,82.33,0.15,"jaltocan, hidalgo",2012,2012,True,True
+310,Mexico,700.0,Natural / Dry,7.83,7.58,7.58,7.5,7.75,7.67,10.0,10.0,10.0,7.83,83.75,0.13,"huazalingo, hidalgo",2012,2012,False,False
+1129,Mexico,1100.0,Washed / Wet,7.08,7.33,7.0,7.33,7.08,7.0,10.0,10.0,10.0,7.17,80.0,0.11,san miguel del puerto,2012,2012,False,False
+1034,Mexico,1100.0,Washed / Wet,7.33,7.25,7.33,7.33,7.25,7.17,10.0,10.0,10.0,7.17,80.83,0.11,oaxaca,2012,2012,False,False
+554,Mexico,1248.0,Natural / Dry,7.58,7.58,7.33,7.25,7.58,7.75,10.0,10.0,10.0,7.83,82.92,0.1,petatlan,2012,2012,False,False
+1210,Mexico,1320.0,Washed / Wet,7.25,6.83,6.83,7.0,7.17,7.0,10.0,10.0,10.0,6.67,78.75,0.14,veracruz,2012,2012,False,False
+556,Mexico,1400.0,Washed / Wet,8.0,7.92,7.67,7.17,7.67,7.42,9.33,10.0,10.0,7.75,82.92,0.14,la cumbre,2012,2012,False,False
+890,Mexico,1650.0,Washed / Wet,7.25,7.67,7.58,7.67,7.67,7.58,8.67,10.0,10.0,7.58,81.67,0.13,tuxtla gutierrez,2012,2012,False,False
+1177,Mexico,800.0,Washed / Wet,7.0,6.83,6.83,7.42,7.33,7.17,10.0,10.0,10.0,6.83,79.42,0.13,xicotepec de juarez,2012,2012,False,False
+697,Mexico,1300.0,Washed / Wet,7.5,7.58,7.33,7.5,7.5,7.5,10.0,10.0,10.0,7.5,82.42,0.11,zihuatanejo de azueta,2012,2012,False,False
+1278,Mexico,1200.0,Washed / Wet,7.17,6.92,6.67,6.83,7.25,7.75,10.0,6.0,10.0,6.58,75.17,0.11,ocosingo,2012,2012,False,False
+370,Mexico,1400.0,Washed / Wet,7.75,7.67,7.67,7.75,7.33,7.5,10.0,10.0,10.0,7.83,83.5,0.12,totutla,2012,2012,False,False
+1281,Mexico,850.0,Washed / Wet,7.0,6.92,6.75,6.92,7.17,6.83,10.0,6.67,10.0,6.75,75.0,0.14,menglian,2012,2012,False,False
+1283,Mexico,1250.0,Washed / Wet,7.33,6.75,6.67,7.25,7.5,7.0,10.0,5.33,10.0,7.0,74.83,0.12,coatepec,2012,2012,False,False
+1128,Mexico,1250.0,Washed / Wet,7.25,7.25,7.08,7.17,7.33,7.33,9.33,10.0,10.0,7.25,80.0,0.12,coatepec,2012,2012,False,False
+1110,Mexico,1250.0,Washed / Wet,7.33,7.08,6.92,7.42,7.25,7.08,10.0,10.0,10.0,7.08,80.17,0.11,coatepec,2012,2012,False,False
+1137,Mexico,1250.0,Natural / Dry,7.33,7.25,7.0,7.42,7.17,7.17,9.33,10.0,10.0,7.25,79.92,0.12,coatepec,2012,2012,False,False
+187,Mexico,1700.0,Washed / Wet,8.0,7.75,7.75,7.83,7.5,7.67,10.0,10.0,10.0,7.83,84.33,0.12,tuxtla gutierrez,2012,2012,False,False
+961,Mexico,1000.0,Washed / Wet,7.33,7.25,7.17,7.42,7.58,7.33,10.0,10.0,10.0,7.25,81.33,0.12,veracruz,2012,2012,False,False
+1138,Mexico,1250.0,Washed / Wet,7.17,7.33,7.08,7.58,7.33,7.08,10.0,9.33,10.0,7.0,79.92,0.11,veracruz,2012,2012,False,False
+1033,Mexico,1210.0,Semi-washed / Semi-pulped,7.17,7.08,7.25,7.42,7.25,7.33,10.0,10.0,10.0,7.33,80.83,0.13,motozintla,2012,2012,False,False
+1112,Mexico,1000.0,Washed / Wet,7.33,7.33,7.17,7.08,7.25,7.0,10.0,10.0,10.0,7.0,80.17,0.12,veracruz,2012,2012,False,False
+1184,Mexico,1000.0,Washed / Wet,7.0,7.0,6.92,7.17,7.17,7.08,10.0,10.0,10.0,6.92,79.25,0.13,veracruz,2012,2012,False,False
+1290,Mexico,1200.0,Washed / Wet,6.92,6.42,6.17,7.33,7.25,6.75,10.0,6.67,10.0,6.5,74.0,0.13,xalapa,2012,2012,False,False
+519,Mexico,750.0,Washed / Wet,7.67,7.58,7.42,7.5,7.67,7.58,10.0,10.0,10.0,7.58,83.0,0.11,coatepec,2012,2012,False,False
+790,Mexico,1250.0,Washed / Wet,7.67,7.5,7.25,7.58,7.42,7.33,10.0,10.0,10.0,7.33,82.08,0.11,coatepec,2012,2012,False,False
+1143,Mexico,1300.0,Washed / Wet,7.17,7.08,7.0,7.25,7.5,7.0,10.0,10.0,10.0,6.83,79.83,0.12,veracruz,2012,2012,False,False
+601,Mexico,1200.0,Washed / Wet,7.58,7.58,7.33,7.75,7.25,7.58,10.0,10.0,10.0,7.67,82.75,0.12,veracruz,2012,2012,False,False
+792,Mexico,1250.0,Washed / Wet,7.58,7.42,7.25,7.75,7.33,7.42,10.0,10.0,10.0,7.33,82.08,0.11,veracruz,2012,2012,False,False
+751,Mexico,1100.0,Washed / Wet,7.33,7.58,7.42,7.67,7.33,7.5,10.0,10.0,10.0,7.42,82.25,0.11,veracruz,2012,2012,False,False
+1167,Mexico,1550.0,Washed / Wet,7.25,6.92,6.92,7.33,7.25,7.0,10.0,10.0,10.0,6.92,79.58,0.13,la concordia,2012,2012,False,False
+574,Mexico,1550.0,Washed / Wet,7.58,7.67,7.5,7.58,7.5,7.5,10.0,10.0,10.0,7.5,82.83,0.12,la concordia,2012,2012,False,False
+867,Mexico,1550.0,Washed / Wet,7.33,7.42,7.33,7.67,7.42,7.25,10.0,10.0,10.0,7.33,81.75,0.12,la concordia,2012,2012,False,False
+1086,Mexico,1550.0,Washed / Wet,7.42,7.08,7.08,7.33,7.25,7.17,10.0,10.0,10.0,7.08,80.42,0.12,la concordia,2012,2012,False,False
+1173,Mexico,1550.0,Washed / Wet,7.25,7.08,6.92,7.25,7.58,7.08,9.33,10.0,10.0,7.0,79.5,0.12,la concordia,2012,2012,False,False
+866,Mexico,1100.0,Washed / Wet,7.42,7.5,7.33,7.58,7.33,7.33,10.0,10.0,10.0,7.25,81.75,0.11,oaxaca,2012,2012,False,False
+995,Mexico,1300.0,Washed / Wet,7.33,7.25,7.33,7.42,7.25,7.42,10.0,10.0,10.0,7.08,81.08,0.12,santo reyes nopala,2012,2012,False,False
+1047,Mexico,1200.0,Washed / Wet,7.58,7.33,7.42,7.25,7.5,7.5,9.33,9.33,10.0,7.5,80.75,0.11,oaxaca,2012,2012,False,False
+669,Mexico,1650.0,Semi-washed / Semi-pulped,7.92,7.5,7.33,7.58,7.25,7.42,10.0,10.0,10.0,7.5,82.5,0.11,la concordia,2012,2012,False,False
+906,Mexico,1600.0,Natural / Dry,7.33,7.5,7.25,7.5,7.5,7.17,10.0,10.0,10.0,7.33,81.58,0.11,la concordia,2012,2012,False,False
+907,Mexico,1650.0,Natural / Dry,7.67,7.58,7.42,7.58,7.58,7.42,10.0,10.0,8.67,7.67,81.58,0.11,la concordia,2012,2012,False,False
+868,Mexico,1650.0,Washed / Wet,7.5,7.42,7.25,7.33,7.67,7.25,10.0,10.0,10.0,7.33,81.75,0.12,la concordia,2012,2012,False,False
+809,Mexico,940.0,Washed / Wet,7.67,7.33,7.25,7.5,7.42,7.42,10.0,10.0,10.0,7.42,82.0,0.12,coscomatepec,2012,2012,False,False
+1289,Mexico,1140.0,Washed / Wet,7.0,6.58,6.67,6.83,7.08,6.83,10.0,6.67,10.0,6.67,74.33,0.14,"chocaman, veracruz",2012,2012,False,False
+1204,Mexico,1200.0,Washed / Wet,7.17,6.83,6.83,7.25,7.17,6.92,10.0,10.0,10.0,6.83,79.0,0.14,amatenango de la frontera,2012,2012,False,False
+167,Mexico,1350.0,Washed / Wet,8.0,7.92,7.42,8.08,7.5,7.67,10.0,10.0,10.0,7.92,84.5,0.12,hustusco,2012,2012,False,False
+1301,Mexico,1800.0,Washed / Wet,6.5,6.67,6.42,7.17,7.33,6.5,8.0,6.0,10.0,6.42,71.0,0.11,veracruz,2012,2012,False,False
+996,Mexico,1642.0,Washed / Wet,7.33,7.33,7.25,7.42,7.25,7.25,10.0,10.0,10.0,7.25,81.08,0.11,santa maria sitepec,2012,2012,False,False
+1264,Mexico,1100.0,Washed / Wet,7.17,6.58,6.58,7.0,7.25,6.58,9.33,9.33,10.0,6.58,76.42,0.13,coatepec,2012,2012,False,False
+744,Mexico,1338.0,Washed / Wet,7.58,7.58,7.42,7.42,7.42,7.42,10.0,10.0,10.0,7.42,82.25,0.12,veracruz,2013,2013,False,False
+830,Mexico,1650.0,Washed / Wet,7.33,7.58,7.17,7.58,7.42,7.33,10.0,10.0,10.0,7.5,81.92,0.12,veracruz,2012,2012,False,False
+929,Mexico,1100.0,Natural / Dry,7.5,7.5,7.25,7.5,7.42,7.58,9.33,10.0,10.0,7.42,81.5,0.11,atoyac de alvarez,2012,2012,False,False
+856,Mexico,1250.0,Semi-washed / Semi-pulped,7.33,7.33,7.25,7.5,7.5,7.5,10.0,10.0,10.0,7.42,81.83,0.12,coatepec,2012,2012,False,False
+788,Mexico,1300.0,Washed / Wet,7.42,7.58,7.5,7.33,7.42,7.42,10.0,10.0,10.0,7.42,82.08,0.13,coatepec,2012,2012,False,False
+695,Mexico,1300.0,Washed / Wet,7.42,7.58,7.33,7.58,7.5,7.5,10.0,10.0,10.0,7.5,82.42,0.14,coatepec,2012,2012,False,False
+1271,Mexico,1250.0,Washed / Wet,7.08,6.83,6.83,7.17,7.17,7.08,10.0,7.33,10.0,6.58,76.08,0.12,tepictla,2012,2012,False,False
+1029,Mexico,1186.0,Washed / Wet,7.58,7.33,7.08,7.5,7.17,7.25,10.0,10.0,10.0,7.0,80.92,0.13,ixhuatlan del cafe,2012,2012,False,False
+1300,Mexico,800.0,Washed / Wet,6.92,6.92,6.92,6.92,7.17,7.0,10.0,2.67,10.0,6.58,71.08,0.12,tlatlauquitepec,2012,2012,False,False
+732,Mexico,1300.0,Washed / Wet,8.0,7.75,7.33,7.33,7.08,7.67,9.33,10.0,10.0,7.83,82.33,0.11,santa catarina juquila,2012,2012,False,False
+490,Mexico,1400.0,Washed / Wet,7.75,7.67,7.42,7.75,7.5,7.5,10.0,10.0,10.0,7.5,83.08,0.1,santa catarina juquila,2012,2012,False,False
+628,Mexico,950.0,Washed / Wet,7.5,7.58,7.58,7.58,7.42,7.42,10.0,10.0,10.0,7.58,82.67,0.12,mahuixtlan,2012,2012,False,False
+947,Mexico,1100.0,Washed / Wet,7.42,7.42,7.25,7.25,7.5,7.33,10.0,10.0,10.0,7.25,81.42,0.13,"coatepec, coatepec",2012,2012,False,False
+178,Mexico,900.0,Washed / Wet,7.75,7.92,7.75,7.67,7.83,7.67,10.0,10.0,10.0,7.83,84.42,0.12,tapachula,2012,2012,False,False
+1055,Mexico,1200.0,Washed / Wet,7.25,7.17,7.17,7.25,7.17,7.42,10.0,10.0,10.0,7.25,80.67,0.12,"el desmoronado, talpan de allende jalisco",2014,2014,False,False
+686,Mexico,1296.0,Washed / Wet,7.42,7.5,7.42,7.58,7.42,7.5,10.0,10.0,10.0,7.58,82.42,0.11,la yerba,2014,2014,False,False
+619,Mexico,1296.0,Natural / Dry,7.67,7.58,7.42,7.5,7.42,7.5,10.0,10.0,10.0,7.58,82.67,0.11,la yerba,2014,2014,False,False
+752,Mexico,900.0,Washed / Wet,7.42,7.5,7.42,7.58,7.42,7.5,10.0,10.0,10.0,7.42,82.25,0.1,canoas,2012,2012,False,False
+274,Mexico,1400.0,Washed / Wet,7.75,7.92,7.83,7.92,7.75,7.67,9.33,10.0,10.0,7.75,83.92,0.0,la yerbabuena,2012,2012,False,False
+1013,Mexico,1100.0,Washed / Wet,7.58,7.67,7.5,7.67,7.58,7.5,8.0,10.0,10.0,7.5,81.0,0.0,adolfo lopez mateos,2012,2012,False,False
+776,Mexico,1200.0,Washed / Wet,7.0,7.67,7.5,7.5,7.42,7.5,10.0,10.0,10.0,7.58,82.17,0.1,colima,2012,2012,False,False
+141,Mexico,1200.0,Washed / Wet,7.83,7.58,7.67,7.92,7.92,7.83,10.0,10.0,10.0,7.92,84.67,0.13,el remudadero,2012,2012,False,False
+651,Mexico,1150.0,Washed / Wet,7.67,7.58,7.58,7.75,7.67,6.83,10.0,10.0,10.0,7.5,82.58,0.12,colima,2012,2012,False,False
+1220,Mexico,1300.0,Washed / Wet,7.92,7.58,7.58,7.92,7.92,7.5,8.0,6.67,10.0,7.5,78.58,0.1,cofradia de suchitlan,2012,2012,False,False
+1212,Mexico,1350.0,Washed / Wet,7.67,7.17,6.83,7.33,7.58,7.17,9.33,10.0,8.67,7.0,78.75,0.12,"ohuapan, tlaltetela",2012,2012,False,False
+1039,Myanmar,1166.0,Washed / Wet,6.92,7.5,7.0,7.58,7.5,7.08,10.0,10.0,10.0,7.17,80.75,0.0,ywar ngan,2015,2015,False,False
+841,Myanmar,1219.0,Washed / Wet,7.33,7.58,7.5,7.42,7.33,7.33,10.0,10.0,10.0,7.33,81.83,0.0,ywar ngan,2015,2015,False,False
+1018,Myanmar,1067.0,Other,7.17,7.42,7.0,7.58,7.33,7.0,10.0,10.0,10.0,7.42,80.92,0.0,pyinoolwin,2015,2015,False,False
+1124,Myanmar,1172.0,Washed / Wet,7.17,7.33,7.0,7.42,7.17,7.0,10.0,10.0,10.0,6.92,80.0,0.0,"doe kwin, pyin oo lwin",2015,2015,False,False
+1099,Myanmar,1307.0,Natural / Dry,7.42,7.0,7.08,7.0,7.17,7.33,10.0,10.0,10.0,7.25,80.25,0.0,ywar ngan,2014,2014,False,False
+916,Myanmar,1219.0,Washed / Wet,7.25,7.42,7.25,7.5,7.33,7.33,10.0,10.0,10.0,7.42,81.5,0.0,ywar ngan township,2015,2015,False,False
+1074,Myanmar,1158.0,Washed / Wet,7.17,7.33,7.17,7.42,7.25,7.08,10.0,10.0,10.0,7.08,80.5,0.0,pyin oo lwin,2015,2015,False,False
+573,"Tanzania, United Republic Of",1400.0,Washed / Wet,7.67,7.5,7.33,7.25,7.58,7.75,10.0,10.0,10.0,7.75,82.83,0.11,arusha,2012,2012,False,False
+783,"Tanzania, United Republic Of",1500.0,Washed / Wet,7.42,7.33,7.42,7.42,7.5,7.58,10.0,10.0,10.0,7.42,82.08,0.12,kilimanjaro,2014,2014,False,False
+463,"Tanzania, United Republic Of",1800.0,Washed / Wet,7.58,7.5,7.58,7.75,7.58,7.58,10.0,10.0,10.0,7.58,83.17,0.12,kilimanjaro,2014,2014,False,False
+443,"Tanzania, United Republic Of",1600.0,Washed / Wet,7.67,7.58,7.42,7.67,7.67,7.58,10.0,10.0,10.0,7.58,83.17,0.12,moshi,2016,2016,True,True
+875,"Tanzania, United Republic Of",1800.0,,7.17,7.33,7.33,7.42,7.5,7.33,10.0,10.0,10.0,7.58,81.67,0.0,mbinga,2016,2016,False,False
+761,"Tanzania, United Republic Of",1600.0,Washed / Wet,7.42,7.42,7.42,7.5,7.5,7.33,10.0,10.0,10.0,7.58,82.17,0.12,northern,2015,2016,False,False
+1,Ethiopia,2075.0,Washed / Wet,8.67,8.83,8.67,8.75,8.5,8.42,10.0,10.0,10.0,8.75,90.58,0.12,guji hambela,2014,2014,False,False
+5,Ethiopia,2075.0,Washed / Wet,8.25,8.5,8.25,8.5,8.42,8.33,10.0,10.0,10.0,8.58,88.83,0.12,guji hambela,2014,2014,False,False
+2,Ethiopia,2075.0,Washed / Wet,8.75,8.67,8.5,8.58,8.42,8.42,10.0,10.0,10.0,8.58,89.92,0.12,guji hambela,2014,2014,False,False
+11,Ethiopia,1905.0,Natural / Dry,8.17,8.67,8.25,8.5,7.75,8.17,10.0,10.0,10.0,8.58,88.08,0.1,oromia,2014,2014,False,False
+35,Ethiopia,1775.0,Natural / Dry,8.0,8.08,7.92,8.0,8.08,8.08,10.0,10.0,10.0,8.08,86.25,0.1,oromia,2014,2014,False,False
+221,Ethiopia,1606.5,Natural / Dry,7.5,7.92,7.58,7.83,7.75,7.83,10.0,10.0,10.0,7.75,84.17,0.1,snnprg kafa telo woreda shada kebele,2014,2014,False,False
+4,Ethiopia,2000.0,Natural / Dry,8.17,8.58,8.42,8.42,8.5,8.25,10.0,10.0,10.0,8.67,89.0,0.11,oromia,2014,2014,False,False
+10,Ethiopia,1822.5,Natural / Dry,8.08,8.58,8.5,8.5,7.67,8.42,10.0,10.0,10.0,8.5,88.25,0.1,"snnp kaffa zone, gimbowereda",2014,2014,False,False
+360,Ethiopia,1600.0,Natural / Dry,7.67,7.75,7.5,7.58,7.75,7.67,10.0,10.0,10.0,7.58,83.5,0.1,oromia,2014,2014,False,False
+71,Ethiopia,1900.0,Washed / Wet,7.75,7.83,7.83,8.17,7.92,7.83,10.0,10.0,10.0,8.08,85.42,0.1,oromia,2015,2015,False,False
+68,Ethiopia,1900.0,Natural / Dry,7.83,8.0,7.83,7.92,7.83,8.08,10.0,10.0,10.0,8.0,85.5,0.12,oromia,2015,2015,False,False
+60,Ethiopia,2361.0,Natural / Dry,7.83,8.0,7.83,8.17,7.92,8.0,10.0,10.0,10.0,8.0,85.75,0.09,addis ababa,2017,2017,False,True
+89,Ethiopia,1850.0,Natural / Dry,7.75,8.0,7.58,8.0,8.0,7.92,10.0,10.0,10.0,7.83,85.08,0.11,"kefa zone, gimbo distict, at a place called woka araba, south west ethiopia",2016,2016,False,True
+282,Ethiopia,1676.5,Natural / Dry,7.75,7.75,7.67,7.67,7.58,7.67,10.0,10.0,10.0,7.75,83.83,0.12,oromia,2014,2014,False,False
+57,Ethiopia,1900.0,Washed / Wet,7.83,8.08,7.92,8.08,8.0,7.92,10.0,10.0,10.0,8.0,85.83,0.1,oromia,2014,2014,False,False
+587,El Salvador,1250.0,Washed / Wet,7.67,7.67,7.17,7.33,7.58,7.67,10.0,10.0,10.0,7.67,82.75,0.0,cacahuatique,2017,2017,False,False
+535,El Salvador,1350.0,Washed / Wet,7.5,7.5,7.75,7.58,7.92,7.83,10.0,10.0,9.33,7.5,82.92,0.0,apaneca,2017,2017,False,False
+820,El Salvador,1250.0,Washed / Wet,7.67,7.58,7.33,7.5,7.5,7.67,10.0,10.0,9.33,7.33,81.92,0.11,"el balsamo, quezaltepec",2014,2014,False,False
+383,El Salvador,1330.0,Washed / Wet,7.58,7.5,7.75,7.58,7.75,7.67,10.0,10.0,10.0,7.58,83.42,0.11,apaneca,2016,2016,False,False
+563,El Salvador,1250.0,Washed / Wet,7.33,7.67,7.67,7.83,7.33,7.67,10.0,10.0,10.0,7.33,82.83,0.0,"el balsamo, quezaltepec",2016,2016,False,False
+450,El Salvador,1350.0,Washed / Wet,7.5,7.5,7.33,7.67,8.0,7.67,10.0,10.0,10.0,7.5,83.17,0.0,apaneca,2016,2016,False,False
+1000,El Salvador,1450.0,Washed / Wet,7.42,7.08,7.08,7.33,7.25,7.58,10.0,10.0,10.0,7.25,81.0,0.0,apaneca,2017,2017,False,False
+126,El Salvador,1350.0,Washed / Wet,7.83,7.83,7.5,8.0,7.83,7.67,10.0,10.0,10.0,8.0,84.67,0.0,apaneca,2016,2016,False,False
+739,El Salvador,1500.0,Washed / Wet,7.58,7.67,7.5,7.67,7.83,8.42,9.33,9.33,9.33,7.58,82.25,0.12,apaneca,2014,2014,False,False
+1159,El Salvador,1250.0,Washed / Wet,7.25,7.08,7.0,6.83,7.33,7.17,10.0,10.0,10.0,7.0,79.67,0.0,cacahuatique,2016,2016,False,False
+611,El Salvador,1200.0,Washed / Wet,7.67,7.67,7.67,7.67,7.5,7.67,10.0,10.0,9.33,7.5,82.67,0.0,"el balsamo, quezaltepec",2016,2016,False,False
+639,Indonesia,1250.0,Semi-washed / Semi-pulped,7.83,7.58,7.42,7.33,7.42,7.5,10.0,10.0,10.0,7.5,82.58,0.13,aceh,2015,2015,False,False
+540,Philippines,1200.0,Washed / Wet,7.58,7.58,7.67,7.58,7.5,7.5,10.0,10.0,10.0,7.5,82.92,0.11,"bukidnon, mindanao, philppines",2015,2015,False,False
+584,Indonesia,1500.0,Other,7.5,7.58,7.42,7.58,7.58,7.5,10.0,10.0,10.0,7.58,82.75,0.12,sapan toraja,2017,2017,False,False
+778,Indonesia,1300.0,Washed / Wet,7.5,7.5,7.42,7.42,7.5,7.42,10.0,10.0,10.0,7.33,82.08,0.15,aceh gayo,2017,2017,False,False
+655,Indonesia,1250.0,Washed / Wet,7.83,7.75,7.25,7.5,7.42,7.33,10.0,10.0,10.0,7.42,82.5,0.11,bali,2017,2017,False,False
+127,Indonesia,1200.0,Washed / Wet,7.92,7.83,7.75,7.75,7.75,7.75,10.0,10.0,10.0,7.92,84.67,0.12,temanggung,2016,2016,False,False
+1234,Indonesia,1300.0,Washed / Wet,6.92,6.83,6.92,6.92,6.92,6.83,10.0,10.0,10.0,6.83,78.17,0.13,ijen,2016,2016,False,False
+333,Indonesia,1400.0,Washed / Wet,8.17,7.67,7.58,7.58,7.42,7.67,10.0,10.0,10.0,7.58,83.67,0.12,east java,2012,2012,False,False
+232,Indonesia,1200.0,Natural / Dry,7.81,7.88,7.56,7.75,7.63,7.75,10.0,10.0,10.0,7.75,84.13,0.12,aceh tengah,2017,2017,False,True
+375,Indonesia,1600.0,,7.83,7.58,7.58,7.58,7.75,7.58,10.0,10.0,10.0,7.58,83.5,0.0,bondowoso,2010,2010,False,False
+495,Indonesia,1350.0,,7.67,7.58,7.5,7.58,7.67,7.58,10.0,10.0,10.0,7.5,83.08,0.0,dolok sanggul,2010,2010,False,False
+930,Indonesia,1400.0,Washed / Wet,7.75,7.17,7.17,7.33,7.58,7.33,10.0,10.0,10.0,7.17,81.5,0.12,ijen,2012,2012,False,False
+588,Costa Rica,1850.0,Washed / Wet,7.58,7.5,7.42,7.67,7.42,7.5,10.0,10.0,10.0,7.67,82.75,0.09,tarrazu,2016,2016,False,False
+786,Costa Rica,1350.0,Washed / Wet,7.58,7.33,7.33,7.33,7.5,7.67,10.0,10.0,10.0,7.33,82.08,0.11,turrialba,2013,2013,True,True
+379,Costa Rica,1850.0,Washed / Wet,7.58,7.5,7.42,7.92,7.5,7.67,10.0,10.0,10.0,7.83,83.42,0.09,tarrazu,2016,2016,False,False
+220,Costa Rica,1850.0,Washed / Wet,7.67,7.75,7.67,7.75,7.5,8.0,10.0,10.0,10.0,7.83,84.17,0.0,tarrazu,2014,2014,False,False
+1053,Costa Rica,1850.0,Washed / Wet,7.83,7.5,7.67,7.67,7.83,7.5,6.67,10.0,10.0,8.0,80.67,0.11,tarrazu,2015,2015,True,True
+277,Costa Rica,1850.0,Washed / Wet,7.67,7.67,7.75,7.67,7.5,7.75,10.0,10.0,10.0,7.83,83.83,0.0,tarrazu,2015,2015,False,False
+321,Costa Rica,1350.0,,7.33,7.67,7.67,7.5,7.67,7.5,10.0,10.0,10.0,8.33,83.67,0.11,west valley,,,False,False
+884,Costa Rica,1850.0,Washed / Wet,7.5,7.17,7.17,7.17,7.5,7.08,10.0,10.0,10.0,8.08,81.67,0.11,tarrazu,2013,2013,False,False
+899,Costa Rica,1350.0,Washed / Wet,7.58,7.42,7.5,7.17,7.08,7.58,10.0,10.0,10.0,7.25,81.58,0.12,turrialba,2015,2015,True,True
+354,Costa Rica,1850.0,Washed / Wet,7.92,7.42,7.5,7.67,7.5,7.67,10.0,10.0,10.0,7.83,83.5,0.0,tarrazu,2015,2015,False,False
+710,Costa Rica,1850.0,Washed / Wet,7.75,7.5,7.25,7.25,7.42,7.67,10.0,10.0,10.0,7.5,82.33,0.1,tarrazu,2015,2015,False,False
+172,Costa Rica,1300.0,Washed / Wet,7.58,7.83,7.83,8.0,7.67,7.58,10.0,10.0,10.0,7.92,84.42,0.1,tarrazu,2016,2016,False,False
+159,Costa Rica,1200.0,Washed / Wet,7.92,7.67,7.92,7.75,7.67,7.58,10.0,10.0,10.0,8.0,84.5,0.1,valle central,2017,2018,False,False
+129,Costa Rica,1150.0,Washed / Wet,8.08,7.75,7.67,7.83,7.5,7.92,10.0,10.0,10.0,7.92,84.67,0.1,tarrazu,2015,2015,False,False
+419,Costa Rica,1850.0,Washed / Wet,7.83,7.5,7.42,7.67,7.5,7.67,10.0,10.0,10.0,7.67,83.25,0.11,tarrazu,2015,2015,False,True
+711,Costa Rica,1550.0,Washed / Wet,7.75,7.33,7.5,7.5,7.33,7.58,10.0,10.0,10.0,7.33,82.33,0.0,tarrazu,2015,2015,False,False
+1247,Nicaragua,1000.0,,7.42,7.0,7.0,7.17,7.08,7.0,9.33,8.67,10.0,7.17,77.83,0.1,jinotega,2016,2016,False,False
+213,Costa Rica,1700.0,Washed / Wet,7.92,7.75,7.67,7.67,7.5,7.67,10.0,10.0,10.0,8.0,84.17,0.09,tarrazu,2016,2016,False,False
+512,Costa Rica,1200.0,Washed / Wet,7.67,7.58,7.5,7.58,7.5,7.5,10.0,10.0,10.0,7.67,83.0,0.11,central valley,2013,2013,False,False
+284,Costa Rica,1300.0,Washed / Wet,7.83,7.42,7.5,7.83,7.75,7.83,10.0,10.0,10.0,7.67,83.83,0.1,central valley,2013,2013,False,False
+804,Costa Rica,1300.0,Washed / Wet,7.5,7.25,7.33,7.33,7.75,7.5,10.0,10.0,10.0,7.33,82.0,0.1,central valley,2013,2013,False,False
+134,Costa Rica,1200.0,Washed / Wet,8.0,7.58,7.83,7.75,7.75,7.75,10.0,10.0,10.0,8.0,84.67,0.11,west valley,2014,2014,False,False
+486,Costa Rica,1300.0,Washed / Wet,7.83,7.33,7.5,7.67,7.58,7.67,10.0,10.0,10.0,7.5,83.08,0.1,central valley,2014,2014,False,False
+981,Costa Rica,1300.0,Washed / Wet,7.33,7.08,7.33,7.25,7.33,7.58,10.0,10.0,10.0,7.25,81.17,0.11,central valley,2014,2014,False,False
+407,Costa Rica,1200.0,Washed / Wet,7.5,7.67,7.67,7.5,7.83,7.17,10.0,10.0,10.0,8.0,83.33,0.11,central valley,2013,2013,False,False
+644,Costa Rica,1300.0,Washed / Wet,7.67,7.42,7.5,7.67,7.0,7.75,10.0,10.0,10.0,7.58,82.58,0.11,central valley,2013,2013,False,False
+34,Costa Rica,1300.0,Washed / Wet,8.17,7.83,8.0,8.08,7.83,8.0,10.0,10.0,10.0,8.42,86.33,0.0,west and central valley,2015,2016,False,False
+56,Panama,1600.0,Washed / Wet,8.0,8.0,7.92,8.08,7.83,8.0,10.0,10.0,10.0,8.0,85.83,0.08,boquete,2017,2017,False,False
+131,Costa Rica,1750.0,Washed / Wet,8.17,8.0,7.83,7.17,7.83,7.75,10.0,10.0,10.0,7.92,84.67,0.12,tarrazu,2014,2014,False,False
+162,Costa Rica,1700.0,Washed / Wet,7.92,7.83,7.83,7.83,7.58,7.58,10.0,10.0,10.0,7.92,84.5,0.11,tarrazu,2014,2014,False,False
+599,Colombia,1450.0,Washed / Wet,7.58,7.33,7.17,7.33,7.25,8.58,10.0,10.0,10.0,7.5,82.75,0.1,antioquia,2013,2013,True,True
+1032,Guatemala,1200.0,Washed / Wet,7.67,7.25,7.08,7.33,7.17,7.25,10.0,10.0,10.0,7.08,80.83,0.11,orient,2013,2013,False,False
+992,Costa Rica,1500.0,Washed / Wet,7.42,7.25,7.17,7.25,7.25,7.58,10.0,10.0,10.0,7.17,81.08,0.13,naranjo,2014,2014,False,False
+363,Guatemala,1400.0,Washed / Wet,7.58,7.75,7.5,7.83,7.42,7.67,10.0,10.0,10.0,7.75,83.5,0.1,atitlan,2013,2013,False,False
+720,Colombia,1450.0,Washed / Wet,7.42,7.33,7.5,7.17,7.08,8.33,10.0,10.0,10.0,7.5,82.33,0.1,antioquia,2013,2013,True,True
+685,Guatemala,1400.0,Washed / Wet,7.5,7.5,7.5,7.67,7.42,7.5,10.0,10.0,10.0,7.33,82.42,0.1,atitlan,2013,2013,False,False
+218,Nicaragua,1000.0,Natural / Dry,7.67,7.83,7.83,7.5,7.67,7.83,10.0,10.0,10.0,7.83,84.17,0.12,jinotega,2015,2015,False,False
+844,Costa Rica,1300.0,Washed / Wet,7.67,7.5,7.5,7.25,7.08,7.42,10.0,10.0,10.0,7.42,81.83,0.09,tres rios,2015,2015,False,False
+975,Costa Rica,1300.0,Washed / Wet,7.5,7.5,7.33,7.17,7.08,7.17,10.0,10.0,10.0,7.42,81.17,0.11,tres rios,2015,2015,False,False
+782,Costa Rica,1300.0,Washed / Wet,7.75,7.42,7.42,7.25,7.17,7.42,10.0,10.0,10.0,7.67,82.08,0.0,tres rios,2015,2015,False,False
+1244,Costa Rica,1200.0,Washed / Wet,7.5,7.25,7.42,7.0,7.08,6.83,8.67,9.33,10.0,6.83,77.92,0.12,occidental,2014,2014,False,False
+1299,Costa Rica,1200.0,Washed / Wet,6.33,6.5,6.33,6.83,6.33,6.5,10.0,6.67,10.0,6.25,71.75,0.11,occidental,2014,2014,False,False
+917,Costa Rica,1200.0,Washed / Wet,7.83,7.33,7.08,7.08,7.33,7.5,10.0,10.0,10.0,7.33,81.5,0.12,occidental,2014,2014,False,False
+120,Ethiopia,1750.0,,7.42,7.92,7.92,8.0,7.83,7.83,10.0,10.0,10.0,7.92,84.83,0.1,sidamo,2009,2010,False,False
+179,Ethiopia,1671.5,,7.5,7.75,7.83,7.92,7.92,7.75,10.0,10.0,10.0,7.75,84.42,0.2,limu,2009,2010,False,True
+9,Ethiopia,1635.0,,8.67,8.67,8.58,8.42,8.33,8.42,9.33,10.0,9.33,8.67,88.42,0.03,oromiya,2010,2010,False,False
+83,Ethiopia,1875.0,,7.92,7.83,7.75,8.33,7.75,7.75,10.0,10.0,10.0,8.0,85.33,0.1,yirgacheffe,2009,2010,False,True
+295,Ethiopia,1750.0,,7.58,7.83,7.58,8.0,7.83,7.5,10.0,10.0,10.0,7.5,83.83,0.1,sidamo,2010,2010,False,True
+1130,Ethiopia,1671.5,,7.42,7.42,7.5,7.92,7.75,7.58,8.67,9.33,8.67,7.75,80.0,0.05,limu,2010,2010,False,True
+95,Ethiopia,1750.0,,7.67,8.0,7.83,8.0,7.92,7.83,10.0,10.0,10.0,7.83,85.08,0.0,sidamo,2010,2010,False,True
+27,Ethiopia,1750.0,,7.83,8.25,8.08,8.17,8.17,8.17,10.0,10.0,10.0,8.25,86.92,0.05,sidamo,2009,2010,False,True
+51,Ethiopia,1750.0,,7.75,8.08,8.0,8.25,8.0,8.0,10.0,10.0,10.0,7.92,86.0,0.01,sidamo,2009,2010,False,False
+39,Ethiopia,1875.0,,7.92,7.75,8.08,8.08,8.08,8.17,10.0,10.0,10.0,8.17,86.25,0.1,yirgacheffe,2009,2010,False,True
+15,Ethiopia,1635.0,,8.25,8.33,8.5,8.25,8.58,8.75,9.33,10.0,9.33,8.5,87.83,0.05,oromiya,2010,2010,False,False
+1094,Ethiopia,1850.0,,7.25,7.25,7.25,7.33,7.5,8.0,9.33,9.33,10.0,7.08,80.33,0.1,kelem welega,2010,2010,False,True
+82,Ethiopia,1875.0,,7.83,7.83,7.92,8.08,7.75,7.83,10.0,10.0,10.0,8.08,85.33,0.05,yirgacheffe,2009,2010,False,True
+478,Ethiopia,1850.0,,7.75,8.0,7.67,8.08,7.83,7.92,9.33,9.33,9.33,7.92,83.17,0.01,limu,,,False,False
+119,Ethiopia,1750.0,,7.75,7.92,7.83,7.92,7.75,7.67,10.0,10.0,10.0,8.0,84.83,0.1,sidamo,2009,2010,False,False
+144,Ethiopia,1750.0,,7.42,7.75,7.75,8.0,8.0,7.92,10.0,10.0,10.0,7.83,84.67,0.2,sidamo,2009,2010,False,False
+18,Ethiopia,1875.0,,8.17,8.33,8.25,8.33,8.42,8.33,9.33,10.0,9.33,8.83,87.33,0.05,yirgacheffe,2009,2010,False,True
+8,Ethiopia,1635.0,,8.25,8.33,8.5,8.42,8.33,8.5,10.0,10.0,9.33,9.0,88.67,0.03,oromia,2010,2010,False,False
+444,Peru,,,7.92,7.5,7.5,7.58,7.67,7.5,10.0,10.0,10.0,7.5,83.17,0.11,,2017,2017,False,False
+603,Colombia,1625.0,Washed / Wet,7.5,7.58,7.42,7.67,7.5,7.58,10.0,10.0,10.0,7.5,82.75,0.0,south huila,2012,2012,False,False
+265,Colombia,1775.0,,7.75,7.58,7.5,7.83,7.75,7.92,10.0,10.0,10.0,7.58,83.92,0.0,la plata,2016,2016,False,True
+779,Colombia,1775.0,Washed / Wet,7.75,7.58,7.42,7.67,7.83,7.58,9.33,9.33,10.0,7.58,82.08,0.0,huila,2016,2016,False,True
+182,Colombia,1775.0,Washed / Wet,7.58,7.75,7.5,7.83,7.67,8.5,10.0,10.0,10.0,7.5,84.33,0.0,huila,2016,2016,False,True
+596,Colombia,1775.0,Washed / Wet,7.67,7.42,7.42,7.58,7.33,7.67,10.0,10.0,10.0,7.67,82.75,0.12,huila,2014,2014,True,True
+423,Colombia,1775.0,Natural / Dry,7.58,7.67,7.67,7.17,7.75,7.83,10.0,10.0,10.0,7.58,83.25,0.0,huila,2015,2016,True,True
+312,Colombia,1600.0,,7.83,7.83,7.58,7.33,7.42,7.67,10.0,10.0,10.0,8.08,83.75,0.1,cauca,2011,2011,False,False
+298,Colombia,1775.0,Washed / Wet,7.83,7.83,7.58,7.58,7.58,7.58,10.0,10.0,10.0,7.75,83.75,0.11,huila,2017,2017,True,True
+90,Colombia,2560.0,Natural / Dry,8.17,7.83,7.58,8.08,8.0,7.75,10.0,10.0,10.0,7.67,85.08,0.0,pasto,2015,2015,False,False
+517,Colombia,1750.0,Natural / Dry,7.58,7.75,7.42,7.67,7.58,7.42,10.0,10.0,10.0,7.58,83.0,0.0,pitalito,2013,2013,True,True
+233,Colombia,1775.0,Washed / Wet,7.83,7.5,7.42,7.5,7.83,8.5,10.0,10.0,10.0,7.5,84.08,0.0,huila,2017,2018,True,True
+264,Colombia,1775.0,,7.75,7.67,7.5,7.75,7.83,7.75,10.0,10.0,10.0,7.67,83.92,0.11,huila,2016,2016,True,True
+350,Colombia,2136.0,Natural / Dry,7.67,7.58,7.58,7.58,7.67,7.75,10.0,10.0,10.0,7.75,83.58,0.11,cundinamarca,2012,2012,False,False
+384,Colombia,1775.0,Natural / Dry,7.58,7.67,7.58,7.67,7.58,7.67,10.0,10.0,10.0,7.67,83.42,0.12,huila,2015,2015,True,True
+185,Colombia,1775.0,Natural / Dry,7.75,7.67,8.0,7.67,8.08,7.83,10.0,10.0,10.0,7.33,84.33,0.11,huila,2015,2015,True,True
+352,Colombia,1799.0,Washed / Wet,7.75,7.58,7.58,7.75,7.75,7.5,10.0,10.0,10.0,7.58,83.5,0.0,cundinamarca,2016,2016,False,False
+194,Colombia,2560.0,Natural / Dry,7.83,7.58,7.75,7.58,7.67,8.0,10.0,10.0,10.0,7.83,84.25,0.11,narino,2016,2016,False,False
+275,Colombia,2527.0,Washed / Wet,7.92,7.58,7.5,7.83,7.58,7.67,10.0,10.0,10.0,7.75,83.83,0.0,narino,2017,2017,False,False
+502,Colombia,1775.0,,7.67,7.67,7.33,7.67,7.5,7.58,10.0,10.0,10.0,7.58,83.0,0.11,huila,2016,2016,True,True
+201,Colombia,1775.0,Natural / Dry,7.42,7.67,7.83,7.75,7.92,7.83,10.0,10.0,10.0,7.83,84.25,0.12,huila,2015,2015,True,True
+302,Colombia,1775.0,Natural / Dry,7.75,7.67,7.5,7.67,7.58,7.83,10.0,10.0,10.0,7.75,83.75,0.0,huila,2015,2016,True,True
+734,Colombia,1775.0,Natural / Dry,7.83,7.58,7.33,7.25,7.58,7.42,10.0,10.0,10.0,7.33,82.33,0.0,huila,2012,2012,True,True
+378,Colombia,1775.0,Washed / Wet,7.67,7.67,7.5,7.67,7.67,7.58,10.0,10.0,10.0,7.67,83.42,0.11,huila,2016,2016,True,True
+174,Colombia,1750.0,Natural / Dry,7.92,7.83,7.75,7.67,7.92,7.67,10.0,10.0,10.0,7.67,84.42,0.0,pitalito,2015,2016,False,True
+516,Colombia,1750.0,Natural / Dry,7.33,7.67,7.75,7.42,7.75,7.58,10.0,10.0,10.0,7.5,83.0,0.11,pitalito,2013,2013,True,True
+479,Colombia,1799.0,Washed / Wet,7.58,7.67,7.33,7.67,7.75,7.58,10.0,10.0,10.0,7.5,83.08,0.0,cundinamarca,2016,2016,False,False
+355,Colombia,1750.0,Natural / Dry,7.75,7.58,7.58,7.5,7.75,7.75,10.0,10.0,10.0,7.58,83.5,0.0,pitalito,2016,2016,True,True
+410,Colombia,1750.0,Natural / Dry,7.67,7.67,7.5,7.67,7.92,7.42,10.0,10.0,10.0,7.5,83.33,0.11,pitalito,2013,2013,True,True
+376,Colombia,1775.0,Washed / Wet,7.5,7.58,7.58,7.5,7.75,7.83,10.0,10.0,10.0,7.67,83.42,0.0,huila,2017,2018,True,True
+702,Colombia,1775.0,Natural / Dry,7.67,7.33,7.25,7.42,7.5,7.67,10.0,10.0,10.0,7.58,82.42,0.0,huila,2012,2012,True,True
+93,Colombia,2136.0,Natural / Dry,7.83,8.0,7.75,7.75,7.83,7.83,10.0,10.0,10.0,8.08,85.08,0.11,cundinamarca,2012,2012,False,False
+794,Colombia,1600.0,,7.67,7.42,7.67,7.33,7.25,7.58,10.0,10.0,10.0,7.17,82.08,0.08,cauca,2011,2011,False,False
+306,Colombia,1550.0,Washed / Wet,7.67,7.42,7.42,7.42,8.0,8.33,10.0,10.0,10.0,7.5,83.75,0.0,huila,2014,2014,False,False
+245,Colombia,1600.0,Washed / Wet,7.67,7.67,7.83,7.58,7.58,7.83,10.0,10.0,10.0,7.83,84.0,0.11,huila,2014,2015,False,False
+223,Colombia,1530.0,Washed / Wet,7.67,7.5,7.67,7.42,7.83,8.58,10.0,10.0,10.0,7.5,84.17,0.12,huila,2014,2015,False,False
+248,Colombia,1480.0,Washed / Wet,7.67,7.75,7.67,7.67,7.67,7.75,10.0,10.0,10.0,7.83,84.0,0.12,huila,2014,2014,False,False
+553,Colombia,1450.0,Washed / Wet,7.83,7.67,7.42,7.42,7.5,7.58,10.0,10.0,10.0,7.5,82.92,0.11,antioquia,2013,2013,False,False
+199,Colombia,1775.0,Washed / Wet,7.83,7.67,7.75,7.58,7.92,7.75,10.0,10.0,10.0,7.75,84.25,0.12,huila,2015,2015,False,False
+146,Colombia,1500.0,Washed / Wet,7.83,7.67,7.58,7.92,7.67,7.83,10.0,10.0,10.0,8.08,84.58,0.0,santander,2016,2016,False,False
+1003,Colombia,1600.0,Washed / Wet,7.67,7.5,7.42,5.25,7.67,7.75,10.0,10.0,10.0,7.75,81.0,0.0,guayata,2016,2016,False,False
+756,Colombia,1700.0,,7.17,7.25,7.58,7.25,7.58,7.67,10.0,10.0,10.0,7.75,82.25,0.22,cauca,,,False,True
+851,Colombia,1775.0,Washed / Wet,7.5,7.5,7.0,7.42,7.5,7.58,10.0,10.0,10.0,7.33,81.83,0.0,huila,2013,2013,False,False
+250,Colombia,1775.0,Washed / Wet,7.67,7.67,7.5,7.5,7.67,7.67,10.0,10.0,10.0,8.33,84.0,0.12,huila,2014,2014,False,False
+111,Colombia,1775.0,Washed / Wet,7.75,7.92,7.83,7.75,7.75,8.0,10.0,10.0,10.0,7.92,84.92,0.11,huila,2012,2012,False,False
+184,Colombia,1775.0,,7.67,7.67,7.75,7.83,7.75,7.83,10.0,10.0,10.0,7.83,84.33,0.0,la plata,2016,2016,False,True
+340,Colombia,1800.0,Washed / Wet,7.67,7.75,7.58,7.67,7.75,7.58,10.0,10.0,10.0,7.58,83.58,0.12,huila,2015,2015,False,False
+175,Colombia,1775.0,Washed / Wet,7.92,7.75,7.67,7.92,7.67,7.75,10.0,10.0,10.0,7.75,84.42,0.0,huila,2014,2014,False,False
+217,Colombia,1775.0,Washed / Wet,8.0,7.5,7.5,7.67,8.0,7.83,10.0,10.0,10.0,7.67,84.17,0.0,huila,2015,2015,False,False
+633,Colombia,,,7.5,7.42,7.33,7.33,7.67,7.83,10.0,10.0,10.0,7.58,82.67,0.21,,2009,2010,False,False
+372,Colombia,1775.0,Washed / Wet,7.67,7.58,7.58,7.67,7.67,7.67,10.0,10.0,10.0,7.67,83.5,0.11,huila,2012,2012,False,False
+357,Colombia,1775.0,Washed / Wet,7.58,7.58,7.58,7.58,7.75,7.67,10.0,10.0,10.0,7.75,83.5,0.12,huila,2015,2015,False,False
+558,Colombia,1450.0,,7.5,7.75,7.33,7.75,7.08,7.83,10.0,10.0,10.0,7.67,82.92,0.15,cauca,2011,2011,False,False
+348,Colombia,1775.0,Washed / Wet,7.67,7.67,7.58,7.67,7.75,7.58,10.0,10.0,10.0,7.67,83.58,0.11,huila,2012,2012,False,False
+1060,Colombia,,,7.17,7.25,7.08,7.42,7.08,7.42,10.0,10.0,10.0,7.25,80.67,0.18,,,,False,False
+572,Colombia,1775.0,Washed / Wet,7.83,7.5,7.5,7.42,7.5,7.5,10.0,10.0,10.0,7.58,82.83,0.11,huila,2013,2013,False,False
+692,Colombia,1775.0,Washed / Wet,7.67,7.42,7.33,7.5,7.58,7.5,10.0,10.0,10.0,7.42,82.42,0.11,huila,2013,2013,False,False
+806,Colombia,1900.0,Washed / Wet,7.33,7.33,7.58,7.5,7.5,7.58,10.0,10.0,10.0,7.17,82.0,0.11,huila,2013,2013,False,False
+518,Colombia,1775.0,Washed / Wet,7.5,7.5,7.42,7.58,7.75,7.58,10.0,10.0,10.0,7.67,83.0,0.11,huila,2012,2012,False,False
+604,Colombia,1775.0,Washed / Wet,7.67,7.58,7.58,7.58,7.5,7.42,10.0,10.0,10.0,7.42,82.75,0.11,huila,2012,2012,False,False
+526,Colombia,1775.0,Washed / Wet,7.67,7.67,7.58,7.5,7.67,7.42,10.0,10.0,10.0,7.5,83.0,0.12,la plata,2011,2011,False,False
+933,Colombia,1450.0,,7.42,7.42,7.17,7.42,7.42,7.33,10.0,10.0,10.0,7.33,81.5,0.06,cauca,,,False,False
+338,Colombia,1775.0,Washed / Wet,7.75,7.75,7.58,7.58,7.67,7.58,10.0,10.0,10.0,7.67,83.58,0.11,huila,2016,2016,False,True
+593,Colombia,1775.0,Washed / Wet,7.5,7.58,7.58,7.75,7.33,7.5,10.0,10.0,10.0,7.5,82.75,0.0,huila,2014,2014,False,False
+550,Colombia,1900.0,Washed / Wet,7.58,7.5,7.75,7.33,7.58,7.58,10.0,10.0,10.0,7.58,82.92,0.11,huila,2013,2013,False,False
+877,Colombia,1775.0,,7.75,7.75,7.75,7.67,5.25,7.83,10.0,10.0,10.0,7.67,81.67,0.0,la plata,2016,2016,False,True
+152,Colombia,1750.0,Washed / Wet,7.75,7.75,7.83,7.75,7.58,8.0,10.0,10.0,10.0,7.92,84.58,0.0,huila,2013,2013,False,False
+108,Colombia,1775.0,Washed / Wet,7.92,7.83,7.75,7.83,7.75,8.0,10.0,10.0,10.0,7.83,84.92,0.12,huila,2015,2015,False,False
+468,Colombia,1775.0,Washed / Wet,7.67,7.5,7.5,7.5,7.58,8.17,10.0,10.0,10.0,7.25,83.17,0.11,huila,2012,2012,False,False
+754,Colombia,1775.0,Washed / Wet,7.67,7.33,7.33,7.33,7.5,7.5,10.0,10.0,10.0,7.58,82.25,0.11,huila,2012,2012,False,False
+480,Colombia,1775.0,Washed / Wet,7.75,7.5,7.5,7.42,8.0,7.75,10.0,10.0,10.0,7.17,83.08,0.0,huila,2016,2016,False,True
+652,Colombia,1775.0,Washed / Wet,7.33,7.42,7.58,7.42,7.67,7.5,10.0,10.0,10.0,7.67,82.58,0.11,huila,2012,2012,False,False
+236,Colombia,1775.0,Washed / Wet,7.92,7.75,7.67,7.75,7.67,7.67,10.0,10.0,10.0,7.67,84.08,0.0,huila,2014,2014,False,False
+536,Colombia,1500.0,Washed / Wet,7.58,7.67,7.5,7.33,7.67,7.58,10.0,10.0,10.0,7.58,82.92,0.11,guayata,2017,2017,False,False
+107,Colombia,1775.0,Washed / Wet,7.92,7.92,7.67,7.83,7.92,7.83,10.0,10.0,10.0,7.83,84.92,0.0,huila,2016,2016,False,True
+1068,Colombia,,,7.08,7.25,7.0,7.5,7.08,7.33,10.0,10.0,10.0,7.33,80.58,0.0,,,,False,False
+269,Colombia,1775.0,Washed / Wet,7.75,7.58,7.67,7.83,7.83,7.67,10.0,10.0,10.0,7.58,83.92,0.0,huila,2014,2014,False,False
+98,Colombia,1775.0,Washed / Wet,8.0,7.92,7.75,7.92,7.75,7.83,10.0,10.0,10.0,7.83,85.0,0.0,huila,2016,2016,False,True
+456,Colombia,1775.0,Washed / Wet,7.58,7.5,7.5,7.67,7.5,7.67,10.0,10.0,10.0,7.75,83.17,0.0,huila,2014,2014,False,False
+212,Colombia,1775.0,Washed / Wet,7.83,7.75,7.58,7.67,7.75,7.83,10.0,10.0,10.0,7.75,84.17,0.0,huila,2016,2016,False,True
+815,Colombia,1775.0,,7.33,7.0,7.08,7.42,7.5,7.67,10.0,10.0,10.0,8.0,82.0,0.07,huila,,,False,False
+672,Colombia,1775.0,Washed / Wet,7.67,7.5,7.33,7.5,7.25,7.67,10.0,10.0,10.0,7.58,82.5,0.11,huila,2012,2012,False,False
+437,Colombia,1775.0,Washed / Wet,7.67,7.67,7.5,7.5,7.58,7.67,10.0,10.0,10.0,7.67,83.25,0.11,la plata,2012,2012,False,False
+300,Colombia,1775.0,Washed / Wet,7.92,7.75,7.5,7.67,7.75,7.5,10.0,10.0,10.0,7.67,83.75,0.0,huila,2016,2016,False,True
+514,Colombia,1775.0,Washed / Wet,7.75,7.42,7.33,7.5,7.58,7.17,10.0,10.0,10.0,8.25,83.0,0.11,huila,2013,2013,False,False
+276,Colombia,1775.0,,7.83,7.67,7.5,7.75,7.75,7.75,10.0,10.0,10.0,7.58,83.83,0.0,huila,2016,2016,False,True
+198,Colombia,1775.0,Washed / Wet,7.67,7.67,7.75,7.75,7.67,7.92,10.0,10.0,10.0,7.83,84.25,0.11,huila,2015,2015,False,False
+870,Colombia,1775.0,,7.42,7.58,6.92,7.08,7.25,8.0,10.0,10.0,10.0,7.5,81.75,0.08,huila,,,False,False
+326,Colombia,1900.0,Washed / Wet,7.67,7.67,7.67,7.67,7.33,7.75,10.0,10.0,10.0,7.92,83.67,0.0,huila,2013,2013,False,False
+528,Colombia,1450.0,,7.33,7.67,7.58,7.33,7.58,7.92,10.0,10.0,10.0,7.58,83.0,0.08,cauca,,,False,False
+305,Colombia,1775.0,Washed / Wet,7.67,7.67,7.67,7.92,7.5,7.67,10.0,10.0,10.0,7.67,83.75,0.0,huila,2014,2014,False,False
+680,Colombia,1600.0,Washed / Wet,5.08,7.75,7.83,7.75,7.83,8.08,10.0,10.0,10.0,8.08,82.42,0.11,guayata,2016,2016,False,False
+399,Colombia,1775.0,Washed / Wet,7.83,7.58,7.58,7.58,7.5,7.58,10.0,10.0,10.0,7.67,83.33,0.0,huila,2016,2016,False,True
+147,Colombia,1775.0,Washed / Wet,7.92,7.83,7.58,8.0,7.83,7.67,10.0,10.0,10.0,7.75,84.58,0.0,huila,2016,2016,False,True
+951,Colombia,1775.0,Washed / Wet,7.5,7.33,7.33,7.17,7.33,7.42,10.0,10.0,10.0,7.25,81.33,0.0,huila,2016,2016,False,True
+493,Colombia,1775.0,,7.33,7.33,7.33,7.58,7.25,8.08,10.0,10.0,10.0,8.17,83.08,0.01,huila,,,False,False
+1198,,,,6.75,6.75,6.42,6.83,7.58,7.5,10.0,10.0,10.0,7.25,79.08,0.1,,,,False,False
+398,Colombia,1600.0,Washed / Wet,7.67,7.58,7.58,7.42,7.67,7.75,10.0,10.0,10.0,7.67,83.33,0.0,guayata,2016,2016,False,True
+571,Colombia,1800.0,Natural / Dry,7.5,7.42,7.58,7.5,7.58,7.58,10.0,10.0,10.0,7.67,82.83,0.0,santander,2013,2013,False,False
+313,Colombia,1600.0,,7.75,7.67,7.25,7.25,7.58,8.5,10.0,10.0,10.0,7.75,83.75,0.06,cundinamarca,2010,2010,False,False
+494,Colombia,1880.0,,7.83,7.75,7.33,7.25,7.42,7.92,10.0,10.0,10.0,7.58,83.08,0.08,cauca,2010,2010,False,False
+858,Colombia,1700.0,,7.58,7.5,7.17,7.58,7.33,7.33,10.0,10.0,10.0,7.33,81.83,0.05,huila,2011,2011,False,False
+186,Colombia,1800.0,Washed / Wet,7.75,7.58,7.33,7.83,7.58,8.08,10.0,10.0,10.0,8.17,84.33,0.0,huila,2013,2013,False,False
+397,Colombia,1650.0,Washed / Wet,7.75,7.5,7.75,7.58,7.58,7.58,10.0,10.0,10.0,7.58,83.33,0.0,huila,2016,2016,False,False
+623,Colombia,1800.0,Washed / Wet,7.75,7.58,7.67,7.25,7.58,7.42,10.0,10.0,10.0,7.42,82.67,0.11,huila,2012,2012,False,False
+772,Colombia,1750.0,Washed / Wet,7.33,7.25,7.25,7.58,7.75,7.5,10.0,10.0,10.0,7.5,82.17,0.0,huila,2013,2013,False,False
+439,Colombia,1880.0,,8.0,7.67,7.67,7.25,7.67,7.5,10.0,10.0,10.0,7.5,83.25,0.13,cauca,2010,2010,False,False
+531,Colombia,1800.0,,7.5,7.58,7.67,7.67,7.58,7.58,10.0,10.0,10.0,7.42,83.0,0.06,huila,2011,2011,False,False
+253,Colombia,1700.0,Washed / Wet,7.67,7.83,7.67,7.75,7.67,7.75,10.0,10.0,10.0,7.67,84.0,0.11,cauca,2013,2013,False,False
+1168,Colombia,1800.0,,7.25,7.17,7.0,6.75,7.17,7.33,10.0,10.0,10.0,6.92,79.58,0.1,huila,2010,2010,False,False
+229,Colombia,1750.0,Washed / Wet,7.75,7.75,7.75,7.75,7.83,7.75,10.0,10.0,10.0,7.58,84.17,0.0,huila,2012,2012,False,False
+648,Colombia,1750.0,Washed / Wet,7.75,7.5,7.75,7.25,7.33,7.58,10.0,10.0,10.0,7.42,82.58,0.11,huila,2012,2012,False,False
+329,Colombia,1750.0,Washed / Wet,7.75,7.75,7.58,7.83,7.17,7.75,10.0,10.0,10.0,7.83,83.67,0.11,huila,2012,2012,False,False
+524,Colombia,1750.0,Washed / Wet,7.67,7.58,7.58,7.58,7.67,7.42,10.0,10.0,10.0,7.5,83.0,0.11,huila,2012,2012,False,False
+523,Colombia,1625.0,Washed / Wet,7.75,7.58,7.5,7.67,7.83,7.75,9.33,10.0,10.0,7.58,83.0,0.0,huila,2012,2012,False,False
+522,Colombia,,Natural / Dry,7.67,7.58,7.5,7.5,7.75,7.5,10.0,10.0,10.0,7.5,83.0,0.0,,2012,2012,False,False
+632,Colombia,1800.0,,8.08,7.67,7.67,7.33,7.33,7.17,10.0,10.0,10.0,7.42,82.67,0.08,huila,2010,2010,False,False
+949,Colombia,1880.0,,7.75,7.33,7.42,7.0,7.33,7.25,10.0,10.0,10.0,7.33,81.42,0.16,cauca,2010,2010,False,False
+366,Colombia,1750.0,Washed / Wet,7.58,7.75,7.42,7.67,7.75,7.67,10.0,10.0,10.0,7.67,83.5,0.0,huila,2013,2013,False,False
+367,Colombia,1750.0,Washed / Wet,7.58,7.67,7.58,7.75,7.58,7.75,10.0,10.0,10.0,7.58,83.5,0.11,huila,2013,2013,False,False
+205,Colombia,1700.0,Washed / Wet,7.58,7.5,7.75,7.83,7.92,7.83,10.0,10.0,10.0,7.83,84.25,0.11,cauca,2013,2013,False,False
+85,Colombia,1550.0,Washed / Wet,8.17,7.92,7.83,8.0,7.58,7.83,10.0,10.0,10.0,7.92,85.25,0.11,santander,2015,2015,False,False
+362,Colombia,1850.0,Washed / Wet,8.0,7.58,7.25,7.58,7.92,7.58,10.0,10.0,10.0,7.58,83.5,0.11,huila,2014,2014,False,False
+869,Colombia,1750.0,Washed / Wet,7.33,7.42,7.33,7.33,7.5,7.67,10.0,10.0,10.0,7.17,81.75,0.0,huila,2011,2011,False,False
+704,Colombia,1750.0,Washed / Wet,7.33,7.58,7.17,7.58,7.42,7.58,10.0,10.0,10.0,7.75,82.42,0.0,huila,2011,2011,False,False
+515,Colombia,1750.0,Washed / Wet,7.83,7.5,7.58,7.33,7.5,7.67,10.0,10.0,10.0,7.58,83.0,0.0,huila,2013,2013,False,False
+777,Colombia,1800.0,,7.58,7.67,7.42,7.17,7.17,7.75,10.0,10.0,10.0,7.42,82.17,0.08,huila,2010,2010,False,False
+154,Colombia,1750.0,Washed / Wet,7.67,7.83,7.83,8.0,7.58,7.92,10.0,10.0,10.0,7.75,84.58,0.0,huila,2012,2012,False,False
+470,Colombia,1750.0,Washed / Wet,7.58,7.67,7.5,7.58,7.67,7.67,10.0,10.0,10.0,7.5,83.17,0.11,huila,2012,2012,False,False
+724,Colombia,1750.0,Washed / Wet,7.5,7.42,7.5,7.5,7.5,7.58,10.0,10.0,10.0,7.33,82.33,0.0,huila,2013,2013,False,False
+1037,Colombia,1800.0,,7.33,7.33,7.0,6.83,7.33,7.67,10.0,10.0,10.0,7.33,80.83,0.01,huila,2010,2010,False,False
+753,Colombia,1750.0,Washed / Wet,7.5,7.42,7.67,7.33,7.58,7.33,10.0,10.0,10.0,7.42,82.25,0.12,huila,2012,2012,False,False
+288,Colombia,1750.0,Washed / Wet,7.67,7.58,7.58,7.83,7.58,7.67,10.0,10.0,10.0,7.92,83.83,0.11,huila,2013,2013,False,False
+308,Colombia,1750.0,Washed / Wet,7.75,7.67,7.75,7.58,7.42,8.0,10.0,10.0,10.0,7.58,83.75,0.11,huila,2013,2013,False,False
+414,Colombia,1750.0,Washed / Wet,7.5,7.67,7.67,7.58,7.67,7.58,10.0,10.0,10.0,7.67,83.33,0.0,huila,2012,2012,False,False
+156,Colombia,1800.0,Washed / Wet,7.42,7.67,7.75,7.75,8.08,7.83,10.0,10.0,10.0,8.08,84.58,0.11,huila,2012,2012,False,False
+551,Colombia,1750.0,Natural / Dry,7.75,7.5,7.25,7.5,7.75,7.5,10.0,10.0,10.0,7.67,82.92,0.0,huila,2013,2013,False,False
+436,Colombia,1775.0,Washed / Wet,7.67,7.58,7.58,7.42,7.83,7.58,10.0,10.0,10.0,7.58,83.25,0.12,huila,2012,2012,True,True
+948,Colombia,1750.0,Natural / Dry,7.5,7.42,7.25,7.17,7.17,7.75,10.0,10.0,10.0,7.17,81.42,0.11,huila,2011,2011,False,False
+647,Colombia,1750.0,Washed / Wet,7.75,7.25,7.33,7.42,7.5,7.83,10.0,10.0,10.0,7.5,82.58,0.11,huila,2013,2013,False,False
+307,Colombia,1750.0,Washed / Wet,7.58,7.67,7.75,7.67,7.67,7.67,10.0,10.0,10.0,7.75,83.75,0.0,huila,2013,2013,False,False
+705,Colombia,1750.0,,7.58,7.25,7.42,7.25,7.58,7.83,10.0,10.0,10.0,7.5,82.42,0.02,huila,2011,2011,False,False
+392,Colombia,1450.0,Washed / Wet,7.5,7.75,7.58,7.5,7.67,7.75,10.0,10.0,10.0,7.67,83.42,0.11,cundinamarca,2012,2012,False,False
+1172,Colombia,1550.0,Washed / Wet,7.83,7.5,7.42,7.42,7.67,7.5,10.0,6.67,10.0,7.5,79.5,0.0,cundinamarca,2013,2013,False,False
+55,Colombia,1800.0,Washed / Wet,8.0,8.0,8.0,8.17,7.83,8.0,10.0,10.0,10.0,7.92,85.92,0.0,huila,2013,2013,False,False
+649,Colombia,1750.0,Washed / Wet,7.58,7.5,7.42,7.58,7.67,7.42,10.0,10.0,10.0,7.42,82.58,0.11,huila,2013,2013,False,False
+665,Colombia,1750.0,Washed / Wet,7.5,7.5,7.42,7.42,7.58,7.58,10.0,10.0,10.0,7.5,82.5,0.11,huila,2013,2013,False,False
+402,Colombia,1650.0,Washed / Wet,7.67,7.75,7.42,7.83,7.83,7.42,10.0,10.0,10.0,7.42,83.33,0.11,santander,2015,2015,False,False
+438,Colombia,1700.0,,7.92,7.75,7.25,7.42,7.83,7.58,10.0,10.0,10.0,7.5,83.25,0.08,huila,2011,2011,False,False
+325,Colombia,1750.0,Washed / Wet,7.83,7.75,7.67,7.58,7.58,7.67,10.0,10.0,10.0,7.58,83.67,0.0,huila supremo,2013,2013,False,False
+440,Colombia,1800.0,,7.92,7.75,7.5,7.42,7.42,7.67,10.0,10.0,10.0,7.58,83.25,0.04,cundinamarca,2010,2010,False,False
+429,Colombia,1750.0,Washed / Wet,7.83,7.5,7.67,7.33,7.67,7.67,10.0,10.0,10.0,7.58,83.25,0.11,huila,2013,2013,False,False
+833,Colombia,1600.0,,7.67,7.33,7.33,7.58,7.33,7.33,10.0,10.0,10.0,7.33,81.92,0.09,cundinamarca,2010,2010,False,False
+1131,Colombia,1775.0,Washed / Wet,7.83,7.67,7.58,7.75,7.83,7.17,6.67,10.0,10.0,7.42,79.92,0.0,huila,2015,2015,False,True
+361,Colombia,1775.0,Washed / Wet,7.67,7.42,7.67,7.83,7.58,7.67,10.0,10.0,10.0,7.67,83.5,0.0,huila,2014,2014,False,True
+163,Colombia,1800.0,Washed / Wet,8.08,7.67,7.83,7.83,7.67,7.67,10.0,10.0,10.0,7.75,84.5,0.12,cauca,2015,2016,False,False
+393,Colombia,1775.0,,7.58,7.58,7.58,7.67,7.75,7.67,10.0,10.0,10.0,7.58,83.42,0.1,huila,,,False,True
+613,Colombia,1775.0,Washed / Wet,7.75,7.5,7.33,7.58,7.33,7.75,10.0,10.0,10.0,7.42,82.67,0.0,huila,2015,2015,False,True
+200,Colombia,1800.0,Washed / Wet,7.83,7.75,7.83,7.58,7.67,7.75,10.0,10.0,10.0,7.83,84.25,0.12,cauca,2015,2016,False,False
+267,Colombia,1775.0,Washed / Wet,7.92,7.67,7.5,7.83,7.58,7.67,10.0,10.0,10.0,7.75,83.92,0.0,huila,2015,2015,False,True
+268,Colombia,1775.0,Washed / Wet,7.83,7.75,7.58,7.58,7.75,7.75,10.0,10.0,10.0,7.67,83.92,0.0,huila,2014,2014,False,True
+21,United States,2019.0,Washed / Wet,8.0,8.25,8.08,8.5,8.25,8.0,10.0,10.0,10.0,8.17,87.25,0.0,antioquia,2014,2014,False,False
+16,United States,2080.0,Washed / Wet,8.0,8.5,8.58,8.17,8.17,8.0,10.0,10.0,10.0,8.17,87.58,0.0,antioquia,2014,2014,False,False
+12,United States,1872.0,Washed / Wet,8.25,8.42,8.17,8.33,8.08,8.17,10.0,10.0,10.0,8.5,87.92,0.0,antioquia,2014,2014,False,False
+13,United States,1943.0,Washed / Wet,8.08,8.67,8.33,8.42,8.0,8.08,10.0,10.0,10.0,8.33,87.92,0.0,antioquia,2014,2014,False,False
+40,United States,1941.0,Washed / Wet,7.67,8.17,8.0,8.0,8.17,8.08,10.0,10.0,10.0,8.08,86.17,0.0,antioquia,2014,2014,False,False
+24,United States,2112.0,Washed / Wet,8.25,8.33,8.17,8.17,7.83,8.17,10.0,10.0,10.0,8.17,87.08,0.0,antioquia,2014,2014,False,False
+344,Colombia,1600.0,Natural / Dry,7.67,7.58,7.67,7.67,7.67,7.67,10.0,10.0,10.0,7.67,83.58,0.0,cundinamarca,2014,2014,False,False
+249,Colombia,1450.0,Natural / Dry,7.58,7.42,7.75,7.92,7.75,7.92,10.0,10.0,10.0,7.67,84.0,0.12,santander,2014,2014,False,False
+387,Colombia,1813.0,Washed / Wet,7.58,7.58,7.25,7.75,7.75,8.58,9.33,10.0,10.0,7.58,83.42,0.12,huila,2014,2015,False,False
+86,Colombia,1550.0,Natural / Dry,7.58,8.08,7.92,7.83,8.0,7.92,10.0,10.0,10.0,7.92,85.25,0.12,santander,2014,2014,False,False
+1056,Colombia,1550.0,Natural / Dry,7.67,7.5,7.42,7.67,7.5,7.75,10.0,10.0,6.67,8.5,80.67,0.0,santander,2014,2014,False,False
+427,Colombia,1483.0,Natural / Dry,7.58,7.58,7.5,7.58,7.58,7.75,10.0,10.0,10.0,7.67,83.25,0.0,eje cafetero,2014,2014,False,False
+271,Colombia,1550.0,Natural / Dry,7.67,7.83,7.67,7.75,7.67,7.83,10.0,10.0,10.0,7.5,83.92,0.12,santander,2014,2014,False,False
+364,Colombia,1650.0,Washed / Wet,7.75,7.58,7.33,7.5,7.83,7.83,10.0,10.0,10.0,7.67,83.5,0.0,cundinamarca,2014,2014,False,False
+151,Colombia,1550.0,Washed / Wet,7.67,7.67,7.58,7.75,7.58,8.5,10.0,10.0,10.0,7.83,84.58,0.0,santander,2013,2013,False,False
+345,Colombia,1550.0,Washed / Wet,7.67,7.58,7.67,7.58,7.67,7.75,10.0,10.0,10.0,7.67,83.58,0.12,santander,2014,2014,False,False
+346,Colombia,1550.0,Washed / Wet,7.75,7.58,7.5,7.58,7.75,7.83,10.0,10.0,10.0,7.58,83.58,0.0,santander,2014,2014,False,False
+137,Colombia,1550.0,Washed / Wet,7.75,7.83,7.75,7.83,7.75,7.83,10.0,10.0,10.0,7.92,84.67,0.0,santander,2013,2013,False,False
+371,Guatemala,1524.0,Washed / Wet,7.83,7.5,7.5,8.0,7.67,7.5,10.0,10.0,10.0,7.5,83.5,0.1,atitlan,2012,2012,False,False
+214,Guatemala,1117.0,Washed / Wet,7.75,7.75,7.58,8.0,7.67,7.83,10.0,10.0,10.0,7.58,84.17,0.11,huehuetenango,2016,2016,False,False
+581,Guatemala,1700.0,Washed / Wet,7.5,7.67,7.17,7.67,7.67,7.58,10.0,10.0,10.0,7.5,82.75,0.11,san marcos,2017,2017,False,False
+434,Guatemala,1311.0,Washed / Wet,7.83,7.58,7.08,7.83,7.42,8.08,10.0,10.0,10.0,7.42,83.25,0.11,oriente,2012,2012,False,False
+1229,Guatemala,1311.0,Washed / Wet,7.17,7.17,6.5,7.17,7.0,6.83,10.0,10.0,10.0,6.5,78.33,0.11,oriente,2012,2012,False,False
+150,Guatemala,1219.0,Washed / Wet,8.0,7.92,7.67,7.58,7.58,7.67,10.0,10.0,10.0,8.17,84.58,0.09,oriente,2014,2014,False,False
+860,Guatemala,1700.0,Washed / Wet,7.5,7.5,7.25,7.42,7.42,7.33,10.0,10.0,10.0,7.33,81.75,0.11,san marcos,2017,2017,False,False
+1004,Guatemala,1219.0,Washed / Wet,7.5,7.25,7.0,7.25,7.5,7.25,10.0,10.0,10.0,7.25,81.0,0.11,oriente,2015,2015,False,False
+1025,Guatemala,1524.0,Washed / Wet,7.58,7.42,6.92,7.5,7.25,7.17,10.0,10.0,10.0,7.08,80.92,0.12,jalapa,2014,2014,False,False
+1187,Guatemala,1320.0,Washed / Wet,7.08,7.0,6.92,7.42,7.0,6.92,10.0,10.0,10.0,6.83,79.17,0.11,occidente,2016,2016,False,False
+548,Guatemala,1500.0,Natural / Dry,7.67,7.83,7.42,7.5,7.33,7.5,10.0,10.0,10.0,7.67,82.92,0.1,antigua,2014,2014,False,False
+289,Guatemala,1311.0,Washed / Wet,7.5,7.83,7.5,7.83,7.83,7.67,10.0,10.0,10.0,7.67,83.83,0.11,oriente,2013,2013,False,False
+388,Guatemala,1219.0,Natural / Dry,7.75,7.83,7.33,7.83,7.5,7.67,10.0,10.0,10.0,7.5,83.42,0.1,oriente,2013,2013,False,False
+451,Guatemala,1500.0,Washed / Wet,7.5,7.75,7.5,7.83,7.58,7.5,10.0,10.0,10.0,7.5,83.17,0.11,antigua,2015,2015,False,False
+1057,Guatemala,1550.0,Washed / Wet,7.67,7.17,7.0,7.5,7.0,7.0,10.0,10.0,10.0,7.33,80.67,0.12,"san lucas toliman, solola",2013,2013,False,False
+84,Guatemala,1311.0,,8.0,7.92,7.75,8.0,7.92,7.83,10.0,10.0,10.0,7.83,85.25,0.1,oriente,2016,2016,False,True
+165,Guatemala,1311.0,Washed / Wet,8.17,7.83,7.67,7.83,7.67,7.83,10.0,10.0,10.0,7.5,84.5,0.11,oriente,2013,2013,False,False
+334,Guatemala,1524.0,Washed / Wet,7.67,7.5,7.33,8.0,7.67,7.67,10.0,10.0,10.0,7.83,83.67,0.1,sacatepequez,2012,2012,False,False
+1176,Guatemala,1219.0,Washed / Wet,7.25,7.33,6.83,7.0,7.0,7.17,10.0,10.0,10.0,6.83,79.42,0.1,oriente,2014,2014,False,False
+377,Guatemala,1700.0,Washed / Wet,7.67,7.75,7.5,7.58,7.58,7.67,10.0,10.0,10.0,7.67,83.42,0.1,san marcos,2017,2017,False,False
+230,Guatemala,,Natural / Dry,7.83,7.5,7.5,8.0,7.83,7.83,10.0,10.0,10.0,7.67,84.17,0.11,,2012,2012,False,False
+561,Guatemala,1700.0,Washed / Wet,7.5,7.58,7.33,7.67,7.58,7.58,10.0,10.0,10.0,7.58,82.83,0.11,san marcos,2017,2017,False,False
+854,Guatemala,1311.0,Washed / Wet,7.83,7.67,7.33,7.33,7.67,7.83,9.33,10.0,9.33,7.5,81.83,0.11,oriente,2013,2013,False,False
+389,Guatemala,1500.0,Washed / Wet,7.67,7.75,7.5,7.83,7.58,7.5,10.0,10.0,10.0,7.58,83.42,0.1,antigua,2014,2014,False,False
+1188,Guatemala,1550.0,Washed / Wet,7.25,7.17,6.75,7.25,7.0,6.92,10.0,10.0,10.0,6.83,79.17,0.11,nuevo oriente,2015,2015,False,False
+718,Guatemala,1524.0,Washed / Wet,7.58,7.67,7.5,7.58,7.75,7.5,9.33,10.0,10.0,7.42,82.33,0.12,jalapa,2014,2014,False,False
+1113,Guatemala,1311.0,Washed / Wet,7.33,7.33,7.0,7.33,7.0,7.0,10.0,10.0,10.0,7.17,80.17,0.11,oriente,2012,2012,False,False
+278,Guatemala,1500.0,Washed / Wet,7.75,7.75,7.5,7.75,7.83,7.58,10.0,10.0,10.0,7.67,83.83,0.11,antigua,2016,2016,False,False
+817,Guatemala,1219.0,Washed / Wet,7.5,7.5,7.25,7.42,7.42,7.42,10.0,10.0,10.0,7.42,81.92,0.11,santa rosa,2017,2017,False,False
+676,Guatemala,1700.0,Washed / Wet,7.58,7.5,7.33,7.75,7.33,7.5,10.0,10.0,10.0,7.42,82.42,0.1,san marcos,2017,2017,False,False
+411,Guatemala,1311.0,Washed / Wet,7.83,7.67,7.17,7.67,7.67,7.67,10.0,10.0,10.0,7.67,83.33,0.11,oriente,2013,2013,False,False
+1141,Guatemala,1700.0,Washed / Wet,7.33,7.25,6.92,7.33,7.25,7.33,9.33,10.0,10.0,7.08,79.83,0.1,san marcos,2017,2017,False,False
+196,Guatemala,1099.0,Washed / Wet,7.75,7.92,7.5,8.08,7.58,7.67,10.0,10.0,10.0,7.75,84.25,0.1,huehuetenango,2015,2015,False,False
+1217,Guatemala,1219.0,Washed / Wet,7.33,7.17,6.92,7.58,7.25,7.17,8.67,9.33,10.0,7.17,78.58,0.12,oriente,2014,2014,False,False
+1040,Guatemala,1661.0,Washed / Wet,7.5,7.33,7.0,7.42,7.17,7.17,10.0,10.0,10.0,7.17,80.75,0.12,huehuetenango,2015,2015,False,False
+727,Guatemala,1753.0,Washed / Wet,7.67,7.5,7.33,7.67,7.5,7.33,10.0,10.0,10.0,7.33,82.33,0.11,jalapa,2012,2012,False,False
+730,Guatemala,1311.0,Washed / Wet,7.5,7.67,7.33,7.5,7.33,7.5,10.0,10.0,10.0,7.5,82.33,0.1,oriente,2012,2012,False,False
+195,Guatemala,1500.0,Washed / Wet,7.75,7.75,7.58,7.92,7.75,7.75,10.0,10.0,10.0,7.75,84.25,0.11,antigua,2016,2016,False,False
+1284,Guatemala,1311.0,Washed / Wet,6.75,6.5,6.17,7.0,7.25,6.75,8.0,10.0,10.0,6.33,74.75,0.11,oriente,2012,2012,False,True
+331,Guatemala,1311.0,Washed / Wet,7.67,8.17,7.5,7.42,7.58,7.83,10.0,10.0,10.0,7.5,83.67,0.11,oriente,2012,2012,False,False
+1175,Guatemala,1219.0,Washed / Wet,7.08,7.33,7.25,7.58,7.33,7.42,9.33,9.33,9.33,7.42,79.42,0.1,oriente,2013,2013,False,False
+149,Guatemala,1524.0,Washed / Wet,7.75,7.83,7.67,7.92,7.75,7.83,10.0,10.0,10.0,7.83,84.58,0.11,jalapa,2014,2014,False,False
+247,Guatemala,1219.0,Other,7.75,7.83,7.5,7.83,7.58,7.67,10.0,10.0,10.0,7.83,84.0,0.1,oriente,2014,2014,False,False
+570,Guatemala,1500.0,Washed / Wet,7.67,7.67,7.75,7.67,7.42,7.17,10.0,10.0,10.0,7.5,82.83,0.1,antigua,2014,2014,False,False
+812,Guatemala,1700.0,Natural / Dry,7.33,7.33,7.33,7.5,7.67,7.67,10.0,10.0,10.0,7.17,82.0,0.11,san marcos,2012,2012,False,True
+169,Guatemala,1372.0,Washed / Wet,7.67,8.0,7.67,8.0,7.5,7.83,10.0,10.0,10.0,7.83,84.5,0.11,"el tumbador, san marcos",2012,2012,False,True
+911,Guatemala,1219.0,Washed / Wet,7.67,7.58,7.17,7.42,7.33,7.42,9.33,10.0,10.0,7.58,81.5,0.1,santa rosa,2017,2017,False,False
+1145,Guatemala,1901.64,Washed / Wet,7.5,7.42,7.25,7.58,7.33,7.42,9.33,9.33,9.33,7.25,79.75,0.1,oriente,2016,2016,False,False
+634,Guatemala,1219.0,Washed / Wet,7.5,7.42,7.42,7.75,7.5,7.5,10.0,10.0,10.0,7.5,82.58,0.1,oriente,2017,2017,False,False
+215,Guatemala,1565.0,Washed / Wet,7.75,7.92,7.58,7.92,7.67,7.67,10.0,10.0,10.0,7.67,84.17,0.1,solola,2016,2016,False,False
+747,Guatemala,1391.0,Washed / Wet,7.5,7.5,7.33,7.58,7.67,7.33,10.0,10.0,10.0,7.33,82.25,0.11,antigua,2012,2012,False,False
+1276,Guatemala,1311.0,Washed / Wet,6.67,6.5,6.33,7.0,7.17,6.75,8.67,10.0,10.0,6.5,75.58,0.12,oriente,2012,2012,False,True
+821,Guatemala,1550.0,Washed / Wet,7.58,7.58,7.17,7.83,7.17,7.33,10.0,10.0,10.0,7.25,81.92,0.11,nuevo oriente,2015,2015,False,False
+547,Guatemala,1500.0,Washed / Wet,7.75,7.5,7.42,7.58,7.67,7.5,10.0,10.0,10.0,7.5,82.92,0.1,antigua,2014,2014,False,False
+838,Guatemala,1000.0,Washed / Wet,7.58,7.5,7.33,7.42,7.58,7.25,10.0,10.0,10.0,7.17,81.83,0.1,norte,2015,2015,False,False
+328,Guatemala,1311.0,Washed / Wet,7.83,7.67,7.33,7.67,7.67,7.83,10.0,10.0,10.0,7.67,83.67,0.11,oriente,2013,2013,False,False
+1059,Guatemala,1311.0,Washed / Wet,7.0,7.5,7.33,7.17,7.17,7.17,10.0,10.0,10.0,7.33,80.67,0.11,oriente,2012,2012,False,True
+70,Guatemala,1731.0,Washed / Wet,8.0,7.83,7.67,8.33,7.83,8.0,10.0,10.0,10.0,7.83,85.5,0.11,huehuetenango,2013,2013,False,False
+464,Guatemala,1311.0,Washed / Wet,7.67,7.83,7.33,7.67,7.5,7.67,10.0,10.0,10.0,7.5,83.17,0.11,oriente,2013,2013,False,False
+420,Guatemala,2100.0,Washed / Wet,7.5,7.58,7.42,7.83,7.67,7.58,10.0,10.0,10.0,7.67,83.25,0.11,nuevo oriente,2016,2016,False,False
+666,Guatemala,1311.0,Washed / Wet,7.83,7.67,7.17,7.33,7.5,7.67,10.0,10.0,10.0,7.33,82.5,0.11,oriente,2013,2013,False,False
+1209,Guatemala,1311.0,Washed / Wet,7.33,7.08,6.33,7.25,7.0,7.0,10.0,10.0,10.0,6.75,78.75,0.12,oriente,2013,2013,False,False
+244,Guatemala,1707.0,Washed / Wet,7.67,7.83,7.58,7.92,7.75,7.67,10.0,10.0,10.0,7.58,84.0,0.12,huehuetenango,2015,2015,False,False
+1255,Guatemala,1219.0,Washed / Wet,7.33,7.0,6.83,7.17,7.17,7.17,9.33,9.33,9.33,6.67,77.33,0.1,oriente,2014,2014,False,False
+1182,Guatemala,1311.0,Washed / Wet,7.17,6.5,6.33,7.25,7.58,7.33,10.0,10.0,10.0,7.17,79.33,0.11,oriente,2012,2012,False,True
+1310,Guatemala,1417.0,Washed / Wet,7.5,6.67,6.67,7.67,7.33,6.67,8.0,1.33,1.33,6.67,59.83,0.1,nuevo oriente,2012,2012,False,False
+1066,Guatemala,1384.0,Natural / Dry,7.17,7.42,6.83,7.5,7.17,7.25,10.0,10.0,10.0,7.25,80.58,0.11,huehuetenango,2014,2014,False,False
+211,Guatemala,1700.0,Washed / Wet,7.75,7.83,7.58,7.83,7.67,7.75,10.0,10.0,10.0,7.75,84.17,0.13,san marcos,2017,2017,False,False
+1078,Guatemala,1859.0,Washed / Wet,7.5,7.5,7.0,7.67,7.17,7.0,10.0,10.0,10.0,6.67,80.5,0.12,huehuetenango,2013,2013,False,False
+889,Guatemala,1753.0,Washed / Wet,7.5,7.67,7.33,7.33,7.33,7.33,10.0,10.0,10.0,7.17,81.67,0.11,jalapa,2012,2012,False,False
+442,Guatemala,1901.0,Washed / Wet,7.58,7.58,7.33,7.67,7.75,7.58,10.0,10.0,10.0,7.67,83.17,0.1,oriente,2017,2017,False,False
+246,Guatemala,1219.0,Natural / Dry,7.92,7.67,7.42,7.92,7.75,7.83,10.0,10.0,10.0,7.5,84.0,0.1,oriente,2014,2014,False,False
+582,Guatemala,1219.0,Washed / Wet,7.5,7.5,7.42,7.58,7.67,7.5,10.0,10.0,10.0,7.58,82.75,0.1,santa rosa,2017,2017,False,False
+919,Guatemala,1219.0,Washed / Wet,7.5,7.42,7.17,7.58,7.25,7.42,10.0,10.0,10.0,7.17,81.5,0.12,oriente,2014,2014,False,False
+1263,Guatemala,1311.0,Washed / Wet,6.42,6.5,6.5,7.33,6.33,6.92,10.0,10.0,10.0,6.5,76.5,0.12,oriente,2012,2012,False,True
+677,Guatemala,1700.0,Washed / Wet,7.67,7.58,7.25,7.67,7.42,7.33,10.0,10.0,10.0,7.5,82.42,0.12,san marcos,2016,2016,False,False
+59,Guatemala,1417.0,Washed / Wet,8.0,8.0,7.83,8.33,7.83,7.83,10.0,10.0,10.0,8.0,85.83,0.1,nuevo oriente,2012,2012,False,False
+58,Guatemala,1524.0,Washed / Wet,7.83,8.0,8.0,8.17,7.83,8.0,10.0,10.0,10.0,8.0,85.83,0.12,acatenango,2012,2012,False,False
+1228,Guatemala,1219.0,Washed / Wet,7.17,6.5,6.67,7.0,7.17,7.17,10.0,10.0,10.0,6.67,78.33,0.1,oriente,2014,2014,False,False
+873,Guatemala,1219.0,Washed / Wet,7.42,7.33,7.17,7.67,7.33,7.42,10.0,10.0,10.0,7.33,81.67,0.12,santa rosa,2017,2017,False,False
+525,Guatemala,1372.0,Washed / Wet,7.5,7.67,7.5,7.67,7.5,7.83,10.0,10.0,10.0,7.33,83.0,0.1,"la reforma, san marcos",2012,2012,False,False
+227,Guatemala,1311.0,Washed / Wet,7.92,7.75,7.67,7.67,7.83,7.92,10.0,10.0,10.0,7.42,84.17,0.11,oriente,2013,2013,False,False
+595,Guatemala,1524.0,Washed / Wet,7.75,7.42,7.25,7.75,7.5,7.67,10.0,10.0,10.0,7.42,82.75,0.13,jalapa,2014,2014,False,False
+1239,Guatemala,1219.0,Washed / Wet,7.42,7.25,6.83,7.33,7.0,6.92,9.33,9.33,9.33,7.25,78.0,0.1,oriente,2014,2014,False,False
+1161,Guatemala,1311.0,Washed / Wet,7.5,7.0,6.83,7.08,7.08,7.17,10.0,10.0,10.0,7.0,79.67,0.11,oriente,2013,2013,False,False
+1091,Guatemala,1311.0,Washed / Wet,7.33,7.33,6.83,7.5,7.0,7.17,10.0,10.0,10.0,7.17,80.33,0.11,oriente,2013,2013,False,False
+970,Guatemala,1524.0,Washed / Wet,7.5,7.33,7.5,7.58,7.0,7.25,10.0,10.0,10.0,7.08,81.25,0.11,sacatepequez,2013,2013,False,False
+356,Guatemala,1219.0,Washed / Wet,7.67,7.75,7.5,7.83,7.58,7.58,10.0,10.0,10.0,7.58,83.5,0.1,oriente,2016,2016,False,False
+1002,Guatemala,1000.0,Washed / Wet,7.42,7.25,7.17,7.5,7.25,7.17,10.0,10.0,10.0,7.25,81.0,0.09,norte,2016,2016,False,False
+428,Guatemala,1500.0,Washed / Wet,7.5,7.67,7.58,7.67,7.67,7.5,10.0,10.0,10.0,7.67,83.25,0.1,antigua,2014,2014,False,False
+139,Guatemala,1311.0,Washed / Wet,8.0,7.83,7.67,7.83,7.67,8.0,10.0,10.0,10.0,7.67,84.67,0.11,oriente,2012,2012,False,False
+566,Guatemala,1219.0,Washed / Wet,7.58,7.58,7.33,7.67,7.67,7.5,10.0,10.0,10.0,7.5,82.83,0.11,oriente,2015,2015,False,False
+1249,Guatemala,1311.0,Washed / Wet,7.0,6.83,6.67,7.17,6.83,6.83,10.0,10.0,10.0,6.5,77.83,0.11,oriente,2013,2013,False,False
+446,Guatemala,1500.0,Washed / Wet,7.67,7.75,7.42,7.75,7.58,7.5,10.0,10.0,10.0,7.5,83.17,0.11,antigua,2016,2016,False,False
+657,Guatemala,1219.0,Washed / Wet,7.5,7.5,7.33,7.5,7.67,7.5,10.0,10.0,10.0,7.5,82.5,0.1,oriente,2016,2016,False,False
+1275,Guatemala,1311.0,Washed / Wet,7.92,7.58,7.17,7.58,7.33,7.17,8.0,8.0,8.0,6.83,75.58,0.11,oriente,2012,2012,False,False
+1288,Guatemala,1311.0,Washed / Wet,6.5,6.33,6.5,7.5,7.33,6.83,8.67,10.0,8.67,6.0,74.33,0.11,oriente,2013,2013,False,False
+1265,Guatemala,1311.0,Washed / Wet,7.5,7.0,6.83,7.5,7.17,7.33,8.67,8.67,8.67,7.0,76.33,0.11,oriente,2012,2012,False,False
+505,Guatemala,1372.0,Washed / Wet,7.75,7.67,7.33,7.75,7.5,7.42,10.0,10.0,10.0,7.58,83.0,0.11,"el tumbador, san marcos",2015,2015,False,False
+1231,Guatemala,1311.0,Washed / Wet,7.17,6.08,6.17,7.25,7.33,7.33,10.0,10.0,10.0,7.0,78.33,0.11,oriente,2012,2012,False,True
+834,Guatemala,1311.0,Washed / Wet,7.42,7.5,7.25,7.5,7.33,7.42,10.0,10.0,10.0,7.42,81.83,0.1,oriente,2017,2017,True,True
+452,Guatemala,1650.0,Washed / Wet,7.92,7.67,7.42,7.75,7.5,7.5,10.0,10.0,10.0,7.42,83.17,0.12,oriente,2015,2015,False,False
+583,Guatemala,1219.0,Washed / Wet,7.42,7.58,7.42,7.67,7.5,7.5,10.0,10.0,10.0,7.67,82.75,0.1,oriente,2017,2017,False,False
+579,Guatemala,1100.0,Washed / Wet,7.5,7.58,7.42,7.67,7.58,7.5,10.0,10.0,10.0,7.5,82.75,0.1,santa rosa,,,False,False
+511,Guatemala,1500.0,Washed / Wet,7.67,7.67,7.42,7.83,7.5,7.5,10.0,10.0,10.0,7.42,83.0,0.1,antigua,2014,2014,False,False
+1058,Guatemala,1311.0,Washed / Wet,7.0,7.33,7.5,7.33,7.0,7.33,10.0,10.0,10.0,7.17,80.67,0.11,oriente,2012,2012,False,True
+552,Guatemala,1707.0,Washed / Wet,7.83,7.75,7.25,7.92,7.5,7.17,10.0,10.0,10.0,7.5,82.92,0.11,huehuetenango,2013,2013,False,False
+914,Guatemala,1219.0,,7.5,7.42,7.25,7.25,7.5,7.25,10.0,10.0,10.0,7.33,81.5,0.12,santa rosa,2017,2017,False,True
+324,Guatemala,1357.0,Washed / Wet,8.0,7.5,7.33,8.0,8.0,8.0,9.33,10.0,10.0,7.5,83.67,0.1,huehuetenango,2014,2014,False,False
+1193,Guatemala,1700.0,Washed / Wet,7.58,7.67,7.42,7.42,7.67,7.67,8.67,8.67,8.67,7.67,79.08,0.1,san marcos,2017,2017,False,False
+723,Guatemala,1311.0,Washed / Wet,7.5,7.42,7.58,7.5,7.5,7.58,10.0,10.0,10.0,7.25,82.33,0.12,oriente,2013,2013,False,False
+327,Guatemala,1311.0,Washed / Wet,7.67,7.67,7.42,7.67,8.0,7.75,10.0,10.0,10.0,7.5,83.67,0.12,oriente,2013,2013,False,False
+585,Guatemala,1400.0,Washed / Wet,7.58,7.58,7.33,7.58,7.33,7.67,10.0,10.0,10.0,7.67,82.75,0.12,el progreso,2017,2017,True,True
+580,Guatemala,1800.0,Washed / Wet,7.58,7.67,7.5,7.58,7.5,7.42,10.0,10.0,10.0,7.5,82.75,0.11,santa rosa,2017,2017,False,False
+1075,Guatemala,1219.0,Washed / Wet,7.5,7.17,6.83,7.5,7.17,7.17,10.0,10.0,10.0,7.17,80.5,0.11,oriente,2014,2014,False,False
+670,Guatemala,1311.0,Natural / Dry,7.67,7.33,7.33,7.33,7.5,7.83,10.0,10.0,10.0,7.5,82.5,0.11,oriente,2012,2012,False,True
+904,Guatemala,1311.0,Washed / Wet,7.42,7.33,7.17,7.58,7.42,7.5,10.0,10.0,10.0,7.17,81.58,0.12,oriente,2013,2013,False,False
+390,Guatemala,1311.0,Washed / Wet,7.67,7.5,7.75,7.42,7.75,7.75,10.0,10.0,10.0,7.58,83.42,0.11,oriente,2013,2013,False,False
+936,Guatemala,1372.0,Washed / Wet,7.42,7.33,7.08,7.58,7.33,7.25,10.0,10.0,10.0,7.42,81.42,0.1,san marcos,2016,2016,False,False
+897,Guatemala,1600.0,Washed / Wet,7.42,7.42,7.08,7.5,7.42,7.33,10.0,10.0,10.0,7.42,81.58,0.12,huehuetenango,2017,2017,False,True
+461,Guatemala,1524.0,Washed / Wet,7.33,7.83,7.17,8.17,7.33,7.67,10.0,10.0,10.0,7.67,83.17,0.09,san marcos,2014,2014,False,False
+942,Guatemala,1550.0,Washed / Wet,7.42,7.5,7.17,7.42,7.42,7.42,10.0,10.0,10.0,7.08,81.42,0.1,"san lucas toliman, solola",2014,2014,False,False
+1241,Guatemala,1311.0,Washed / Wet,7.0,6.83,6.83,7.17,6.67,6.83,10.0,10.0,10.0,6.67,78.0,0.11,oriente,2013,2013,False,False
+737,Guatemala,1450.0,Washed / Wet,7.67,7.5,7.25,7.67,7.42,7.42,10.0,10.0,10.0,7.33,82.25,0.11,nuevo oriente,2016,2016,False,False
+945,Guatemala,1311.0,Washed / Wet,7.42,7.33,7.25,7.42,7.42,7.5,10.0,10.0,10.0,7.08,81.42,0.12,oriente,2013,2013,False,False
+216,Guatemala,1000.0,Washed / Wet,7.58,7.83,7.58,7.83,7.83,7.67,10.0,10.0,10.0,7.83,84.17,0.1,norte,2016,2016,False,False
+1109,Guatemala,1311.0,Washed / Wet,7.33,7.33,7.0,7.17,7.17,7.17,10.0,10.0,10.0,7.0,80.17,0.11,oriente,2013,2013,False,False
+285,Guatemala,1219.0,Washed / Wet,7.58,7.83,7.33,8.0,7.58,7.75,10.0,10.0,10.0,7.75,83.83,0.1,oriente,2014,2014,False,False
+1246,Guatemala,1311.0,Washed / Wet,7.17,6.17,6.17,7.08,7.33,6.83,10.0,10.0,10.0,7.17,77.92,0.11,oriente,2012,2012,False,True
+140,Guatemala,1524.0,Washed / Wet,7.67,7.83,7.67,8.0,7.67,7.83,10.0,10.0,10.0,8.0,84.67,0.12,acatenango,2012,2012,False,False
+1285,Guatemala,1311.0,Washed / Wet,6.75,6.67,6.17,7.17,7.0,6.58,8.0,10.0,10.0,6.42,74.75,0.11,oriente,2012,2012,False,True
+932,Guatemala,1311.0,Washed / Wet,7.33,7.5,7.33,7.42,7.17,7.33,10.0,10.0,10.0,7.42,81.5,0.11,oriente,2012,2012,False,True
+872,Guatemala,1700.0,Washed / Wet,7.42,7.42,7.08,7.42,7.33,7.42,10.0,10.0,10.0,7.58,81.67,0.1,san marcos,2017,2017,False,False
+715,Guatemala,1676.0,Washed / Wet,7.5,7.42,7.17,7.83,7.5,7.5,10.0,10.0,10.0,7.42,82.33,0.1,huehuetenango,2015,2015,False,False
+1015,Guatemala,1901.0,Washed / Wet,7.67,7.67,7.33,7.58,7.67,7.5,9.33,9.33,9.33,7.5,80.92,0.1,oriente,2017,2017,False,False
+504,Guatemala,1550.0,Washed / Wet,7.67,7.75,7.33,7.92,7.42,7.5,10.0,10.0,10.0,7.42,83.0,0.11,nuevo oriente,2015,2015,False,False
+625,Guatemala,1500.0,Washed / Wet,7.67,7.67,7.17,7.67,7.5,7.5,10.0,10.0,10.0,7.5,82.67,0.11,antigua,2012,2012,False,False
+678,Guatemala,1400.0,Washed / Wet,7.58,7.5,7.25,7.67,7.5,7.5,10.0,10.0,10.0,7.42,82.42,0.12,el progreso,2017,2017,True,True
+816,Guatemala,1901.0,Washed / Wet,7.58,7.5,7.25,7.58,7.58,7.5,9.33,10.0,10.0,7.58,81.92,0.1,oriente,2017,2017,False,False
+1158,Guatemala,1219.0,Washed / Wet,7.42,7.42,7.25,7.58,7.42,7.33,9.33,9.33,9.33,7.25,79.67,0.1,oriente,2016,2016,False,False
+130,Guatemala,1600.0,Washed / Wet,7.75,7.83,7.58,8.0,7.92,7.75,10.0,10.0,10.0,7.83,84.67,0.1,acatenango,2015,2015,False,False
+1266,Guatemala,1311.0,Washed / Wet,6.17,6.5,6.5,7.17,7.0,6.83,10.0,10.0,10.0,6.17,76.33,0.11,oriente,2011,2012,False,True
+506,Guatemala,1500.0,Washed / Wet,7.83,7.67,7.25,7.67,7.75,7.5,10.0,10.0,10.0,7.33,83.0,0.11,antigua,2015,2015,False,False
+679,Guatemala,1219.0,Washed / Wet,7.5,7.42,7.08,7.75,7.67,7.5,10.0,10.0,10.0,7.5,82.42,0.11,santa rosa,2017,2017,False,True
+1070,Guatemala,1500.0,Washed / Wet,7.33,7.25,7.08,7.17,7.25,7.17,10.0,10.0,10.0,7.25,80.5,0.1,santa rosa,2017,2017,False,False
+337,Guatemala,1128.0,Washed / Wet,7.75,7.75,7.5,7.83,7.58,7.58,10.0,10.0,10.0,7.58,83.58,0.11,huehuetenango,2016,2016,False,False
+53,Guatemala,1500.0,Washed / Wet,7.92,8.08,7.92,8.08,8.08,7.83,10.0,10.0,10.0,8.0,85.92,0.1,nuevo oriente,2016,2016,False,True
+664,Guatemala,1311.0,Washed / Wet,7.83,7.42,7.33,7.67,7.42,7.5,10.0,10.0,10.0,7.33,82.5,0.12,oriente,2013,2013,False,False
+204,Guatemala,1219.0,Other,7.83,7.83,7.5,7.92,7.58,7.75,10.0,10.0,10.0,7.83,84.25,0.1,oriente,2014,2014,False,False
+1185,Guatemala,1219.0,Washed / Wet,7.33,7.42,7.33,7.42,7.5,7.42,8.67,9.33,9.33,7.42,79.17,0.1,santa rosa,2017,2017,False,False
+1253,Guatemala,1311.0,Washed / Wet,7.08,6.92,6.33,7.0,6.92,7.0,10.0,10.0,10.0,6.17,77.42,0.11,oriente,2013,2013,False,False
+1199,Guatemala,1219.0,Washed / Wet,7.33,7.17,6.58,7.42,7.08,6.83,10.0,10.0,10.0,6.58,79.0,0.12,oriente,2014,2014,False,False
+576,Guatemala,1311.0,Washed / Wet,7.67,7.67,7.33,7.5,7.33,7.92,10.0,10.0,10.0,7.42,82.83,0.11,oriente,2012,2012,False,False
+1052,Guatemala,1500.0,Washed / Wet,7.67,7.42,6.83,7.17,7.42,7.17,10.0,10.0,10.0,7.0,80.67,0.11,antigua,2015,2016,False,False
+235,Guatemala,1311.0,Washed / Wet,8.0,7.75,7.5,7.58,7.92,7.67,10.0,10.0,10.0,7.67,84.08,0.1,oriente,2016,2016,False,True
+976,Honduras,1450.0,Natural / Dry,7.42,7.33,7.0,7.42,7.33,7.33,10.0,10.0,10.0,7.33,81.17,0.13,central region,2015,2015,False,False
+460,Honduras,1350.0,Natural / Dry,7.67,7.67,7.5,7.67,7.5,7.67,10.0,10.0,10.0,7.5,83.17,0.11,comayagua,2014,2015,False,False
+849,Honduras,1350.0,Natural / Dry,7.5,7.5,7.33,7.33,7.33,7.33,10.0,10.0,10.0,7.5,81.83,0.1,comayagua,2014,2014,False,False
+1045,Honduras,1450.0,Natural / Dry,7.25,7.33,7.08,7.5,7.25,7.33,10.0,10.0,10.0,7.0,80.75,0.13,central region,2015,2015,False,False
+365,Honduras,1350.0,Natural / Dry,7.67,7.5,7.67,7.5,7.67,7.67,10.0,10.0,10.0,7.83,83.5,0.1,comayagua,2014,2015,False,False
+883,Honduras,1400.0,Natural / Dry,7.5,7.33,7.5,7.5,7.17,7.17,10.0,10.0,10.0,7.5,81.67,0.1,comayagua,2014,2014,False,False
+896,Honduras,1200.0,Washed / Wet,7.5,7.42,7.08,7.42,7.5,7.33,10.0,10.0,10.0,7.33,81.58,0.11,western region,2018,2018,False,False
+764,Honduras,1350.0,Washed / Wet,7.67,7.5,7.25,7.42,7.58,7.42,10.0,10.0,10.0,7.33,82.17,0.11,marcala,2015,2015,False,False
+1305,Honduras,1450.0,Washed / Wet,7.0,6.17,6.17,6.67,6.5,6.17,8.0,8.0,8.0,6.5,69.17,0.1,marcala,2014,2014,False,False
+938,Honduras,1400.0,Washed / Wet,7.5,7.33,7.17,7.25,7.5,7.42,10.0,10.0,10.0,7.25,81.42,0.12,marcala,2015,2015,False,False
+874,Honduras,1450.0,Washed / Wet,7.58,7.5,7.33,7.33,7.42,7.25,10.0,10.0,10.0,7.25,81.67,0.11,marcala,2016,2016,False,False
+955,Honduras,1350.0,Washed / Wet,7.58,7.42,7.17,7.42,7.17,7.17,10.0,10.0,10.0,7.42,81.33,0.09,marcala,2015,2015,False,False
+123,Honduras,1450.0,Washed / Wet,7.83,7.75,8.0,7.67,7.67,7.67,10.0,10.0,10.0,8.17,84.75,0.11,marcala,2014,2014,False,False
+1044,Honduras,1350.0,Washed / Wet,7.42,7.17,7.08,7.42,7.25,7.25,10.0,10.0,10.0,7.17,80.75,0.09,marcala,2015,2015,False,False
+843,Honduras,1400.0,Washed / Wet,7.5,7.5,7.33,7.5,7.42,7.25,10.0,10.0,10.0,7.33,81.83,0.12,marcala,2015,2015,False,False
+1306,Honduras,1450.0,Washed / Wet,7.0,6.33,6.17,6.5,6.67,6.17,8.0,8.0,8.0,6.33,69.17,0.1,marcala,2014,2014,False,False
+966,Honduras,1400.0,Washed / Wet,7.42,7.17,7.17,7.5,7.33,7.25,10.0,10.0,10.0,7.42,81.25,0.12,marcala,2015,2015,False,False
+740,Honduras,1350.0,Washed / Wet,7.58,7.5,7.42,7.58,7.42,7.42,10.0,10.0,10.0,7.33,82.25,0.11,marcala,2015,2015,False,False
+1304,Honduras,1450.0,Washed / Wet,6.67,6.5,6.17,6.67,6.83,6.17,8.0,8.0,8.0,6.33,69.33,0.1,marcala,2014,2014,False,False
+1108,Honduras,1400.0,Washed / Wet,7.25,7.25,7.0,7.17,7.08,7.08,10.0,10.0,10.0,7.33,80.17,0.11,marcala,2015,2015,False,False
+1080,Honduras,1450.0,,7.25,7.42,7.0,7.42,7.33,7.0,10.0,10.0,10.0,7.0,80.42,0.1,marcala,2016,2016,False,False
+447,Honduras,1450.0,Washed / Wet,7.67,7.67,7.5,7.67,7.5,7.67,10.0,10.0,10.0,7.5,83.17,0.11,marcala,2016,2016,False,False
+913,Honduras,1400.0,Washed / Wet,7.5,7.5,7.33,7.42,7.17,7.25,10.0,10.0,10.0,7.33,81.5,0.1,comayagua,2017,2017,False,False
+656,Honduras,1400.0,Washed / Wet,7.58,7.58,7.33,7.5,7.5,7.5,10.0,10.0,10.0,7.5,82.5,0.1,comayagua,2017,2017,False,False
+759,Nicaragua,1000.0,,7.5,7.5,7.33,7.42,7.5,7.42,10.0,10.0,10.0,7.5,82.17,0.1,jinotega,,,False,False
+1096,Honduras,1400.0,Natural / Dry,7.25,7.25,7.0,7.0,7.42,7.0,10.0,10.0,10.0,7.33,80.25,0.1,comayagua,2016,2016,False,False
+758,Honduras,1500.0,Washed / Wet,7.5,7.5,7.17,7.42,7.5,7.5,10.0,10.0,10.0,7.58,82.17,0.11,comayagua,2015,2015,False,False
+317,Honduras,1400.0,Washed / Wet,7.5,7.5,7.67,7.67,8.0,8.0,10.0,10.0,10.0,7.33,83.67,0.1,comayagua,2016,2016,False,False
+243,Honduras,1500.0,Washed / Wet,7.42,7.83,7.75,7.92,7.75,7.58,10.0,10.0,10.0,7.75,84.0,0.1,comayagua,2017,2017,False,False
+796,Honduras,1600.0,Natural / Dry,7.5,7.5,7.25,7.33,7.42,7.5,10.0,10.0,10.0,7.5,82.0,0.1,guinope el paraiso,2016,2016,False,False
+29,Honduras,1400.0,,8.17,8.08,8.08,8.0,8.08,8.0,10.0,10.0,10.0,8.25,86.67,0.1,comayagua,2016,2016,False,False
+1312,Honduras,1400.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.12,comayagua,2017,2017,False,False
+952,Honduras,1500.0,Washed / Wet,7.5,7.5,7.0,7.17,7.5,7.33,10.0,10.0,10.0,7.33,81.33,0.11,comayagua,2016,2017,False,False
+181,Honduras,1500.0,,7.92,8.0,7.75,7.67,7.67,7.75,10.0,10.0,10.0,7.58,84.33,0.1,comayagua,2016,2016,False,False
+706,Honduras,1396.0,Washed / Wet,7.5,7.58,7.33,7.5,7.42,7.42,10.0,10.0,10.0,7.58,82.33,0.1,comayagua,2017,2017,False,False
+818,Honduras,1400.0,Washed / Wet,7.58,7.5,7.25,7.33,7.42,7.5,10.0,10.0,10.0,7.33,81.92,0.12,comayagua,2017,2017,False,False
+183,Honduras,1500.0,Washed / Wet,7.58,7.92,7.58,7.75,7.92,7.75,10.0,10.0,10.0,7.83,84.33,0.11,central region,2016,2016,False,False
+795,Honduras,1600.0,Washed / Wet,7.5,7.5,7.17,7.5,7.5,7.42,10.0,10.0,10.0,7.42,82.0,0.12,el paraiso,2017,2017,False,False
+589,Honduras,1400.0,Natural / Dry,7.58,7.5,7.42,7.58,7.5,7.5,10.0,10.0,10.0,7.67,82.75,0.09,comayagua,2017,2017,False,False
+1042,Honduras,1450.0,Natural / Dry,7.5,7.33,7.0,7.42,7.25,7.17,10.0,10.0,10.0,7.08,80.75,0.11,"siguatepeque, comayagua",2015,2015,False,False
+1065,Honduras,1400.0,Washed / Wet,7.5,7.17,7.0,7.42,7.33,7.0,10.0,10.0,10.0,7.17,80.58,0.11,occidental,2014,2014,False,False
+805,Honduras,1400.0,Washed / Wet,7.33,7.33,7.33,7.5,7.5,7.83,10.0,10.0,10.0,7.17,82.0,0.11,occidental,2014,2014,False,False
+1186,Honduras,1650.0,Washed / Wet,7.58,7.0,6.75,6.92,7.0,6.92,10.0,10.0,10.0,7.0,79.17,0.11,ocotepeque,2017,2017,False,False
+1071,Honduras,1650.0,Washed / Wet,7.58,7.33,7.0,7.17,7.33,7.08,10.0,10.0,10.0,7.0,80.5,0.11,ocotepeque,2017,2017,False,False
+459,Honduras,1450.0,Natural / Dry,7.5,7.5,7.5,7.67,7.67,7.67,10.0,10.0,10.0,7.67,83.17,0.1,san marcos,2013,2013,False,False
+959,Honduras,1450.0,Washed / Wet,7.33,7.33,7.17,7.33,7.5,7.33,10.0,10.0,10.0,7.33,81.33,0.12,san marcos,2014,2014,False,False
+1006,Honduras,1350.0,Natural / Dry,7.42,7.25,7.25,7.33,7.25,7.17,10.0,10.0,10.0,7.33,81.0,0.12,san marcos,2014,2014,False,False
+972,Nicaragua,1200.0,Washed / Wet,7.33,7.5,7.17,7.17,7.58,7.17,10.0,10.0,10.0,7.25,81.17,0.09,"dipilto, nueva segovia",2016,2016,False,False
+1309,Nicaragua,1100.0,Other,7.25,6.58,6.33,6.25,6.42,6.08,6.0,6.0,6.0,6.17,63.08,0.13,jalapa,2016,2016,False,False
+912,Nicaragua,1100.0,Other,7.5,7.42,7.33,7.33,7.25,7.33,10.0,10.0,10.0,7.33,81.5,0.11,jalapa,2017,2017,False,False
+1207,Nicaragua,1100.0,Other,7.17,7.0,6.92,7.0,7.0,7.0,10.0,10.0,10.0,6.75,78.83,0.1,jalapa,2016,2016,False,False
+1215,Nicaragua,1100.0,,7.08,7.0,6.75,6.83,7.08,6.92,10.0,10.0,10.0,6.92,78.58,0.1,nueva segovia,2016,2016,False,True
+1062,Nicaragua,1100.0,,7.08,7.5,7.0,7.25,7.42,7.0,10.0,10.0,10.0,7.33,80.58,0.11,nueva segovia,2016,2016,False,True
+1200,Honduras,1350.0,Washed / Wet,7.0,7.0,7.0,7.0,7.0,7.0,10.0,10.0,10.0,7.0,79.0,0.11,intibuca,2014,2014,False,False
+1294,Honduras,1350.0,Washed / Wet,7.0,7.17,6.83,7.17,7.0,7.17,8.0,8.0,8.0,7.08,73.42,0.11,intibuca,2014,2014,False,False
+1237,Honduras,1350.0,Natural / Dry,6.83,7.0,6.67,7.0,7.0,6.83,10.0,10.0,10.0,6.67,78.0,0.11,intibuca,2014,2014,False,False
+1272,Honduras,1350.0,Natural / Dry,6.83,6.83,6.67,6.83,7.0,6.83,9.33,8.67,10.0,7.0,76.0,0.11,intibuca,2014,2014,False,False
+876,Nicaragua,1075.0,,7.58,7.5,7.25,7.25,7.5,7.25,10.0,10.0,10.0,7.33,81.67,0.1,jinotega,,,False,True
+318,Nicaragua,1250.0,Washed / Wet,7.67,7.75,7.67,7.67,7.83,7.58,10.0,10.0,10.0,7.5,83.67,0.1,jinotega,2016,2016,False,False
+1123,Nicaragua,1250.0,Washed / Wet,7.33,7.08,6.92,7.08,7.42,7.17,10.0,10.0,10.0,7.0,80.0,0.1,jinotega,2017,2017,False,False
+567,Brazil,900.0,Natural / Dry,7.58,7.83,7.33,7.67,7.42,7.33,10.0,10.0,10.0,7.67,82.83,0.12,cerrado,2015,2015,False,False
+219,Brazil,1150.0,Natural / Dry,7.67,7.75,7.75,7.67,7.83,7.75,10.0,10.0,10.0,7.75,84.17,0.0,cerrado,2015,2015,False,False
+954,Brazil,1100.0,Natural / Dry,7.25,7.33,7.33,7.33,7.33,7.42,10.0,10.0,10.0,7.33,81.33,0.11,cerrado,2015,2016,False,False
+937,Brazil,1100.0,Natural / Dry,7.33,7.5,7.5,7.33,6.83,7.42,10.0,10.0,10.0,7.5,81.42,0.11,cerrado,2015,2016,False,False
+836,Brazil,973.0,Natural / Dry,7.42,7.5,7.42,7.5,7.42,7.25,10.0,10.0,10.0,7.33,81.83,0.11,monte carmelo,2016,2016,False,False
+636,Brazil,1000.0,Pulped natural / honey,7.5,7.58,7.42,7.5,7.75,7.33,10.0,10.0,10.0,7.5,82.58,0.11,south of minas,2016,2016,False,True
+708,Brazil,1075.0,Natural / Dry,7.42,7.42,7.42,7.5,7.5,7.58,10.0,10.0,10.0,7.5,82.33,0.11,cerrado,2016,2017,False,True
+819,Brazil,1020.0,Natural / Dry,7.42,7.33,7.33,7.5,7.5,7.33,10.0,10.0,10.0,7.5,81.92,0.11,monte carmelo,2016,2017,False,False
+498,Brazil,894.0,Natural / Dry,7.5,7.58,7.58,7.67,7.58,7.5,10.0,10.0,10.0,7.58,83.0,0.11,south of minas,2016,2016,False,False
+481,Brazil,905.0,Pulped natural / honey,7.58,7.58,7.58,7.5,7.67,7.58,10.0,10.0,10.0,7.58,83.08,0.11,south of minas,2015,2015,False,False
+280,Brazil,1000.0,Natural / Dry,7.25,7.58,7.42,8.0,7.75,7.83,10.0,10.0,10.0,8.0,83.83,0.0,south of minas,2015,2016,True,True
+497,Brazil,890.0,Natural / Dry,7.58,7.5,7.5,7.75,7.67,7.5,10.0,10.0,10.0,7.5,83.0,0.0,south of minas,2017,2018,False,False
+482,Brazil,1000.0,Natural / Dry,7.33,7.67,7.67,7.33,7.75,7.42,10.0,10.0,10.0,7.92,83.08,0.0,south of minas,2015,2016,True,True
+608,Brazil,890.0,Natural / Dry,7.5,7.58,7.25,7.75,7.58,7.5,10.0,10.0,10.0,7.5,82.67,0.0,south of minas,2017,2018,False,False
+964,Brazil,1000.0,Natural / Dry,7.17,7.42,7.17,7.08,6.92,8.17,10.0,10.0,10.0,7.33,81.25,0.0,south of minas,2015,2016,True,True
+262,Brazil,934.0,Natural / Dry,7.58,7.67,7.67,7.75,7.58,7.83,10.0,10.0,10.0,7.83,83.92,0.11,south of minas,2016,2016,False,False
+562,Brazil,905.0,Pulped natural / honey,7.67,7.58,7.58,7.5,7.5,7.42,10.0,10.0,10.0,7.58,82.83,0.11,south of minas,2015,2015,False,False
+871,Brazil,890.0,Natural / Dry,7.42,7.5,7.25,7.5,7.5,7.25,10.0,10.0,10.0,7.25,81.67,0.11,south of minas,2017,2018,False,False
+780,Brazil,894.0,Natural / Dry,7.42,7.58,7.42,7.5,7.42,7.25,10.0,10.0,10.0,7.5,82.08,0.11,south of minas,2016,2016,False,False
+654,Brazil,890.0,Natural / Dry,7.5,7.5,7.5,7.5,7.58,7.5,10.0,10.0,10.0,7.42,82.5,0.11,south of minas,2017,2018,False,False
+499,Brazil,872.0,Natural / Dry,7.5,7.67,7.58,7.67,7.58,7.42,10.0,10.0,10.0,7.58,83.0,0.11,south of minas,2016,2016,False,False
+1254,Brazil,890.0,Natural / Dry,7.5,7.33,7.42,7.58,7.58,6.92,8.0,8.0,10.0,7.0,77.33,0.0,south of minas,2017,2018,False,False
+534,Brazil,890.0,Natural / Dry,7.67,7.58,7.5,7.58,7.58,7.5,10.0,10.0,10.0,7.5,82.92,0.0,south of minas,2017,2018,False,False
+297,Brazil,890.0,Natural / Dry,7.67,7.67,7.58,7.75,7.67,7.67,10.0,10.0,10.0,7.75,83.75,0.11,south of minas,2017,2018,False,False
+839,Brazil,1000.0,Natural / Dry,7.17,7.58,6.83,7.5,7.75,7.25,10.0,10.0,10.0,7.75,81.83,0.0,south of minas,2015,2016,True,True
+738,Brazil,1000.0,Natural / Dry,7.42,7.67,7.5,7.08,7.5,7.42,10.0,10.0,10.0,7.67,82.25,0.0,south of minas,2015,2016,True,True
+441,Brazil,890.0,Natural / Dry,7.67,7.42,7.5,7.58,7.67,7.58,10.0,10.0,10.0,7.75,83.17,0.11,south of minas,2017,2018,False,False
+319,Brazil,934.0,Natural / Dry,7.58,7.75,7.58,7.75,7.58,7.58,10.0,10.0,10.0,7.83,83.67,0.11,south of minas,2016,2016,False,False
+609,Brazil,934.0,Natural / Dry,7.5,7.58,7.5,7.67,7.5,7.42,10.0,10.0,10.0,7.5,82.67,0.11,south of minas,2016,2016,False,False
+259,Brazil,890.0,Natural / Dry,7.5,7.75,7.58,7.5,7.58,7.5,10.0,10.0,10.0,8.5,83.92,0.0,south of minas,2017,2018,False,False
+315,Brazil,890.0,Natural / Dry,7.67,7.83,7.5,7.67,7.67,7.5,10.0,10.0,10.0,7.83,83.67,0.11,south of minas,2017,2018,False,False
+878,Brazil,1000.0,Natural / Dry,7.25,7.75,6.92,7.42,7.5,7.58,10.0,10.0,10.0,7.25,81.67,0.0,south of minas,2015,2016,True,True
+614,Brazil,1000.0,Natural / Dry,7.58,7.5,7.42,7.67,7.5,7.5,10.0,10.0,10.0,7.5,82.67,0.0,south of minas,2015,2016,True,True
+757,Brazil,934.0,Natural / Dry,7.42,7.42,7.5,7.42,7.42,7.5,10.0,10.0,10.0,7.5,82.17,0.11,south of minas,2016,2016,False,False
+762,Brazil,1000.0,Natural / Dry,6.92,7.58,7.42,7.33,7.83,7.5,10.0,10.0,10.0,7.58,82.17,0.0,south of minas,2015,2016,True,True
+336,Brazil,890.0,Natural / Dry,7.58,7.67,7.58,7.58,7.67,7.58,10.0,10.0,10.0,7.92,83.58,0.11,south of minas,2017,2018,False,False
+590,Brazil,905.0,Pulped natural / honey,7.5,7.5,7.58,7.5,7.58,7.58,10.0,10.0,10.0,7.5,82.75,0.11,south of minas,2015,2015,False,False
+840,Brazil,1000.0,Natural / Dry,7.58,7.0,6.92,6.92,7.67,7.5,10.0,10.0,10.0,8.25,81.83,0.0,south of minas,2015,2016,True,True
+781,Brazil,1000.0,Natural / Dry,7.25,7.25,7.58,7.58,7.25,7.92,10.0,10.0,10.0,7.25,82.08,0.0,south of minas,2015,2016,True,True
+709,Brazil,934.0,Natural / Dry,7.5,7.5,7.42,7.5,7.42,7.5,10.0,10.0,10.0,7.5,82.33,0.11,south of minas,2016,2016,False,False
+684,Brazil,1000.0,Natural / Dry,7.17,7.83,7.33,7.5,7.75,7.42,10.0,10.0,10.0,7.42,82.42,0.0,south of minas,2015,2016,True,True
+797,Brazil,944.0,Natural / Dry,7.5,7.33,7.42,7.5,7.33,7.42,10.0,10.0,10.0,7.5,82.0,0.11,south of minas,2016,2016,False,False
+1115,Brazil,1100.0,Pulped natural / honey,7.17,7.17,7.0,7.17,7.25,7.25,10.0,10.0,10.0,7.08,80.08,0.11,mantiqueira de minas,2017,2018,False,False
+507,Brazil,1000.0,Natural / Dry,7.67,7.67,7.67,7.5,7.42,7.5,10.0,10.0,10.0,7.58,83.0,0.0,high mogiana,2014,2014,False,False
+707,Brazil,982.0,Natural / Dry,7.33,7.5,7.5,7.33,7.5,7.5,10.0,10.0,10.0,7.67,82.33,0.11,cerrado,2016,2016,False,False
+1095,Brazil,995.0,Natural / Dry,7.17,7.33,7.42,7.08,7.0,7.0,10.0,10.0,10.0,7.25,80.25,0.11,cerrado monte carmelo minas gerais,2017,2018,False,False
+1274,Brazil,996.5,Natural / Dry,7.17,7.0,6.83,7.5,7.17,7.0,8.0,8.0,10.0,7.0,75.67,0.11,monte carmelo,2017,2018,False,True
+1303,Brazil,1075.0,Natural / Dry,7.0,7.0,6.83,7.0,7.33,6.83,6.0,6.0,10.0,6.67,70.67,0.11,cerrado,2017,2018,False,True
+1021,Brazil,1200.0,Natural / Dry,7.25,7.33,7.25,7.25,7.25,7.33,10.0,10.0,10.0,7.25,80.92,0.12,mantiqueira de minas,2014,2015,False,False
+956,Brazil,1200.0,Other,7.17,7.33,7.42,7.25,7.42,7.33,10.0,10.0,10.0,7.42,81.33,0.12,mantiqueira de minas,2014,2015,False,False
+999,Brazil,1100.0,Pulped natural / honey,7.25,7.25,7.17,7.5,7.33,7.17,10.0,10.0,10.0,7.33,81.0,0.11,grama valley,,,False,True
+1001,Brazil,1100.0,Pulped natural / honey,7.33,7.17,7.17,7.67,7.33,7.17,10.0,10.0,10.0,7.17,81.0,0.11,grama valley,2016,2017,False,True
+385,Brazil,1287.5,Semi-washed / Semi-pulped,7.33,7.83,7.75,7.5,7.42,7.83,10.0,10.0,10.0,7.75,83.42,0.12,vale da grama,2014,2014,False,True
+714,Brazil,1100.0,Natural / Dry,7.42,7.5,7.5,7.42,7.5,7.58,10.0,10.0,10.0,7.42,82.33,0.11,chapadao de ferro,2015,2015,False,True
+1061,Brazil,996.5,,7.33,7.25,7.33,7.08,7.58,7.25,9.33,10.0,10.0,7.42,80.58,0.11,monte carmelo,2016,2016,False,True
+682,Brazil,1100.0,,7.42,7.5,7.33,7.5,7.25,7.42,10.0,10.0,10.0,8.0,82.42,0.11,campos altos cerrado,2016,2016,False,True
+422,Brazil,1100.0,,7.58,7.67,7.42,7.5,7.67,7.42,10.0,10.0,10.0,8.0,83.25,0.12,campos altos cerrado,2016,2016,False,True
+484,Brazil,1100.0,Natural / Dry,7.42,7.67,7.58,7.5,7.75,7.67,10.0,10.0,10.0,7.5,83.08,0.11,chapadao de ferro,2015,2015,False,True
+1007,Brazil,1075.0,Natural / Dry,7.67,7.75,7.83,7.75,7.83,7.75,10.0,6.67,10.0,7.75,81.0,0.12,cerrado,2014,2014,False,True
+766,Brazil,1075.0,Natural / Dry,7.58,7.5,7.42,7.25,7.5,7.42,10.0,10.0,10.0,7.5,82.17,0.12,cerrado,2014,2014,False,True
+638,Brazil,1100.0,,7.42,7.42,7.5,7.33,7.25,7.67,10.0,10.0,10.0,8.0,82.58,0.0,campos altos cerrado,2016,2016,False,True
+615,Brazil,996.5,Natural / Dry,7.33,7.5,7.58,7.58,7.67,7.5,10.0,10.0,10.0,7.5,82.67,0.12,monte carmelo,2014,2014,False,True
+1073,Brazil,1250.0,Semi-washed / Semi-pulped,7.25,7.33,7.17,7.5,7.33,7.25,9.33,10.0,10.0,7.33,80.5,0.11,vale da grama,2015,2016,False,False
+1293,Brazil,1100.0,,7.25,6.58,6.58,7.0,7.0,6.42,8.0,8.0,10.0,6.67,73.5,0.11,campos altos cerrado,2016,2016,False,True
+1225,Brazil,996.5,Natural / Dry,6.83,7.0,6.92,7.08,6.92,6.83,10.0,10.0,10.0,6.83,78.42,0.12,monte carmelo,2014,2015,False,True
+1038,Brazil,996.5,Natural / Dry,7.17,7.25,7.08,7.17,7.25,7.58,10.0,10.0,10.0,7.25,80.75,0.0,monte carmelo,2015,2016,False,True
+544,Brazil,1100.0,Semi-washed / Semi-pulped,7.08,7.5,7.5,7.83,7.75,7.67,10.0,10.0,10.0,7.58,82.92,0.11,cerrado,2014,2015,False,False
+1084,Taiwan,600.0,Washed / Wet,7.25,7.25,7.17,7.25,7.25,7.25,10.0,10.0,10.0,7.0,80.42,0.11,nantou,2013,2014,False,False
+842,Mexico,1425.0,Washed / Wet,7.58,7.5,7.33,7.5,7.17,7.33,10.0,10.0,10.0,7.42,81.83,0.11,chiapas,2015,2015,False,False
+341,Mexico,1200.0,Washed / Wet,7.75,7.75,7.58,7.58,7.5,7.67,10.0,10.0,10.0,7.75,83.58,0.12,"chiapas, jaltenango",2014,2014,False,False
+974,Mexico,1200.0,Washed / Wet,7.75,7.58,7.08,7.25,7.08,7.25,10.0,10.0,10.0,7.17,81.17,0.12,"chiapas, jaltenango",2015,2015,False,False
+401,Mexico,1200.0,Washed / Wet,7.75,7.75,7.5,7.67,7.5,7.58,10.0,10.0,10.0,7.58,83.33,0.12,chiapas,2014,2014,False,False
+542,Mexico,1059.0,Natural / Dry,7.83,7.67,7.25,7.58,7.5,7.5,10.0,10.0,10.0,7.58,82.92,0.13,cuarenteno,2015,2015,False,False
+424,Mexico,1261.0,Natural / Dry,7.83,7.75,7.5,7.58,7.58,7.58,10.0,10.0,10.0,7.42,83.25,0.12,cuarenteno,2015,2015,False,False
+26,Brazil,1250.0,Natural / Dry,8.5,8.5,8.0,8.0,8.0,8.0,10.0,10.0,10.0,7.92,86.92,0.12,south of minas,2011,2011,False,False
+733,Brazil,950.0,Washed / Wet,7.58,7.58,7.25,7.58,7.42,7.5,10.0,10.0,10.0,7.42,82.33,0.11,south of minas,2012,2012,False,False
+755,Brazil,,Natural / Dry,7.67,7.58,7.42,7.0,7.5,7.58,10.0,10.0,10.0,7.5,82.25,0.12,,2012,2012,False,False
+687,Brazil,1000.0,Semi-washed / Semi-pulped,7.58,7.67,7.33,7.5,7.5,7.42,10.0,10.0,10.0,7.42,82.42,0.12,south of minas,2012,2012,False,False
+472,Brazil,1000.0,Natural / Dry,7.75,7.67,7.58,7.5,7.58,7.58,10.0,10.0,10.0,7.5,83.17,0.12,south of minas,2012,2012,False,False
+33,Brazil,1300.0,Natural / Dry,8.5,8.17,8.0,7.75,8.0,8.0,10.0,10.0,10.0,8.0,86.42,0.12,vale da grama,2011,2011,False,False
+114,Brazil,1000.0,Natural / Dry,8.0,8.0,7.75,8.0,7.5,7.75,10.0,10.0,10.0,7.92,84.92,0.12,south of minas,2011,2011,False,False
+857,Brazil,925.0,,7.33,7.67,7.25,7.5,7.5,7.25,10.0,10.0,10.0,7.33,81.83,0.02,cerrado,2011,2011,False,False
+103,Brazil,1100.0,Natural / Dry,8.0,8.0,7.83,7.83,7.67,7.67,10.0,10.0,10.0,8.0,85.0,0.12,grama valley,2012,2012,False,False
+985,Brazil,1000.0,Natural / Dry,7.42,7.33,7.25,7.42,7.5,7.17,10.0,10.0,10.0,7.08,81.17,0.12,south of minas,2012,2012,False,False
+703,Brazil,1000.0,Natural / Dry,7.75,7.5,7.42,7.42,7.5,7.42,10.0,10.0,10.0,7.42,82.42,0.11,south of minas,2012,2012,False,True
+157,Brazil,1300.0,Semi-washed / Semi-pulped,8.0,8.0,7.75,7.75,7.58,7.75,10.0,10.0,10.0,7.75,84.58,0.12,vale da grama,2011,2011,False,False
+811,Brazil,1050.0,Semi-washed / Semi-pulped,7.42,7.5,7.25,7.5,7.5,7.42,10.0,10.0,10.0,7.42,82.0,0.11,cerrado,2012,2012,False,False
+158,Brazil,1100.0,Semi-washed / Semi-pulped,8.5,8.0,7.5,7.75,7.5,7.83,10.0,10.0,10.0,7.5,84.58,0.11,mountains of minas gerais,2011,2011,False,False
+74,Brazil,1250.0,Semi-washed / Semi-pulped,8.0,8.0,8.0,7.67,7.75,8.0,10.0,10.0,10.0,8.0,85.42,0.11,south of minas,2011,2011,False,False
+476,Brazil,900.0,,7.58,7.75,7.67,7.5,7.67,7.58,10.0,10.0,10.0,7.42,83.17,0.02,south of minas,2011,2011,False,False
+188,Brazil,1275.0,,8.17,8.0,7.5,7.75,7.5,7.67,10.0,10.0,10.0,7.75,84.33,0.0,vale da grama,2011,2011,False,False
+46,Brazil,1250.0,Semi-washed / Semi-pulped,8.33,8.0,8.0,8.0,7.75,8.0,10.0,10.0,10.0,8.0,86.08,0.11,south of minas,2011,2011,False,False
+189,Brazil,1050.0,,8.0,8.0,7.5,7.5,7.67,7.75,10.0,10.0,10.0,7.92,84.33,0.02,south of minas,2011,2011,False,False
+832,Brazil,1100.0,Natural / Dry,7.42,7.58,7.25,7.5,7.33,7.5,10.0,10.0,10.0,7.33,81.92,0.12,grama valley,2012,2012,False,False
+813,Brazil,950.0,Semi-washed / Semi-pulped,7.58,7.5,7.17,7.5,7.5,7.42,10.0,10.0,10.0,7.33,82.0,0.12,south of minas,2012,2012,False,False
+731,Brazil,1100.0,Natural / Dry,7.58,7.5,7.42,7.5,7.5,7.42,10.0,10.0,10.0,7.42,82.33,0.12,grama valley,2012,2012,False,False
+351,Brazil,1100.0,Semi-washed / Semi-pulped,7.83,7.75,7.5,7.75,7.5,7.58,10.0,10.0,10.0,7.67,83.58,0.12,south of minas,2012,2012,False,False
+810,Brazil,1000.0,Natural / Dry,7.42,7.5,7.33,7.5,7.33,7.5,10.0,10.0,10.0,7.42,82.0,0.12,south of minas,2012,2012,False,False
+473,Brazil,950.0,Natural / Dry,7.92,7.58,7.5,7.58,7.42,7.5,10.0,10.0,10.0,7.67,83.17,0.11,mogiana,2012,2012,False,False
+435,Brazil,1200.0,Semi-washed / Semi-pulped,7.75,7.67,7.5,7.58,7.58,7.58,10.0,10.0,10.0,7.58,83.25,0.11,grama valley,2012,2012,False,False
+653,Brazil,975.0,,7.58,7.5,7.33,7.75,7.5,7.5,10.0,10.0,10.0,7.42,82.58,0.0,south of minas,2011,2011,False,False
+113,Brazil,1200.0,Natural / Dry,8.0,7.92,7.75,7.75,8.0,7.75,10.0,10.0,10.0,7.75,84.92,0.11,south of minas,2011,2011,False,False
+475,Brazil,1000.0,Semi-washed / Semi-pulped,7.75,7.5,7.58,7.5,7.75,7.5,10.0,10.0,10.0,7.58,83.17,0.12,south of minas,2011,2011,False,False
+903,Brazil,1260.0,Washed / Wet,7.42,7.42,7.33,7.33,7.5,7.25,10.0,10.0,10.0,7.33,81.58,0.12,south of minas,2013,2014,False,False
+170,Brazil,1100.0,,7.81,7.81,7.88,7.75,7.38,8.25,9.5,10.0,10.0,8.13,84.5,0.0,mmm,,,False,True
+171,Brazil,1100.0,,8.17,7.67,7.75,7.75,7.67,7.75,10.0,10.0,10.0,7.75,84.5,0.0,test,,,False,True
+292,Brazil,1250.0,Semi-washed / Semi-pulped,7.83,7.83,7.58,7.67,7.5,7.58,10.0,10.0,10.0,7.83,83.83,0.12,carmo de minas,2011,2012,False,False
+671,Brazil,1250.0,Semi-washed / Semi-pulped,7.67,7.42,7.33,7.67,7.5,7.5,10.0,10.0,10.0,7.42,82.5,0.0,carmo de minas,2012,2012,False,False
+931,Brazil,1075.0,Semi-washed / Semi-pulped,7.5,7.42,7.17,7.42,7.5,7.33,10.0,10.0,10.0,7.17,81.5,0.12,sul de minas,2012,2012,True,True
+982,Brazil,996.5,Natural / Dry,7.42,7.42,7.17,7.42,7.33,7.25,10.0,10.0,10.0,7.17,81.17,0.11,monte carmelo,2013,2013,False,True
+6,Brazil,,Natural / Dry,8.58,8.42,8.42,8.5,8.25,8.33,10.0,10.0,10.0,8.33,88.83,0.11,,2013,2013,False,False
+25,Ethiopia,1750.0,Natural / Dry,8.42,8.17,7.92,8.17,8.33,8.0,10.0,10.0,10.0,8.08,87.08,0.11,sidamo,2013,2013,False,True
+987,Ethiopia,1750.0,Natural / Dry,7.42,7.33,7.17,7.33,7.42,7.17,10.0,10.0,10.0,7.25,81.08,0.11,sidamo,2016,2016,True,True
+799,Laos,1250.0,Washed / Wet,7.42,7.5,7.25,7.33,7.5,7.5,10.0,10.0,10.0,7.5,82.0,0.12,lao p d r,2015,2015,False,False
+7,Peru,,Washed / Wet,8.42,8.5,8.33,8.5,8.25,8.25,10.0,10.0,10.0,8.5,88.75,0.11,,2012,2012,False,False
+138,Kenya,2000.0,Washed / Wet,7.75,7.92,7.83,8.0,7.58,7.75,10.0,10.0,10.0,7.83,84.67,0.11,nyeri,2012,2012,False,False
+166,Kenya,2000.0,Washed / Wet,7.92,7.83,7.67,8.0,7.67,7.75,10.0,10.0,10.0,7.67,84.5,0.11,nyeri,2012,2012,False,False
+32,"Tanzania, United Republic Of",,Natural / Dry,8.42,8.17,8.17,8.0,7.58,8.0,10.0,10.0,10.0,8.17,86.5,0.11,,2012,2012,False,False
+121,Thailand,,Pulped natural / honey,7.75,7.75,7.75,7.75,8.0,7.75,10.0,10.0,10.0,8.0,84.75,0.12,,2015,2015,False,False
+622,Thailand,1500.0,Washed / Wet,7.42,7.5,7.5,7.67,7.58,7.5,10.0,10.0,10.0,7.5,82.67,0.11,phahi,2013,2013,False,False
+382,Thailand,1200.0,Washed / Wet,7.5,7.58,7.75,7.5,7.75,7.67,10.0,10.0,10.0,7.67,83.42,0.13,,2015,2015,False,False
+641,Thailand,1450.0,Washed / Wet,7.42,7.58,7.58,7.42,7.58,7.5,10.0,10.0,10.0,7.5,82.58,0.12,chiangrai,2014,2014,False,False
+659,Thailand,1450.0,Washed / Wet,7.33,7.5,7.5,7.5,7.67,7.5,10.0,10.0,10.0,7.5,82.5,0.11,chiangrai,2014,2014,False,False
+977,Thailand,1450.0,Washed / Wet,6.83,7.42,7.42,7.17,7.5,7.42,10.0,10.0,10.0,7.42,81.17,0.12,chiangrai,2014,2014,False,False
+193,Thailand,1200.0,Natural / Dry,7.83,7.75,7.75,7.42,7.83,7.67,10.0,10.0,10.0,8.0,84.25,0.12,chiang rai thailand,2015,2015,False,False
+128,Japan,170.0,Pulped natural / honey,7.75,7.75,7.75,7.42,8.08,7.83,10.0,10.0,10.0,8.08,84.67,0.12,ada okinawa japan,,,False,False
+500,Uganda,1473.0,Washed / Wet,7.67,7.58,7.42,7.42,7.83,7.5,10.0,10.0,10.0,7.58,83.0,0.12,"kasese, mt rwenzori",2015,2015,False,False
+501,Uganda,1645.0,Natural / Dry,7.67,7.67,7.5,7.58,7.42,7.5,10.0,10.0,10.0,7.67,83.0,0.12,"kasese, mt rwenzori",2015,2015,False,False
+509,Uganda,1800.0,Washed / Wet,7.83,7.58,7.5,7.5,7.58,7.5,10.0,10.0,10.0,7.5,83.0,0.12,kapchorwa,2013,2013,False,False
+1009,Uganda,1700.0,Natural / Dry,7.33,6.92,7.17,7.33,7.42,7.42,10.0,10.0,10.0,7.42,81.0,0.12,eastern,2013,2013,False,False
+69,Uganda,1600.0,Washed / Wet,8.33,7.92,7.67,7.92,7.67,7.92,10.0,10.0,10.0,8.08,85.5,0.12,bulambuli eastern region,2013,2013,False,False
+160,Uganda,1750.0,Washed / Wet,7.92,7.75,7.67,7.75,7.83,7.75,10.0,10.0,10.0,7.83,84.5,0.11,eastern uganda,2016,2016,False,False
+620,Uganda,1650.0,Washed / Wet,7.67,7.5,7.33,7.67,7.5,7.5,10.0,10.0,10.0,7.5,82.67,0.12,mt elgon,2013,2013,False,False
+117,Uganda,1650.0,Natural / Dry,7.75,7.92,7.67,7.67,8.25,7.75,10.0,10.0,10.0,7.83,84.83,0.12,eastern,2013,2013,False,False
+643,Uganda,1650.0,Natural / Dry,7.83,7.5,7.42,7.58,7.42,7.42,10.0,10.0,10.0,7.42,82.58,0.12,eastern,2013,2013,False,False
+421,Uganda,1650.0,Washed / Wet,7.5,7.67,7.67,7.42,7.67,7.67,10.0,10.0,10.0,7.67,83.25,0.12,"sipi, mt elgon",2015,2015,False,True
+54,Uganda,1650.0,Natural / Dry,8.17,8.17,7.92,8.08,7.83,7.75,10.0,10.0,10.0,8.0,85.92,0.12,eastern,2013,2013,False,False
+545,Uganda,1650.0,Washed / Wet,8.0,7.5,7.5,7.58,7.33,7.42,10.0,10.0,10.0,7.58,82.92,0.12,eastern,2013,2013,False,False
+457,Uganda,1800.0,Washed / Wet,8.0,7.67,7.5,7.42,7.33,7.58,10.0,10.0,10.0,7.67,83.17,0.1,eastern,2014,2014,False,False
+28,Uganda,1950.0,Washed / Wet,8.42,8.17,8.17,8.17,7.83,7.92,10.0,10.0,10.0,8.17,86.83,0.12,kapchorwa eastern,2013,2013,False,False
+242,Ethiopia,1800.0,Natural / Dry,7.83,7.75,7.67,7.75,7.33,7.75,10.0,10.0,10.0,7.92,84.0,0.11,sidamo,2017,2017,False,False
+97,Uganda,1800.0,Washed / Wet,8.17,7.92,7.75,7.75,7.67,7.75,10.0,10.0,10.0,8.0,85.0,0.11,eastern uganda,2016,2016,False,False
+381,Uganda,1800.0,Washed / Wet,7.58,7.75,7.33,7.75,7.67,7.58,10.0,10.0,10.0,7.75,83.42,0.11,eastern,2015,2015,False,False
+72,Uganda,1950.0,Washed / Wet,8.08,8.0,7.83,7.67,8.0,7.83,10.0,10.0,10.0,8.0,85.42,0.12,kapchorwa,2013,2013,False,False
+47,Uganda,1775.0,Semi-washed / Semi-pulped,8.08,8.08,7.83,7.92,8.08,7.92,10.0,10.0,10.0,8.08,86.0,0.0,eastern uganda,2014,2014,False,True
+546,Uganda,1400.0,Washed / Wet,7.75,7.58,7.58,7.5,7.5,7.5,10.0,10.0,10.0,7.5,82.92,0.12,west nile,2013,2013,False,False
+343,Uganda,1800.0,Washed / Wet,7.67,7.67,7.42,7.75,7.75,7.67,10.0,10.0,10.0,7.67,83.58,0.12,eastern,2013,2013,False,False
+303,Uganda,1400.0,Natural / Dry,8.0,7.92,7.58,7.75,7.33,7.5,10.0,10.0,10.0,7.67,83.75,0.12,west nile,2013,2013,False,False
+741,Malawi,1180.0,Washed / Wet,7.58,7.42,7.33,7.42,7.58,7.5,10.0,10.0,10.0,7.42,82.25,0.13,mzuzu,2014,2014,False,False
+231,Uganda,1600.0,Washed / Wet,7.83,7.75,7.5,7.83,7.83,7.75,10.0,10.0,10.0,7.67,84.17,0.11,mt rwenzori,2012,2012,False,False
+847,Malawi,1556.0,Washed / Wet,7.58,7.42,7.33,7.33,7.33,7.42,10.0,10.0,10.0,7.42,81.83,0.13,kakoma,2014,2014,False,False
+594,Malawi,1442.0,Washed / Wet,7.75,7.58,7.42,7.5,7.33,7.5,10.0,10.0,10.0,7.67,82.75,0.12,mzuzu,2014,2014,False,False
+1054,Malawi,995.0,Washed / Wet,7.5,7.25,7.17,7.17,7.25,7.17,10.0,10.0,10.0,7.17,80.67,0.12,southern zomba,2014,2014,False,False
+940,Malawi,1422.0,Washed / Wet,7.58,7.17,7.33,7.42,7.08,7.42,10.0,10.0,10.0,7.42,81.42,0.12,mzuzu,2014,2014,False,False
+901,Malawi,1100.0,Washed / Wet,7.42,7.42,7.17,7.58,7.33,7.33,10.0,10.0,10.0,7.33,81.58,0.13,mzuzu,2014,2014,False,False
+801,Malawi,2500.0,Washed / Wet,7.5,7.42,7.33,7.58,7.33,7.5,10.0,10.0,10.0,7.33,82.0,0.13,mzuzu,2014,2014,False,False
+50,Uganda,1650.0,Washed / Wet,8.25,8.0,7.83,8.08,8.0,7.92,10.0,10.0,10.0,7.92,86.0,0.1,"sipi, mt elgon",2012,2012,False,False
+980,Malawi,995.0,Washed / Wet,7.58,7.25,7.33,7.08,7.33,7.33,10.0,10.0,10.0,7.25,81.17,0.12,southern zomba,2014,2014,False,False
+210,Uganda,1700.0,Natural / Dry,8.17,7.75,7.58,7.67,7.83,7.58,10.0,10.0,10.0,7.67,84.25,0.13,kasese,2012,2012,False,False
+716,Malawi,1450.0,Washed / Wet,7.33,7.58,7.42,7.58,7.33,7.5,10.0,10.0,10.0,7.58,82.33,0.12,mzuzu,2014,2014,False,False
+958,Malawi,1200.0,Washed / Wet,7.75,7.33,7.08,7.33,7.33,7.25,10.0,10.0,10.0,7.25,81.33,0.13,mzuzu,2014,2014,False,False
+142,Uganda,1775.0,Washed / Wet,7.92,7.83,7.75,7.92,7.67,7.75,10.0,10.0,10.0,7.83,84.67,0.11,mbale,2012,2012,False,False
+918,Malawi,1599.0,Washed / Wet,7.67,7.42,6.92,7.5,7.5,7.17,10.0,10.0,10.0,7.33,81.5,0.12,mzuzu,2014,2014,False,False
+257,Uganda,1700.0,Washed / Wet,7.92,7.75,7.58,7.67,7.67,7.83,10.0,10.0,10.0,7.58,84.0,0.1,kasese,2012,2012,False,False
+403,"Tanzania, United Republic Of",1700.0,Semi-washed / Semi-pulped,7.75,7.58,7.67,7.58,7.58,7.58,10.0,10.0,10.0,7.58,83.33,0.12,arusha,2014,2014,False,False
+798,"Tanzania, United Republic Of",1650.0,Washed / Wet,7.67,7.33,7.33,7.42,7.42,7.42,10.0,10.0,10.0,7.42,82.0,0.13,kilimanjaro,2015,2015,False,False
+800,"Tanzania, United Republic Of",1350.0,Washed / Wet,7.42,7.42,7.33,7.58,7.33,7.42,10.0,10.0,10.0,7.5,82.0,0.12,meru,2014,2014,False,False
+1020,"Tanzania, United Republic Of",1700.0,Washed / Wet,7.33,7.17,7.17,7.25,7.42,7.33,10.0,10.0,10.0,7.25,80.92,0.12,"manyara, karatu",2014,2014,False,False
+1089,"Tanzania, United Republic Of",1525.0,Washed / Wet,7.25,7.17,7.25,7.25,7.25,7.08,10.0,10.0,10.0,7.08,80.33,0.12,arusha,2014,2014,False,True
+822,"Tanzania, United Republic Of",1877.0,Washed / Wet,7.33,7.33,7.33,7.42,7.5,7.58,10.0,10.0,10.0,7.42,81.92,0.12,mbeya,2014,2014,False,False
+879,"Tanzania, United Republic Of",1500.0,Washed / Wet,7.42,7.33,7.25,7.42,7.5,7.42,10.0,10.0,10.0,7.33,81.67,0.12,mbinga,2014,2014,False,False
+358,"Tanzania, United Republic Of",1400.0,Washed / Wet,7.75,7.67,7.58,7.67,7.67,7.58,10.0,10.0,10.0,7.58,83.5,0.13,nkure meru,2015,2015,False,False
+973,"Tanzania, United Republic Of",1600.0,Washed / Wet,7.67,7.17,7.17,7.33,7.5,7.17,10.0,10.0,10.0,7.17,81.17,0.12,"ruvuma, mbinga",2015,2016,True,True
+900,"Tanzania, United Republic Of",1800.0,Washed / Wet,7.42,7.42,7.33,7.42,7.42,7.33,10.0,10.0,10.0,7.25,81.58,0.12,"oldeani, mongola",2014,2014,False,False
+1008,"Tanzania, United Republic Of",1525.0,Washed / Wet,7.33,7.33,7.08,7.42,7.17,7.33,10.0,10.0,10.0,7.33,81.0,0.12,arusha,2014,2014,False,False
+386,"Tanzania, United Republic Of",1600.0,Washed / Wet,7.75,7.67,7.58,7.67,7.58,7.58,10.0,10.0,10.0,7.58,83.42,0.13,karatu northern,2014,2014,False,False
+660,"Tanzania, United Republic Of",1600.0,Washed / Wet,7.67,7.42,7.33,7.58,7.5,7.5,10.0,10.0,10.0,7.5,82.5,0.12,karatu arusha,2014,2014,False,False
+1088,"Tanzania, United Republic Of",1700.0,Washed / Wet,7.25,7.17,7.0,7.25,7.42,7.08,10.0,10.0,10.0,7.17,80.33,0.13,mkuu rombo,2015,2016,False,False
+760,"Tanzania, United Republic Of",1650.0,Washed / Wet,7.58,7.42,7.42,7.33,7.5,7.42,10.0,10.0,10.0,7.5,82.17,0.13,ruvuma,2015,2015,False,False
+455,"Tanzania, United Republic Of",1653.0,Washed / Wet,7.58,7.67,7.67,7.58,7.42,7.58,10.0,10.0,10.0,7.67,83.17,0.13,mbinga,2014,2014,False,False
+1063,"Tanzania, United Republic Of",1400.0,Washed / Wet,7.25,7.08,7.08,7.33,7.33,7.25,10.0,10.0,10.0,7.25,80.58,0.12,arusha,2014,2014,False,False
+616,"Tanzania, United Republic Of",1700.0,Washed / Wet,7.5,7.5,7.5,7.5,7.5,7.58,10.0,10.0,10.0,7.58,82.67,0.12,karatu arusha,2014,2014,False,False
+222,"Tanzania, United Republic Of",1400.0,Washed / Wet,7.92,7.75,7.75,7.75,7.75,7.58,10.0,10.0,10.0,7.67,84.17,0.13,arusha,2014,2014,False,False
+110,"Tanzania, United Republic Of",1620.0,Washed / Wet,8.0,7.83,7.83,7.92,7.75,7.75,10.0,10.0,10.0,7.83,84.92,0.12,mbeya,2014,2014,False,False
+203,"Tanzania, United Republic Of",1600.0,Washed / Wet,7.83,7.75,7.75,7.75,7.67,7.75,10.0,10.0,10.0,7.75,84.25,0.12,mbeya,2014,2014,False,False
+991,"Tanzania, United Republic Of",1456.0,Washed / Wet,7.42,7.33,7.33,7.25,7.25,7.33,10.0,10.0,10.0,7.17,81.08,0.13,"iwala village, mbeya rural",2014,2014,False,False
+979,"Tanzania, United Republic Of",1550.0,Washed / Wet,7.58,7.17,7.17,7.33,7.33,7.25,10.0,10.0,10.0,7.33,81.17,0.12,mbinga,2014,2014,False,False
+617,"Tanzania, United Republic Of",1550.0,Washed / Wet,7.58,7.5,7.5,7.58,7.33,7.58,10.0,10.0,10.0,7.58,82.67,0.12,mbinga,2014,2014,False,False
+968,"Tanzania, United Republic Of",1700.0,Washed / Wet,7.33,7.17,7.17,7.5,7.25,7.42,10.0,10.0,10.0,7.42,81.25,0.13,karatu ngorogoro,2014,2014,False,False
+683,"Tanzania, United Republic Of",2285.0,Washed / Wet,7.67,7.25,7.42,7.42,7.67,7.42,10.0,10.0,10.0,7.58,82.42,0.13,arusha meru,2015,2016,False,False
+642,"Tanzania, United Republic Of",1317.0,Washed / Wet,7.75,7.42,7.33,7.5,7.58,7.5,10.0,10.0,10.0,7.5,82.58,0.12,ikand village,2014,2014,False,False
+767,"Tanzania, United Republic Of",1700.0,Washed / Wet,7.75,7.42,7.42,7.58,7.33,7.42,10.0,10.0,10.0,7.25,82.17,0.12,"ilomba vilage, mbozi",2014,2014,False,False
+202,"Tanzania, United Republic Of",1620.0,Washed / Wet,7.83,7.67,7.75,7.83,7.67,7.67,10.0,10.0,10.0,7.83,84.25,0.12,shizingo village,2014,2014,False,False
+880,"Tanzania, United Republic Of",1700.0,Washed / Wet,7.33,7.33,7.5,7.25,7.42,7.33,10.0,10.0,10.0,7.5,81.67,0.12,"ilomba vilage, mbozi",2013,2013,False,False
+784,"Tanzania, United Republic Of",1600.0,Washed / Wet,7.42,7.5,7.5,7.33,7.33,7.5,10.0,10.0,10.0,7.5,82.08,0.12,ngorogoro,2014,2014,False,False
+862,"Tanzania, United Republic Of",1600.0,Washed / Wet,7.42,7.42,7.42,7.42,7.33,7.33,10.0,10.0,10.0,7.42,81.75,0.12,ngorogoro,2014,2014,False,False
+661,"Tanzania, United Republic Of",1600.0,Washed / Wet,7.75,7.0,7.42,7.58,7.58,7.58,10.0,10.0,10.0,7.58,82.5,0.12,moshi,2014,2014,False,True
+612,Mexico,1300.0,,7.5,7.67,7.42,7.75,7.42,7.17,10.0,10.0,10.0,7.75,82.67,0.11,veracruz,2016,2016,False,False
+260,Mexico,1300.0,Washed / Wet,7.83,7.83,7.58,7.92,7.42,7.5,10.0,10.0,10.0,7.83,83.92,0.11,veracruz,2017,2017,False,False
+935,Mexico,1100.0,Washed / Wet,7.58,7.33,7.08,7.33,7.5,7.33,10.0,10.0,10.0,7.25,81.42,0.12,veracruz,2017,2017,False,False
+1017,Mexico,1100.0,Washed / Wet,7.5,7.33,7.17,7.42,7.5,7.33,9.33,10.0,10.0,7.33,80.92,0.11,veracruz,2017,2017,False,False
+953,Mexico,1130.0,,7.67,7.42,7.0,7.42,7.58,7.08,10.0,10.0,10.0,7.17,81.33,0.12,veracruz,2016,2016,False,False
+100,Mexico,1300.0,Washed / Wet,7.83,8.0,7.83,7.75,7.67,7.83,10.0,10.0,10.0,8.08,85.0,0.09,veracruz,2015,2015,False,False
+417,Mexico,1600.0,Washed / Wet,7.67,7.83,7.42,7.83,7.33,7.5,10.0,10.0,10.0,7.67,83.25,0.11,sierra madre occidental,2017,2017,False,False
+1097,Mexico,1600.0,Washed / Wet,7.25,7.17,7.0,7.33,7.33,7.0,10.0,10.0,10.0,7.17,80.25,0.1,sierra madre occidental,2016,2016,False,False
+36,Kenya,1800.0,Washed / Wet,8.08,8.0,8.0,8.25,7.92,7.92,10.0,10.0,10.0,8.08,86.25,0.12,muranga,2013,2013,False,False
+148,Kenya,1800.0,Washed / Wet,7.83,7.83,7.83,7.75,7.58,7.83,10.0,10.0,10.0,7.92,84.58,0.1,nyeri,2013,2013,False,False
+560,Kenya,1754.0,Washed / Wet,7.75,7.58,7.42,7.58,7.5,7.5,10.0,10.0,10.0,7.5,82.83,0.1,nyeri,2017,2017,False,False
+145,Kenya,1754.0,Washed / Wet,7.92,7.75,7.83,7.75,7.58,7.92,10.0,10.0,10.0,7.83,84.58,0.11,nyeri,,,False,False
+45,Kenya,1754.0,Natural / Dry,8.08,8.08,8.0,8.0,7.83,8.08,10.0,10.0,10.0,8.0,86.08,0.11,nyeri,2014,2014,False,False
+1016,Kenya,1600.0,Washed / Wet,7.17,7.58,7.5,7.5,8.0,7.75,10.0,10.0,10.0,5.42,80.92,0.11,kiambu,2017,2017,False,False
+122,Kenya,1800.0,Washed / Wet,7.92,7.83,7.58,7.92,7.75,7.83,10.0,10.0,10.0,7.92,84.75,0.13,nyeri,2014,2014,False,False
+180,Kenya,1800.0,Washed / Wet,7.33,7.58,7.83,7.75,7.75,7.92,10.0,10.0,10.0,8.17,84.33,0.11,nyeri,2017,2018,False,False
+1087,Burundi,1700.0,,7.08,7.25,7.17,7.33,7.08,7.08,10.0,10.0,10.0,7.33,80.33,0.12,mumirwa,2016,2016,False,False
+101,Kenya,,Washed / Wet,8.17,7.83,7.92,7.75,7.67,7.83,10.0,10.0,10.0,7.83,85.0,0.11,,2015,2015,False,False
+1072,Mauritius,280.0,,7.25,7.25,7.17,7.17,7.25,7.17,10.0,10.0,10.0,7.25,80.5,0.12,chamarel,2016,2016,False,False
+316,Kenya,1700.0,Washed / Wet,8.08,7.67,7.67,7.58,7.25,7.67,10.0,10.0,10.0,7.75,83.67,0.11,meru county,2017,2017,False,False
+296,Kenya,1800.0,Washed / Wet,7.75,7.58,7.5,7.58,7.75,7.75,10.0,10.0,10.0,7.83,83.75,0.11,nyeri,,,False,False
+1140,Kenya,1500.0,Washed / Wet,7.0,7.08,7.0,7.17,7.25,7.25,10.0,10.0,10.0,7.08,79.83,0.11,kiambu,2017,2017,False,False
+225,Kenya,1500.0,Washed / Wet,7.58,7.75,7.75,7.75,7.75,7.83,10.0,10.0,10.0,7.75,84.17,0.08,,2013,2013,False,False
+81,Kenya,1600.0,Washed / Wet,8.0,7.92,7.92,8.08,7.83,7.75,10.0,10.0,10.0,7.83,85.33,0.0,central kenya,2012,2012,True,True
+254,Kenya,1754.0,Washed / Wet,7.67,7.83,7.5,7.75,7.92,7.67,10.0,10.0,10.0,7.67,84.0,0.0,blend,2012,2012,True,True
+153,Kenya,,Washed / Wet,7.75,7.75,7.75,8.08,7.75,7.75,10.0,10.0,10.0,7.75,84.58,0.0,,2013,2013,False,False
+453,Kenya,1500.0,Washed / Wet,7.83,7.75,7.67,7.75,7.83,8.5,9.33,9.33,9.33,7.83,83.17,0.1,,2014,2014,False,False
+256,Kenya,1650.0,Washed / Wet,7.67,7.75,7.67,7.75,7.83,7.67,10.0,10.0,10.0,7.67,84.0,0.0,central kenya,2012,2012,False,False
+80,Kenya,1600.0,Washed / Wet,7.83,8.08,7.75,8.08,7.92,7.75,10.0,10.0,10.0,7.92,85.33,0.0,central kenya,2012,2012,False,False
+102,Kenya,1580.0,Washed / Wet,7.75,7.83,7.75,8.08,8.0,7.75,10.0,10.0,10.0,7.83,85.0,0.0,central kenya,2012,2012,False,False
+20,Ethiopia,1850.0,Natural / Dry,8.17,8.17,8.0,8.17,8.08,8.33,10.0,10.0,10.0,8.33,87.25,0.0,gedio,2014,2014,False,False
+342,Ethiopia,1850.0,Washed / Wet,7.75,7.67,7.58,7.67,7.5,7.67,10.0,10.0,10.0,7.75,83.58,0.0,yirgacheffe,2014,2014,False,False
+1043,Panama,1680.0,Other,7.25,7.33,7.17,7.33,7.33,7.17,10.0,10.0,10.0,7.17,80.75,0.11,boquete,2014,2014,False,False
+132,Ethiopia,1900.0,Washed / Wet,8.08,7.83,7.75,7.83,7.58,7.67,10.0,10.0,10.0,7.92,84.67,0.1,yirgacheffe,2014,2014,False,False
+66,Panama,1680.0,Natural / Dry,8.0,7.75,7.83,7.83,7.67,8.58,10.0,10.0,10.0,7.83,85.5,0.09,boquete,2014,2014,False,False
+765,Guatemala,1500.0,Washed / Wet,7.42,7.42,7.5,7.5,7.42,7.5,10.0,10.0,10.0,7.42,82.17,0.09,atitlan,2014,2014,False,False
+568,Colombia,1600.0,Washed / Wet,7.83,7.67,7.5,7.58,7.5,7.67,10.0,10.0,10.0,7.08,82.83,0.0,huila,2014,2014,False,False
+133,Costa Rica,1750.0,Other,7.67,7.58,7.75,7.75,7.67,8.58,10.0,10.0,10.0,7.67,84.67,0.08,,2014,2014,False,False
+77,Guatemala,1770.0,Natural / Dry,7.83,7.75,7.83,7.67,7.83,8.58,10.0,10.0,10.0,7.83,85.33,0.11,huehuetenango,2014,2014,False,False
+846,Indonesia,1300.0,Other,7.42,7.42,7.42,7.33,7.42,7.42,10.0,10.0,10.0,7.42,81.83,0.11,lington nihuta,2014,2014,False,False
+67,Kenya,1900.0,Natural / Dry,7.92,7.92,7.83,8.08,7.83,7.92,10.0,10.0,10.0,8.0,85.5,0.1,kirinyaga,2014,2014,False,False
+967,Guatemala,1700.0,Washed / Wet,7.33,7.42,7.17,7.25,7.42,7.33,10.0,10.0,10.0,7.33,81.25,0.09,huehuetenango,2014,2014,False,False
+1010,Taiwan,1100.0,Semi-washed / Semi-pulped,7.5,6.92,7.33,7.33,7.33,7.33,10.0,10.0,10.0,7.25,81.0,0.11,nantou,2013,2014,False,False
+1022,Taiwan,550.0,Washed / Wet,7.92,7.67,7.33,7.08,7.08,7.08,10.0,10.0,10.0,6.75,80.92,0.09,台中新社,2014,2014,False,False
+637,Taiwan,200.0,,7.25,7.25,7.0,7.08,7.0,7.0,10.0,10.0,10.0,10.0,82.58,0.11,changhua baguashan 彰化市八卦山,2016,2017,False,False
+621,Taiwan,1240.0,Washed / Wet,7.67,7.5,7.5,7.5,7.5,7.5,10.0,10.0,10.0,7.5,82.67,0.11,chiayi alishan 嘉義縣阿里山鄉,2013,2014,False,False
+266,Taiwan,1200.0,Natural / Dry,7.75,7.75,7.58,7.75,7.75,7.67,10.0,10.0,10.0,7.67,83.92,0.0,台灣,2014,2014,False,True
+1118,Taiwan,200.0,Other,7.25,7.25,7.25,7.25,7.08,7.0,10.0,10.0,10.0,7.0,80.08,0.11,yunlin gukeng he bao 雲林縣古坑鄉荷苞村,2013,2014,False,False
+1028,Taiwan,300.0,Washed / Wet,7.42,7.25,7.25,7.25,7.25,7.25,10.0,10.0,10.0,7.25,80.92,0.11,new taipei zhonghe 新北市中和區,2013,2014,False,False
+1103,Taiwan,700.0,Semi-washed / Semi-pulped,7.25,7.08,7.25,7.25,7.17,7.25,10.0,10.0,10.0,7.0,80.25,0.11,chiayi fanlu嘉義縣番路鄉,2013,2014,False,False
+1126,Taiwan,250.0,Washed / Wet,7.25,7.25,7.25,7.0,7.25,7.0,10.0,10.0,10.0,7.0,80.0,0.11,changhua baguashan 彰化市八卦山,2013,2014,False,False
+721,Taiwan,200.0,Semi-washed / Semi-pulped,7.5,7.5,7.5,7.5,7.5,7.5,10.0,10.0,10.0,7.33,82.33,0.11,changhua baguashan 彰化市八卦山,2013,2014,False,False
+886,Taiwan,150.0,Semi-washed / Semi-pulped,7.5,7.5,7.5,7.25,7.42,7.25,10.0,10.0,10.0,7.25,81.67,0.11,changhua baguashan 彰化市八卦山,2013,2014,False,False
+136,Taiwan,1000.0,Washed / Wet,8.0,7.92,7.75,7.75,7.75,7.75,10.0,10.0,10.0,7.75,84.67,0.11,taichung xinshe 台中市新社區,2013,2014,False,False
+1026,Taiwan,900.0,Washed / Wet,7.42,7.25,7.25,7.25,7.25,7.25,10.0,10.0,10.0,7.25,80.92,0.11,taichung taiping 台中市太平區,2013,2014,False,False
+1120,Taiwan,250.0,Semi-washed / Semi-pulped,7.25,7.25,7.25,7.08,7.17,7.08,10.0,10.0,10.0,7.0,80.08,0.11,changhua baguashan 彰化市八卦山,2013,2014,False,False
+736,Taiwan,,,7.0,7.08,7.0,7.17,7.0,7.0,10.0,10.0,10.0,10.0,82.25,0.1,,2016,2017,False,False
+1014,Taiwan,200.0,Washed / Wet,7.33,7.17,7.25,7.33,7.33,7.25,10.0,10.0,10.0,7.25,80.92,0.0,,2017,2017,False,False
+887,Taiwan,750.0,Washed / Wet,7.58,7.42,7.33,7.42,7.33,7.33,10.0,10.0,10.0,7.25,81.67,0.11,nantou,2013,2014,False,False
+826,Taiwan,1000.0,Other,7.5,7.5,7.42,7.25,7.5,7.5,10.0,10.0,10.0,7.25,81.92,0.11,taichung xinshe 台中市新社區,2012,2012,False,False
+939,Taiwan,110.0,Washed / Wet,7.83,7.75,7.42,7.17,7.08,7.08,10.0,10.0,10.0,7.08,81.42,0.12,苗栗三灣,2014,2014,False,False
+279,Taiwan,1200.0,,7.75,7.67,7.5,7.75,7.75,7.67,10.0,10.0,10.0,7.75,83.83,0.0,台灣,2016,2016,False,False
+915,Taiwan,180.0,Natural / Dry,7.5,7.42,7.33,7.08,7.58,7.25,10.0,10.0,10.0,7.33,81.5,0.12,古坑鄉荷包村尖山坑60號,2015,2015,False,False
+1069,Taiwan,50.0,Natural / Dry,7.17,7.17,7.17,7.42,7.17,7.25,10.0,10.0,10.0,7.17,80.5,0.0,,2017,2017,False,False
+1119,Taiwan,150.0,Washed / Wet,7.25,7.25,7.25,7.0,7.25,7.08,10.0,10.0,10.0,7.0,80.08,0.11,changhua baguashan 彰化市八卦山,2013,2014,False,False
+347,Taiwan,1000.0,Other,7.75,7.75,7.75,7.75,7.5,7.58,10.0,10.0,10.0,7.5,83.58,0.11,taichung xinshe 台中市新社區,2013,2014,False,False
+1031,Laos,1300.0,Washed / Wet,7.42,7.33,7.17,7.17,7.17,7.25,10.0,10.0,10.0,7.33,80.83,0.0,paksong,2016,2016,False,False
+426,Taiwan,800.0,Washed / Wet,7.92,7.83,7.75,7.58,7.5,7.33,10.0,10.0,10.0,7.33,83.25,0.1,南投國姓,2014,2014,False,False
+618,Taiwan,1200.0,Washed / Wet,8.0,7.83,7.83,7.42,7.25,7.25,10.0,10.0,10.0,7.08,82.67,0.08,嘉義阿里山,2014,2014,False,False
+1081,Taiwan,600.0,Washed / Wet,7.58,7.17,7.17,7.17,7.17,7.17,10.0,10.0,10.0,7.0,80.42,0.14,南投國姓,2014,2014,False,False
+969,Taiwan,650.0,Semi-washed / Semi-pulped,7.5,7.5,7.25,7.25,7.25,7.25,10.0,10.0,10.0,7.25,81.25,0.11,nantou,2013,2014,False,False
+923,Taiwan,600.0,Other,7.5,7.42,7.25,7.25,7.33,7.33,10.0,10.0,10.0,7.42,81.5,0.11,taichung xinshe 台中市新社區,2013,2014,False,False
+1116,Taiwan,850.0,Washed / Wet,7.42,7.25,7.25,7.17,7.0,7.0,10.0,10.0,10.0,7.0,80.08,0.07,苗栗泰安,2014,2014,False,False
+1027,Taiwan,688.0,Other,7.25,7.17,7.08,7.08,7.08,8.08,10.0,10.0,10.0,7.17,80.92,0.11,nantou,2013,2014,False,False
+353,Taiwan,,,7.58,7.58,7.17,7.17,7.0,7.0,10.0,10.0,10.0,10.0,83.5,0.11,,2016,2017,False,False
+380,Taiwan,,,7.67,7.67,7.0,7.08,7.0,7.0,10.0,10.0,10.0,10.0,83.42,0.11,,2015,2015,False,False
+1090,Taiwan,600.0,Other,7.25,7.25,7.08,7.25,7.25,7.25,10.0,10.0,10.0,7.0,80.33,0.11,taichung xinshe 台中市新社區,2013,2014,False,False
+770,Taiwan,1200.0,Other,7.5,7.5,7.5,7.5,7.5,7.5,10.0,10.0,10.0,7.17,82.17,0.11,yunlin 雲林縣石壁,2013,2014,False,False
+1171,Taiwan,700.0,Natural / Dry,6.92,7.0,7.17,7.0,7.42,7.0,10.0,10.0,10.0,7.0,79.5,0.0,nantou,2014,2014,False,False
+722,Taiwan,600.0,Washed / Wet,7.5,7.5,7.5,7.5,7.5,7.5,10.0,10.0,10.0,7.33,82.33,0.11,taichung xinshe 台中市新社區,2013,2014,False,False
+743,Taiwan,650.0,Washed / Wet,7.5,7.5,7.5,7.5,7.5,7.5,10.0,10.0,10.0,7.25,82.25,0.11,nantou,2013,2014,False,False
+488,Taiwan,1300.0,Other,7.75,7.75,7.5,7.5,7.5,7.5,10.0,10.0,10.0,7.58,83.08,0.11,chiayi alishan 嘉義縣阿里山鄉,2013,2014,False,False
+538,Ethiopia,2000.0,Washed / Wet,7.58,7.58,7.5,7.5,7.58,7.58,10.0,10.0,10.0,7.58,82.92,0.0,"blida, kercha, guji, oromia",2016,2016,False,False
+270,Taiwan,950.0,Washed / Wet,8.0,7.92,7.92,7.92,7.67,7.33,10.0,10.0,10.0,7.17,83.92,0.06,台中和平區,2014,2014,False,False
+1050,Taiwan,,Other,7.33,7.08,7.08,7.08,7.42,7.33,10.0,10.0,10.0,7.33,80.67,0.0,,2016,2016,False,False
+539,Taiwan,775.0,Natural / Dry,7.5,7.58,7.67,7.33,7.5,7.75,10.0,10.0,10.0,7.58,82.92,0.0,台東太麻里,2014,2014,False,False
+508,Taiwan,1200.0,Washed / Wet,7.92,7.92,7.83,7.58,7.33,7.25,10.0,10.0,10.0,7.17,83.0,0.08,嘉義阿里山,2014,2014,False,False
+610,Laos,1300.0,Washed / Wet,7.67,7.67,7.42,7.42,7.42,7.5,10.0,10.0,10.0,7.58,82.67,0.13,paksong,2015,2015,False,False
+1230,Mexico,1300.0,Natural / Dry,7.25,7.25,7.0,7.5,7.33,7.42,8.0,9.33,10.0,7.75,78.33,0.13,"xochitonalco, huautla",2012,2012,False,False
+197,China,1400.0,Natural / Dry,7.83,7.83,7.58,7.75,7.75,7.75,10.0,10.0,10.0,7.75,84.25,0.1,yunnan,2015,2015,False,False
+448,China,1200.0,Washed / Wet,7.5,7.67,7.33,7.67,7.67,7.67,10.0,10.0,10.0,7.67,83.17,0.11,yunnan,2015,2015,False,False
+712,China,1580.0,Pulped natural / honey,7.5,7.58,7.42,7.5,7.42,7.42,10.0,10.0,10.0,7.5,82.33,0.12,xishuangbanna prefecture,2015,2015,False,False
+161,China,1680.0,Washed / Wet,7.75,7.92,7.67,7.83,7.75,7.67,10.0,10.0,10.0,7.92,84.5,0.1,yunnan,2015,2015,False,False
+449,China,1600.0,Washed / Wet,7.67,7.67,7.5,7.67,7.42,7.58,10.0,10.0,10.0,7.67,83.17,0.1,dehong prefecture,2015,2015,False,False
+591,China,1100.0,Natural / Dry,7.67,7.5,7.33,7.33,7.67,7.67,10.0,10.0,10.0,7.58,82.75,0.1,yunnan,2015,2015,False,False
+681,China,1600.0,Washed / Wet,7.67,7.42,7.42,7.5,7.42,7.42,10.0,10.0,10.0,7.58,82.42,0.1,yunnan,2015,2015,False,False
+592,China,1500.0,Washed / Wet,7.5,7.67,7.42,7.67,7.5,7.5,10.0,10.0,10.0,7.5,82.75,0.11,menglian,2015,2015,False,False
+301,China,1650.0,Washed / Wet,7.83,7.75,7.67,7.5,7.58,7.67,10.0,10.0,10.0,7.75,83.75,0.1,yunnan,2015,2015,False,False
+339,China,1100.0,Washed / Wet,7.67,7.58,7.58,7.58,7.67,7.75,10.0,10.0,10.0,7.75,83.58,0.1,yunnan,2015,2015,False,False
+76,China,1700.0,Natural / Dry,8.0,8.0,8.0,7.83,7.83,7.75,10.0,10.0,10.0,7.92,85.33,0.1,yunnan,2015,2015,False,False
+19,China,1450.0,Washed / Wet,8.42,8.25,8.08,8.17,7.92,8.0,10.0,10.0,10.0,8.42,87.25,0.1,yunnan,2015,2015,False,False
+989,Nicaragua,1075.0,Washed / Wet,7.33,7.33,7.33,7.42,7.33,7.33,10.0,10.0,10.0,7.0,81.08,0.11,jinotega,2015,2015,False,True
+1170,Nicaragua,1050.0,Natural / Dry,6.92,6.92,7.0,7.42,7.25,7.0,10.0,10.0,10.0,7.0,79.5,0.12,jinotega,2015,2015,False,False
+1216,Nicaragua,,Natural / Dry,6.83,7.08,6.92,6.75,7.25,7.08,10.0,10.0,10.0,6.67,78.58,0.11,,2014,2014,False,False
+1107,Nicaragua,1187.5,Washed / Wet,7.17,7.08,7.08,7.33,7.25,7.08,10.0,10.0,10.0,7.17,80.17,0.11,jinotega,2015,2015,False,False
+1100,Nicaragua,900.0,Washed / Wet,7.08,6.92,7.0,7.25,7.5,7.25,10.0,10.0,10.0,7.25,80.25,0.11,matagalpa,2015,2015,False,False
+1142,Nicaragua,1250.0,Washed / Wet,6.83,7.17,7.17,6.92,7.5,7.08,10.0,10.0,10.0,7.17,79.83,0.11,jinotega,2014,2014,False,False
+1041,Nicaragua,1100.0,Washed / Wet,7.25,7.25,7.17,7.25,7.33,7.25,10.0,10.0,10.0,7.25,80.75,0.12,jinotega,2015,2015,False,False
+965,Nicaragua,1100.0,Washed / Wet,7.08,7.5,7.33,7.17,7.42,7.25,10.0,10.0,10.0,7.5,81.25,0.1,jinotega,2015,2015,False,False
+#114041,Taiwan,150.0,Pulped natural / honey,7.83,7.92,7.83,7.58,7.58,7.67,10.0,10.0,10.0,7.67,84.08,0.108,新北市,2021,2022,False,False
+#934594,Taiwan,500.0,Washed / Wet,7.5,7.58,7.42,7.42,7.25,7.42,10.0,10.0,10.0,7.42,82.0,0.0819999999999999,桃園市,2021,2022,False,False
+#105052,Taiwan,460.0,Pulped natural / honey,7.33,7.42,7.42,7.5,7.42,7.5,10.0,10.0,10.0,7.5,82.08,0.081,苗栗縣,2021,2022,False,False
+#526397,Taiwan,1150.0,Washed / Wet,7.75,7.75,7.58,7.67,7.42,7.5,10.0,10.0,10.0,7.58,83.25,0.096,苗栗縣,2021,2022,False,False
+#211361,Taiwan,165.0,Natural / Dry,7.67,7.67,7.42,7.42,7.42,7.5,10.0,10.0,10.0,7.5,82.58,0.098,苗栗縣,2021,2022,False,False
+#547819,Taiwan,139.0,Washed / Wet,7.42,7.42,7.58,7.42,7.58,7.5,10.0,10.0,10.0,7.58,82.5,0.084,新竹縣,2021,2022,False,False
+#663913,Taiwan,300.0,Pulped natural / honey,7.25,7.42,7.42,7.5,7.42,7.42,10.0,10.0,10.0,7.42,81.83,0.113,桃園市,2021,2022,False,False
+#348647,Taiwan,600.0,Washed / Wet,7.5,7.67,7.33,7.5,7.25,7.33,10.0,10.0,10.0,7.5,82.08,0.0969999999999999,桃園市,2021,2022,False,False
+#541397,Taiwan,230.0,Natural / Dry,8.0,8.0,7.75,7.75,7.67,7.75,10.0,10.0,10.0,7.92,84.83,0.0969999999999999,新竹縣,2021,2022,False,False
+#760524,Taiwan,520.0,Pulped natural / honey,7.75,7.92,7.83,7.75,7.75,7.75,10.0,10.0,10.0,7.75,84.5,0.113,苗栗縣,2021,2022,False,False
+#531106,Taiwan,300.0,Pulped natural / honey,7.42,7.5,7.33,7.33,7.33,7.33,10.0,10.0,10.0,7.33,81.58,0.09,新北市,2021,2022,False,False
+#599652,Taiwan,375.0,Washed / Wet,7.92,7.92,7.83,7.83,7.75,7.83,10.0,10.0,10.0,7.83,84.92,0.095,新竹縣,2021,2022,False,False
+#744798,Taiwan,325.0,Natural / Dry,7.58,7.67,7.5,7.75,7.75,7.67,10.0,10.0,10.0,7.67,83.58,0.084,新竹縣,2021,2022,False,False
+#127584,Taiwan,300.0,Pulped natural / honey,7.58,7.75,7.67,7.83,7.5,7.67,10.0,10.0,10.0,7.67,83.67,0.092,新竹縣,2021,2022,False,False
+#150681,Taiwan,275.0,Pulped natural / honey,7.58,7.75,7.58,7.75,7.58,7.67,10.0,10.0,10.0,7.67,83.58,0.091,新竹縣,2021,2022,False,False
+#748900,Taiwan,340.0,Washed / Wet,7.67,7.67,7.5,7.58,7.58,7.5,10.0,10.0,10.0,7.67,83.17,0.118,苗栗縣,2021,2022,False,False
+#142692,Taiwan,140.0,Natural / Dry,7.67,7.58,7.42,7.5,7.33,7.42,10.0,10.0,10.0,7.42,82.33,0.108,新竹縣,2021,2022,False,False
+#764728,Taiwan,250.0,Natural / Dry,7.75,7.75,7.5,7.75,7.5,7.42,10.0,10.0,10.0,7.5,83.17,0.0969999999999999,新竹縣,2021,2022,False,False
+#240429,Taiwan,250.0,Pulped natural / honey,7.83,7.83,7.75,7.75,7.75,7.75,10.0,10.0,10.0,7.92,84.58,0.096,新竹縣,2021,2022,False,False
+#918443,Taiwan,250.0,Pulped natural / honey,7.58,7.67,7.5,7.75,7.5,7.58,10.0,10.0,10.0,7.75,83.33,0.0969999999999999,新竹縣,2021,2022,False,False
+#128172,Taiwan,300.0,Washed / Wet,7.58,7.67,7.58,7.75,7.42,7.58,10.0,10.0,10.0,7.75,83.33,0.096,桃園市,2021,2022,False,False
+#553743,Taiwan,435.0,Pulped natural / honey,7.33,7.5,7.42,7.33,7.33,7.25,10.0,10.0,10.0,7.33,81.5,0.085,臺北市,2021,2022,False,False
+#725808,Taiwan,800.0,Washed / Wet,8.0,7.92,7.67,8.0,7.75,7.83,10.0,10.0,10.0,7.92,85.08,0.1,苗栗縣,2021,2022,False,False
+#895349,Taiwan,465.0,Washed / Wet,7.67,7.58,7.42,7.42,7.5,7.5,10.0,10.0,10.0,7.5,82.58,0.084,苗栗縣,2021,2022,False,False
+#405157,Taiwan,275.0,Pulped natural / honey,7.5,7.67,7.58,7.58,7.5,7.5,10.0,10.0,10.0,7.58,82.92,0.089,新竹縣,2021,2022,False,False
+#443473,Taiwan,1250.0,Washed / Wet,8.08,8.0,8.08,8.08,8.0,8.0,10.0,10.0,10.0,8.0,86.25,0.119,yunlin,2021,2022,False,False
+#439097,Taiwan,400.0,Natural / Dry,8.08,7.92,7.75,7.83,7.5,7.58,10.0,10.0,10.0,7.83,84.5,0.102,玉里鎮yuli township,2021,2022,False,False
+#695532,Taiwan,1250.0,Washed / Wet,8.08,7.83,7.67,7.67,7.67,7.75,10.0,10.0,10.0,7.92,84.58,0.1119999999999999,chiayi,2021,2022,False,False
+#693585,Colombia,1800.0,Pulped natural / honey,7.67,7.92,7.67,7.58,7.67,7.67,10.0,10.0,10.0,7.58,83.75,0.106,tolima,2022,2022,False,False
+#655504,Colombia,1850.0,Washed / Wet,8.08,8.0,8.08,7.92,8.08,8.0,10.0,10.0,10.0,8.0,86.17,0.106,tolima,2021,2022,False,False
+#125800,Myanmar,1400.0,Natural / Dry,7.83,7.83,7.67,7.58,7.58,7.58,10.0,10.0,10.0,7.58,83.67,0.102,south shan state,2022,2022,False,False
+#434200,Taiwan,1100.0,Washed / Wet,7.75,7.92,7.67,7.92,7.75,7.83,8.67,10.0,10.0,7.92,83.42,0.1009999999999999,chiayi,2021,2022,False,False
+#529473,Honduras,1800.0,Pulped natural / honey,7.75,7.75,7.75,7.67,7.75,7.67,10.0,10.0,10.0,7.67,84.0,0.094,"san andres, lempira",2021,2022,False,False
+#709384,Guatemala,1400.0,Washed / Wet,7.33,7.42,7.33,7.42,7.58,7.42,10.0,10.0,10.0,7.42,81.92,0.103,antigua,2022,2022,False,False
+#940597,Taiwan,700.0,Pulped natural / honey,8.17,7.83,7.67,7.83,7.67,7.67,10.0,10.0,10.0,7.75,84.58,0.115,,2022,2022,False,False
+#275886,Colombia,1574.0,Washed / Wet,7.33,7.5,7.33,7.42,7.42,7.42,10.0,10.0,10.0,7.33,81.75,0.1119999999999999,santander,2021,2021,False,False
+#448890,Brazil,950.0,Natural / Dry,7.42,7.5,7.58,7.33,7.33,7.25,10.0,10.0,10.0,7.33,81.75,0.111,sul de minas,2021,2021,False,False
+#451085,Nicaragua,1275.0,Washed / Wet,7.58,7.58,7.42,7.42,7.5,7.5,10.0,10.0,10.0,7.42,82.42,0.114,matagalpa,2021,2022,False,False
+#917199,Guatemala,1302.5,Washed / Wet,7.5,7.75,7.58,7.75,7.67,7.58,10.0,10.0,10.0,7.5,83.33,0.114,new oriente huehuetenango,2021,2021,False,False
+#876726,Mexico,1340.0,Washed / Wet,7.67,7.42,7.5,7.5,7.67,7.42,10.0,10.0,10.0,7.33,82.5,0.107,veracruz,2021,2021,False,False
+#126358,Guatemala,2000.0,Natural / Dry,8.08,8.0,8.0,7.75,8.25,8.17,10.0,10.0,10.0,8.0,86.25,0.115,acatenango,2021,2021,False,False
+#625390,Thailand,1400.0,Natural / Dry,7.42,7.25,7.33,7.42,7.33,7.33,10.0,10.0,10.0,7.25,81.33,0.105,chiang rai,2021,2021,False,False
+#874548,Taiwan,1200.0,Pulped natural / honey,7.92,8.08,7.67,7.92,7.67,7.75,10.0,10.0,10.0,7.75,84.75,0.1,台灣屏東,2021,2022,False,False
+#994657,Taiwan,1000.0,Washed / Wet,8.0,8.08,7.67,7.75,7.92,7.83,10.0,10.0,10.0,7.83,85.08,0.105,台灣屏東,2021,2022,False,False
+#948279,Taiwan,850.0,Natural / Dry,8.08,8.0,7.92,7.92,8.0,7.83,10.0,10.0,10.0,7.92,85.67,0.104,卓溪鄉zhuoxi township,2022,2022,False,False
+#736196,Taiwan,1200.0,Washed / Wet,8.0,7.92,7.83,7.92,7.83,7.83,10.0,10.0,10.0,7.92,85.25,0.095,chiayi,2021,2022,False,False
+#888419,Taiwan,1200.0,Natural / Dry,8.17,8.08,7.92,8.0,7.58,7.83,10.0,10.0,10.0,7.92,85.5,0.106,yunlin,2021,2022,False,False
+#389965,Taiwan,200.0,Washed / Wet,8.0,8.0,7.83,7.83,7.75,7.92,10.0,10.0,10.0,8.08,85.42,0.114,壽豐鄉shoufeng township,2022,2022,False,False
+#778206,Taiwan,200.0,Washed / Wet,7.92,8.0,7.83,7.92,7.83,7.83,10.0,10.0,10.0,8.0,85.33,0.108,壽豐鄉shoufeng township,2022,2022,False,False
+#952428,Taiwan,150.0,,7.92,8.0,7.92,8.0,7.58,7.75,10.0,10.0,10.0,7.83,85.0,0.109,壽豐鄉shoufeng township,2021,2022,False,False
+#852126,Taiwan,750.0,Washed / Wet,7.75,7.83,7.58,7.58,7.58,7.5,10.0,10.0,10.0,7.5,83.33,0.107,yunlin,2021,2022,False,False
+#717129,Taiwan,1300.0,Natural / Dry,7.92,7.92,8.0,7.92,7.83,7.92,10.0,10.0,10.0,8.0,85.5,0.091,chiayi,2021,2022,False,False
+#978770,Guatemala,1900.0,Natural / Dry,8.0,7.92,8.08,7.92,7.75,8.0,10.0,10.0,10.0,8.08,85.75,0.1159999999999999,"fraijanes, santa rosa",2021,2022,False,False
+#197220,Taiwan,650.0,Pulped natural / honey,8.25,8.08,7.83,7.75,7.67,7.75,10.0,10.0,10.0,7.92,85.25,0.113,"dongshan dist, tainan city",2022,2022,False,False
+#187142,United States (Hawaii),500.0,Washed / Wet,7.67,7.92,7.58,7.58,7.58,7.75,10.0,10.0,10.0,7.75,83.83,0.118,ka u,2022,2022,False,False
+#699883,Taiwan,1300.0,Natural / Dry,7.83,7.83,7.67,7.67,7.83,8.0,10.0,10.0,10.0,8.0,84.83,0.095,chiayi,2021,2022,False,False
+#797281,Vietnam,650.0,Natural / Dry,8.0,7.83,7.75,7.67,7.58,7.83,10.0,10.0,10.0,7.92,84.58,0.1159999999999999,quang tri,2021,2022,False,False
+#194737,Guatemala,1668.0,Washed / Wet,8.33,8.33,8.25,7.83,7.83,8.17,10.0,10.0,10.0,8.25,87.0,0.107,chimaltenango,2022,2022,False,False
+#295641,United States (Hawaii),640.0,Washed / Wet,7.33,7.58,7.5,7.5,7.5,7.58,10.0,10.0,10.0,7.5,82.5,0.1169999999999999,kona,2022,2022,False,False
+#864968,Costa Rica,1450.0,Pulped natural / honey,7.33,7.5,7.25,7.92,7.75,7.58,10.0,10.0,10.0,7.42,82.75,0.118,west villege,2021,2021,False,False
+#231917,Taiwan,850.0,Washed / Wet,7.83,8.0,7.5,7.75,7.75,7.75,10.0,10.0,10.0,7.83,84.42,0.1009999999999999,yunlin,2021,2022,False,False
+#680765,Peru,1750.0,Washed / Wet,8.0,8.0,7.83,7.83,7.58,7.83,10.0,10.0,10.0,7.75,84.83,0.107,villa rica,2022,2022,False,False
+#462111,Taiwan,1250.0,Washed / Wet,8.33,8.17,8.08,8.0,7.83,8.25,10.0,10.0,10.0,8.25,86.92,0.091,chiayi,2021,2022,False,False
+#988330,Taiwan,800.0,Natural / Dry,7.92,7.75,7.67,7.75,7.75,8.0,9.33,10.0,10.0,7.92,84.08,0.106,yunlin,2021,2022,False,False
+#460896,Laos,1300.0,Semi Washed,8.33,8.42,8.08,8.17,7.92,8.17,10.0,10.0,10.0,8.33,87.42,0.104,laos borofen plateau,2021,2022,False,False
+#489089,United States (Hawaii),1300.0,Washed / Wet,7.92,7.83,7.75,7.92,7.5,7.67,10.0,10.0,10.0,7.75,84.33,0.1009999999999999,ka u district of big island,2022,2022,False,False
+#741300,Taiwan,1060.0,Natural / Dry,8.0,8.0,8.0,7.92,7.75,7.92,10.0,10.0,10.0,7.92,85.5,0.102,chiayi,2021,2022,False,False
+#814258,Honduras,1600.0,Washed / Wet,7.67,7.75,7.67,7.58,7.5,7.58,10.0,10.0,10.0,7.5,83.25,0.105,"marcala, la paz",2021,2021,False,False
+#458680,Taiwan,1400.0,Washed / Wet,7.67,7.92,7.92,7.83,7.75,7.83,10.0,10.0,10.0,7.83,84.75,0.104,nantou,2021,2022,False,False
+#531918,Taiwan,1200.0,Washed / Wet,8.5,8.5,7.92,8.0,7.92,8.25,10.0,10.0,10.0,8.5,87.58,0.105,chiayi,2021,2022,False,False
+#894623,Taiwan,668.0,Washed / Wet,8.08,8.17,7.67,7.83,7.67,7.92,10.0,10.0,10.0,8.0,85.33,0.113,"dongshan dist, tainan city",2022,2022,False,False
+#203399,El Salvador,1500.0,Pulped natural / honey,7.83,7.83,7.83,7.83,7.67,7.67,10.0,10.0,10.0,7.67,84.33,0.103,chalatenango,2021,2021,False,False
+#917862,Taiwan,1450.0,Natural / Dry,7.83,8.0,7.67,7.75,7.67,7.75,10.0,10.0,10.0,7.92,84.58,0.103,chiayi,2021,2022,False,False
+#829336,United States (Hawaii),600.0,Washed / Wet,8.0,7.92,8.0,7.83,7.67,8.0,10.0,10.0,10.0,8.0,85.42,0.093,kona,2021,2022,False,False
+#903758,Guatemala,1900.0,Natural / Dry,7.83,7.83,7.58,7.67,7.67,7.58,10.0,10.0,10.0,7.75,83.92,0.119,new oriente,2021,2021,False,False
+#494650,Taiwan,1100.0,Pulped natural / honey,8.17,8.08,8.0,7.92,8.0,7.92,10.0,10.0,10.0,8.0,86.08,0.102,chiayi,2021,2022,False,False
+#280251,Taiwan,800.0,Natural / Dry,8.17,8.08,7.83,7.67,7.67,7.75,10.0,10.0,10.0,7.83,85.0,0.1009999999999999,yunlin,2021,2022,False,False
+#918509,Taiwan,1200.0,Natural / Dry,8.25,8.25,8.17,8.0,7.92,8.08,10.0,10.0,10.0,8.08,86.75,0.1,chiayi,2021,2022,False,False
+#127725,Taiwan,1250.0,Washed / Wet,7.83,8.0,7.92,8.0,8.0,7.92,10.0,10.0,10.0,7.92,85.58,0.106,yunlin,2021,2022,False,False
+#546930,Taiwan,400.0,Natural / Dry,8.0,7.92,7.83,7.92,7.75,7.75,10.0,10.0,10.0,7.92,85.08,0.1,秀林鄉show linxia township,2022,2022,False,False
+#154686,Honduras,1470.0,Natural / Dry,7.67,7.67,7.58,7.75,7.67,7.67,10.0,10.0,10.0,7.67,83.67,0.111,"san jose, la paz",2021,2021,False,False
+#886281,United States (Hawaii),1200.0,Washed / Wet,7.75,7.42,7.33,7.5,7.33,7.5,10.0,10.0,10.0,7.33,82.17,0.106,kona district of big island,2022,2022,False,False
+#740616,Taiwan,1250.0,Washed / Wet,8.08,8.08,8.25,8.08,7.92,8.0,10.0,10.0,10.0,8.25,86.67,0.108,chiayi,2021,2022,False,False
+#913173,Colombia,1750.0,Washed / Wet,7.67,7.67,7.42,7.75,7.5,7.75,10.0,10.0,10.0,7.58,83.33,0.135,sierra nevada de santa marta,2021,2022,True,True
+#928398,Thailand,1600.0,Pulped natural / honey,7.67,8.0,7.83,8.0,8.08,8.0,10.0,10.0,10.0,8.08,85.67,0.098,chiang mai,2021,2022,False,False
+#470272,Thailand,1400.0,Washed / Wet,7.17,7.92,7.58,7.5,7.58,7.67,10.0,10.0,10.0,7.42,82.83,0.118,north of thailand,2022,2022,False,False
+#275002,Thailand,1390.0,Washed / Wet,7.42,7.83,7.58,7.67,7.67,7.75,10.0,10.0,10.0,7.58,83.5,0.131,north of thailand,2022,2022,False,False
+#201057,Thailand,1400.0,Washed / Wet,7.92,7.92,7.75,7.33,7.58,7.5,10.0,10.0,10.0,7.33,83.33,0.123,north of thailand,2022,2022,False,False
+#126973,Thailand,700.0,Washed / Wet,7.25,7.25,7.42,7.25,7.42,7.42,10.0,10.0,10.0,7.17,81.17,0.104,north of thailand,2022,2022,False,False
+#223636,Thailand,1400.0,Washed / Wet,7.33,7.42,7.25,7.33,7.5,7.42,10.0,10.0,10.0,7.17,81.42,0.1159999999999999,north of thailand,2022,2022,False,False
+#146278,Thailand,1390.0,Washed / Wet,7.33,7.58,7.58,7.5,7.67,7.67,10.0,10.0,10.0,7.33,82.67,0.13,north of thailand,2022,2022,False,False
+#175322,Thailand,1000.0,Washed / Wet,7.17,7.5,7.42,7.42,7.58,7.5,10.0,10.0,10.0,7.42,82.0,0.098,north of thailand,2022,2022,False,False
+#772299,Uganda,1806.0,Washed / Wet,7.58,7.42,7.33,7.33,7.5,7.33,10.0,10.0,10.0,7.33,81.83,0.115,rwenzori,2022,2023,False,False
+#677657,Uganda,1650.0,Washed / Wet,7.75,7.75,7.5,7.5,7.58,7.58,10.0,10.0,10.0,7.75,83.42,0.1009999999999999,mt elgon,2021,2022,False,False
+#261460,Uganda,1905.0,Washed / Wet,8.0,7.92,7.75,7.75,7.75,7.92,10.0,10.0,10.0,7.92,85.0,0.11,rwenzori,2021,2022,False,False
+#989481,Uganda,1905.0,Washed / Wet,7.75,7.67,7.58,7.5,7.67,7.5,10.0,10.0,10.0,7.67,83.33,0.111,rwenzori,2021,2022,False,False
+#794972,Nicaragua,1350.0,Washed / Wet,7.5,7.58,7.42,7.58,7.5,7.58,10.0,10.0,10.0,7.42,82.58,0.1009999999999999,esteli,2021,2022,False,False
+#210044,Nicaragua,1350.0,Natural / Dry,7.92,7.75,7.67,7.67,7.83,7.75,10.0,10.0,10.0,8.0,84.58,0.099,esteli,2021,2022,False,False
+#249591,Vietnam,900.0,Pulped natural / honey,7.58,7.42,7.58,7.5,7.67,7.75,10.0,10.0,10.0,7.33,82.83,0.133,"eatan commune, krong nang district, krong nang province",2021,2022,False,False
+#539926,Vietnam,1040.0,Washed / Wet,7.5,7.5,7.33,7.5,7.5,7.42,10.0,10.0,10.0,7.58,82.33,0.105,dalat,2021,2021,False,False
+#826756,Nicaragua,1000.0,Washed / Wet,7.42,7.17,7.0,7.08,7.42,7.17,10.0,10.0,10.0,7.17,80.42,0.1119999999999999,jinotega,2022,2023,False,False
+#723401,Nicaragua,1200.0,Natural / Dry,7.33,7.08,6.75,7.17,7.42,7.17,10.0,10.0,10.0,7.08,80.0,0.104,matagalpa,2022,2023,False,False
+#995570,Nicaragua,1200.0,Natural / Dry,7.33,7.58,7.25,7.33,7.75,8.17,10.0,10.0,10.0,7.33,82.75,0.105,matagalpa,2022,2023,False,False
+#370112,Thailand,1200.0,Natural / Dry,7.5,7.58,7.5,7.42,7.5,7.58,10.0,10.0,10.0,7.58,82.67,0.1119999999999999,chiang mai,2021,2022,False,False
+#984405,Mexico,1200.0,Washed / Wet,7.67,7.67,7.58,7.67,7.83,7.58,10.0,10.0,10.0,7.75,83.75,0.1169999999999999,chiapas,2022,2023,False,False
+#587946,Mexico,1200.0,Washed / Wet,7.58,7.42,7.25,7.25,7.5,7.33,10.0,10.0,10.0,7.33,81.67,0.118,"coatepec, veracruz",2021,2022,False,False
+#300720,Mexico,1350.0,Washed / Wet,7.75,7.5,7.42,7.67,7.58,7.5,10.0,10.0,10.0,7.5,82.92,0.119,"zongolica, veracruz",2021,2022,False,False
+#791934,Ethiopia,1800.0,Washed / Wet,8.0,7.75,7.5,7.67,7.67,7.67,10.0,10.0,10.0,7.75,84.0,0.113,sidama,2021,2022,False,False
+#233123,Ethiopia,2000.0,Natural / Dry,8.08,8.25,8.0,8.08,7.92,7.92,10.0,10.0,10.0,8.0,86.25,0.118,guji,2021,2022,False,False
+#217253,Laos,1300.0,Washed / Wet,7.25,7.17,7.08,7.0,7.08,7.08,10.0,10.0,10.0,7.0,79.67,0.1159999999999999,bolaven plateau,2021,2022,False,False
+#153864,Brazil,1200.0,Natural / Dry,7.42,7.42,7.25,7.25,7.17,7.25,10.0,10.0,10.0,7.25,81.0,0.106,alta mogiana ibiraci,2022,2023,False,False
+#420582,Brazil,1200.0,Natural / Dry,7.25,7.17,7.17,7.08,7.17,7.17,10.0,10.0,10.0,7.17,80.17,0.1159999999999999,alta mogiana ibiraci,2021,2022,False,False
+#849802,Colombia,1411.0,Washed / Wet,7.67,7.75,7.67,7.75,7.67,7.67,10.0,10.0,10.0,7.67,83.83,0.119,pereira,2022,2023,False,False
+#656152,Guatemala,1450.0,Washed / Wet,7.42,7.42,7.42,7.33,7.5,7.42,10.0,10.0,10.0,7.5,82.0,0.115,oriente,2021,2022,False,False
+#508075,Brazil,1100.0,Double Carbonic Maceration / Natural,7.83,7.92,7.75,7.92,7.67,7.83,10.0,10.0,10.0,7.83,84.75,0.1119999999999999,campo das vertentes,2022,2022,False,False
+#707378,Nicaragua,1100.0,Washed / Wet,7.25,7.25,7.17,7.33,7.08,7.25,10.0,10.0,10.0,7.17,80.5,0.115,,2021,2021,False,False
+#946237,Philippines,1444.0,Pulped natural / honey,7.67,7.58,7.5,7.67,7.58,7.58,10.0,10.0,10.0,7.58,83.17,0.119,,2022,2023,False,False
+#989796,Colombia,1700.0,Washed / Wet,7.58,7.67,7.58,7.5,7.33,7.5,10.0,10.0,10.0,7.5,82.67,0.118,huila,2022,2022,False,False
+#242592,Peru,1600.0,Washed / Wet,7.5,7.25,7.17,7.17,7.17,7.08,10.0,10.0,10.0,7.0,80.33,0.118,"chanchamayo, lamerced",2022,2023,False,False
+#958749,Peru,1600.0,Washed / Wet,7.67,7.5,7.33,7.58,7.33,7.42,10.0,10.0,10.0,7.42,82.25,0.1169999999999999,"chanchamayo, la merced",2022,2023,False,False
+#571059,Peru,1600.0,Washed / Wet,7.5,7.5,7.33,7.5,7.33,7.33,10.0,10.0,10.0,7.42,81.92,0.1159999999999999,"chanchamayo, la merced",2022,2023,False,False
+#586625,Indonesia,1300.0,Wet Hulling,7.67,7.67,7.83,7.83,7.67,7.75,10.0,10.0,10.0,7.83,84.25,0.115,"lintong nihuta dolok sanggul, sumatera utara",2022,2022,False,False
+#741289,Costa Rica,1900.0,Washed / Wet,7.75,7.83,7.67,7.83,7.75,7.75,10.0,10.0,10.0,7.92,84.5,0.1169999999999999,"los santos, tarrazu",2022,2022,False,False
+#801129,Brazil,1000.0,Pulped natural / honey,7.5,7.5,7.42,7.33,7.33,7.33,10.0,10.0,10.0,7.42,81.83,0.113,mantiquira de minas,2022,2022,False,False
+#279151,Thailand,1350.0,Natural / Dry,7.75,7.67,7.58,7.75,7.75,7.67,10.0,10.0,10.0,7.75,83.92,0.1159999999999999,nan,2022,2022,False,False
+#483718,Colombia,1600.0,Washed / Wet,7.25,7.25,7.17,7.33,7.0,7.17,10.0,10.0,10.0,7.25,80.42,0.11,"caicedonia, valle del cauca",2022,2022,False,False
+#300209,Colombia,1550.0,Washed / Wet,7.42,7.25,7.25,7.42,7.17,7.33,10.0,10.0,10.0,7.33,81.17,0.114,cauca,2021,2022,False,False
+#735285,Thailand,1450.0,Washed / Wet,7.67,7.67,7.5,7.67,7.58,7.67,10.0,10.0,10.0,7.67,83.42,0.1159999999999999,suan ya lung,2022,2022,False,False
+#138975,Colombia,1390.0,Anaerobico 1000h,7.67,7.67,7.58,7.67,7.58,7.58,10.0,10.0,10.0,7.5,83.25,0.109,quindio,2022,2022,False,False
+#877064,Costa Rica,1900.0,Washed / Wet,8.08,8.17,8.17,8.25,8.17,8.08,10.0,10.0,10.0,8.25,87.17,0.118,"los santos, tarrazu",2022,2022,False,False
+#367114,Colombia,1390.0,,8.08,8.0,7.83,8.17,7.75,7.83,10.0,10.0,10.0,8.0,85.67,0.113,quindio,2022,2022,True,True
+#270359,Colombia,1975.0,"Honey,Mossto",8.33,8.33,8.08,8.25,7.92,7.92,10.0,10.0,10.0,8.25,87.08,0.1159999999999999,"popayan, cauca",2022,2022,False,False
+#261473,Colombia,1815.0,Double Anaerobic Washed,8.58,8.5,8.42,8.58,8.25,8.42,10.0,10.0,10.0,8.58,89.33,0.118,"piendamo, cauca",2021,2022,False,False
+#824584,Kenya,1725.0,Washed / Wet,7.5,7.5,7.42,7.5,7.25,7.5,10.0,10.0,10.0,7.5,82.17,0.1119999999999999,kericho,2022,2022,False,False
+#638524,Ethiopia,2000.0,Washed / Wet,8.17,8.08,7.92,8.17,7.75,7.92,10.0,10.0,10.0,8.08,86.08,0.113,"gedeb, yirgacheffe, sidamo",2022,2022,False,False
+#689252,Colombia,1390.0,Washed / Wet,7.58,7.5,7.5,7.67,7.58,7.5,10.0,10.0,10.0,7.58,82.92,0.115,quindio,2021,2022,True,True
+#947066,Ethiopia,1700.0,Washed / Wet,7.42,7.42,7.42,8.0,7.92,7.67,10.0,10.0,10.0,7.67,83.5,0.104,oromia,2021,2022,False,False
+#423394,Ethiopia,1700.0,Washed / Wet,7.92,7.75,7.83,8.17,8.0,7.75,10.0,10.0,10.0,7.83,85.25,0.094,oromia,2021,2022,False,False
+#241548,Ethiopia,1950.0,Natural / Dry,7.67,8.17,8.0,8.33,8.0,8.0,10.0,10.0,10.0,8.0,86.17,0.1159999999999999,guji,2021,2022,False,False
+#510790,Ethiopia,2361.0,Natural / Dry,7.83,7.75,7.58,7.92,8.0,7.5,10.0,10.0,10.0,7.75,84.33,0.11,addis ababa,2021,2022,False,False
+#611011,Ethiopia,2250.0,Natural / Dry,8.0,8.08,8.0,8.0,7.67,7.75,10.0,10.0,10.0,7.83,85.33,0.123,southern ethiopia guji,2021,2022,False,False
+#917098,Ethiopia,1950.0,Washed / Wet,7.67,7.83,7.83,8.0,8.0,8.0,10.0,10.0,10.0,8.0,85.33,0.099,oromia,2021,2022,False,False
+#106719,Laos,1250.0,Natural / Dry,7.67,7.75,7.33,7.67,7.58,7.5,10.0,10.0,10.0,7.58,83.08,0.118,"nongluang bolaven plateau, champasack, lao pdr",2022,2022,False,False
