@@ -1,4 +1,412 @@
-region,country,lat,lon
-Huila,Colombia,2.5,-75.8
-Sidamo,Ethiopia,6.5,38.5
-Chiapas,Mexico,16.5,-92.5
+Country_of_Origin,Region_Clean
+Brazil,alta mogiana ibiraci
+Brazil,alta paulista
+Brazil,brazil matas de minas
+Brazil,campo das vertentes
+Brazil,campos altos cerrado
+Brazil,carmo de minas
+Brazil,cerrado
+Brazil,cerrado monte carmelo minas gerais
+Brazil,chapadao de ferro
+Brazil,grama valley
+Brazil,high mogiana
+Brazil,mantiqueira de minas
+Brazil,mantiquira de minas
+Brazil,matas de minas
+Brazil,"minas gerais, br"
+Brazil,mmm
+Brazil,mogiana
+Brazil,monte carmelo
+Brazil,mountains of minas gerais
+Brazil,regiao vulcanica
+Brazil,south of minas
+Brazil,sul de minas
+Brazil,sul de minas carmo de minas
+Brazil,test
+Brazil,vale da grama
+Burundi,kayanza
+Burundi,mumirwa
+China,dehong prefecture
+China,menglian
+China,xishuangbanna prefecture
+China,yunnan
+Colombia,52 narino exact location mattituy municipal region florida code 381
+Colombia,antioquia
+Colombia,"caicedonia, valle del cauca"
+Colombia,cauca
+Colombia,cundinamarca
+Colombia,eje cafetero
+Colombia,guayata
+Colombia,huila
+Colombia,huila supremo
+Colombia,la plata
+Colombia,narino
+Colombia,pasto
+Colombia,pereira
+Colombia,"piendamo, cauca"
+Colombia,pitalito
+Colombia,popayan cauca
+Colombia,"popayan, cauca"
+Colombia,quindio
+Colombia,santander
+Colombia,sierra nevada de santa marta
+Colombia,south huila
+Colombia,tolima
+Costa Rica,brunca
+Costa Rica,central valley
+Costa Rica,corralillo tarrazu
+Costa Rica,"los santos, tarrazu"
+Costa Rica,naranjo
+Costa Rica,occidental
+Costa Rica,occidente
+Costa Rica,san rafael
+Costa Rica,san ramon
+Costa Rica,tarrazu
+Costa Rica,tres rios
+Costa Rica,turrialba
+Costa Rica,valle central
+Costa Rica,west and central valley
+Costa Rica,west valley
+Costa Rica,west villege
+Cote d?Ivoire,cnra station of divo
+Ecuador,province of manabi
+El Salvador,apaneca
+El Salvador,apaneca ilamatepec
+El Salvador,"ataco, apaneca ilamatepec mountain range"
+El Salvador,cacahuatique
+El Salvador,chalatenango
+El Salvador,"department of ahuachapan, municipality of apanecallamatepec mountain"
+El Salvador,"el balsamo, quezaltepec"
+El Salvador,santa ana
+El Salvador,"volcan chinchontepek, san vicente"
+Ethiopia,addis ababa
+Ethiopia,aricha
+Ethiopia,"blida, kercha, guji, oromia"
+Ethiopia,"gedeb, yirgacheffe, sidamo"
+Ethiopia,gedio
+Ethiopia,guji
+Ethiopia,guji hambela
+Ethiopia,"kefa zone, gimbo distict, at a place called woka araba, south west ethiopia"
+Ethiopia,kelem welega
+Ethiopia,limu
+Ethiopia,oromia
+Ethiopia,oromiya
+Ethiopia,sidama
+Ethiopia,sidamo
+Ethiopia,"snnp kaffa zone, gimbowereda"
+Ethiopia,snnprg kafa telo woreda shada kebele
+Ethiopia,southern ethiopia guji
+Ethiopia,yirgacheffe
+Guatemala,acatenango
+Guatemala,"aldea xeucalvitz, ixil region, quiche department"
+Guatemala,antigua
+Guatemala,atitlan
+Guatemala,chimaltenango
+Guatemala,"chuva, san marcos"
+Guatemala,el progreso
+Guatemala,"el tumbador, san marcos"
+Guatemala,"fraijanes, santa rosa"
+Guatemala,huehuetenango
+Guatemala,jalapa
+Guatemala,"la reforma, san marcos"
+Guatemala,new oriente
+Guatemala,new oriente huehuetenango
+Guatemala,norte
+Guatemala,nuevo oriente
+Guatemala,occidente
+Guatemala,orient
+Guatemala,oriente
+Guatemala,oriente santa rosa
+Guatemala,quetzaltenango
+Guatemala,quiche
+Guatemala,sacatepequez
+Guatemala,"san lucas toliman, solola"
+Guatemala,san marcos
+Guatemala,santa rosa
+Guatemala,sierra de las minas
+Guatemala,solola
+Haiti,department d artibonite
+Haiti,dondon
+Haiti,marmelade
+Haiti,thiotte
+Honduras,central region
+Honduras,"centro, lagunetillas ajuterique, comayagua"
+Honduras,comayagua
+Honduras,el paraiso
+Honduras,guinope el paraiso
+Honduras,intibuca
+Honduras,los planes de santa maria la paz
+Honduras,"los planes de santa maria, la paz"
+Honduras,marcala
+Honduras,"marcala, la paz"
+Honduras,occidental
+Honduras,ocotepeque
+Honduras,"san andres, lempira"
+Honduras,"san jose, la paz"
+Honduras,san marcos
+Honduras,"siguatepeque, comayagua"
+Honduras,western region
+India,chickmangalore
+Indonesia,aceh
+Indonesia,aceh gayo
+Indonesia,aceh tengah
+Indonesia,bali
+Indonesia,bener meriah
+Indonesia,bondowoso
+Indonesia,dolok sanggul
+Indonesia,east java
+Indonesia,ijen
+Indonesia,lington nihuta
+Indonesia,lintong
+Indonesia,"lintong nihuta dolok sanggul, sumatera utara"
+Indonesia,sapan toraja
+Indonesia,sulawesi
+Indonesia,sumatra
+Indonesia,sumatra brastagi
+Indonesia,temanggung
+Japan,ada okinawa japan
+Kenya,blend
+Kenya,central
+Kenya,central kenya
+Kenya,kericho
+Kenya,kiambu
+Kenya,kirinyaga
+Kenya,meru county
+Kenya,muranga
+Kenya,nyeri
+Laos,bolaven plateau
+Laos,lao p d r
+Laos,laos borofen plateau
+Laos,"nongluang bolaven plateau, champasack, lao pdr"
+Laos,paksong
+Madagascar,itasy
+Malawi,kakoma
+Malawi,mzuzu
+Malawi,southern zomba
+Mauritius,chamarel
+Mexico,adolfo lopez mateos
+Mexico,altotonga
+Mexico,amatenango de la frontera
+Mexico,atoyac de alvarez
+Mexico,"calnali, hidalgo"
+Mexico,canoas
+Mexico,"chapulhuacan, hidalgo"
+Mexico,chiapas
+Mexico,"chiapas, jaltenango"
+Mexico,chilon
+Mexico,"chocaman, veracruz"
+Mexico,coatepec
+Mexico,"coatepec, coatepec"
+Mexico,"coatepec, veracruz"
+Mexico,cofradia de suchitlan
+Mexico,colima
+Mexico,cordoba
+Mexico,coscomatepec
+Mexico,cuarenteno
+Mexico,"el desmoronado, talpan de allende jalisco"
+Mexico,el remudadero
+Mexico,escuitla
+Mexico,fln mirador
+Mexico,fortin de las flores
+Mexico,huautla de jimenez
+Mexico,"huazalingo, hidalgo"
+Mexico,hustusco
+Mexico,"iliatenco, guerrero"
+Mexico,ixhuatlan del cafe
+Mexico,jaltenango
+Mexico,"jaltocan, hidalgo"
+Mexico,juchique de ferrer
+Mexico,juquila
+Mexico,la concordia
+Mexico,"la concordia, chiapas"
+Mexico,la cumbre
+Mexico,la yerba
+Mexico,la yerbabuena
+Mexico,los angeles
+Mexico,mahuixtlan
+Mexico,manzanillo
+Mexico,menglian
+Mexico,motozintla
+Mexico,"motozintla, chiapas"
+Mexico,nayarit
+Mexico,oaxaca
+Mexico,ocosingo
+Mexico,"ohuapan, tlaltetela"
+Mexico,petatlan
+Mexico,"pluma hidalogo, oaxaca"
+Mexico,pochutla
+Mexico,progreso santa rosa teocelo
+Mexico,"sacun palma, municipio de chilon, chiapas"
+Mexico,san bartolo tutotepec
+Mexico,san fernando
+Mexico,san isidro
+Mexico,san miguel del puerto
+Mexico,san pedro cotzilnam
+Mexico,santa catarina juquila
+Mexico,santa maria sitepec
+Mexico,santo domingo cacalotepec
+Mexico,santo reyes nopala
+Mexico,sierra alta mixe y zapoteca
+Mexico,"sierra fraylesca, chiapas"
+Mexico,sierra madre occidental
+Mexico,"sierra norte yajalon, chiapas"
+Mexico,"sierra, chiapas"
+Mexico,siltepec el triunfo
+Mexico,"siltepec el triunfo, chiapas"
+Mexico,talpa de allende
+Mexico,tapachula
+Mexico,temaxcalapa
+Mexico,"tenango de doria, hidalgo"
+Mexico,tepetzingo
+Mexico,tepictla
+Mexico,tlacuilotepec
+Mexico,"tlanchinol, hidalgo"
+Mexico,tlatlauquitepec
+Mexico,totutla
+Mexico,tuxtla gutierrez
+Mexico,veracruz
+Mexico,villa talea de castro
+Mexico,xalapa
+Mexico,xicotepec de juarez
+Mexico,"xochitonalco, huautla"
+Mexico,yajalon
+Mexico,yecuatla
+Mexico,zapotitlan de mendez
+Mexico,zaragoza itundujia
+Mexico,zentla
+Mexico,zihuatanejo de azueta
+Mexico,"zongolica, veracruz"
+Myanmar,"doe kwin, pyin oo lwin"
+Myanmar,pyin oo lwin
+Myanmar,pyinoolwin
+Myanmar,south shan state
+Myanmar,"yauk sauk, shan state"
+Myanmar,ywar ngan
+Myanmar,ywar ngan township
+Nicaragua,"dipilto, nueva segovia"
+Nicaragua,esteli
+Nicaragua,jalapa
+Nicaragua,jinotega
+Nicaragua,matagalpa
+Nicaragua,nueva segovia
+Panama,boquete
+Papua New Guinea,eastern highlands province
+Peru,cajamarca
+Peru,"chanchamayo, la merced"
+Peru,"chanchamayo, lamerced"
+Peru,huanuco
+Peru,"penachi, cecanor"
+Peru,puno
+Peru,san ignacio
+Peru,villa rica
+Philippines,asia pacific
+Philippines,"benguet, mountain province"
+Philippines,"bukidnon, mindanao, philppines"
+Philippines,corillera administrative
+Philippines,"davao city, region 11"
+Rwanda,gicumbi
+Taiwan,"baihe dist, tainan city 臺南市白河區"
+Taiwan,"caoling, gukeng township, yunlin county"
+Taiwan,changhua baguashan 彰化市八卦山
+Taiwan,chiayi
+Taiwan,chiayi alishan 嘉義縣阿里山鄉
+Taiwan,chiayi fanlu嘉義縣番路鄉
+Taiwan,"dongshan dist, tainan city"
+Taiwan,"dongshan dist, tainan city 台南市東山區"
+Taiwan,"dongshan dist, tainan city 臺南市東山區"
+Taiwan,"gukeng township, yunlin county"
+Taiwan,"leye, alishan township, chiayi county"
+Taiwan,"leye, alishan township, chiayi county 嘉義阿里山樂野村"
+Taiwan,mountain ali
+Taiwan,nantou
+Taiwan,"nanxi dist, tainan city 臺南市楠西區"
+Taiwan,natou county
+Taiwan,new taipei zhonghe 新北市中和區
+Taiwan,"shibi, gukeng township, yunlin county 郵遞區號"
+Taiwan,taichung taiping 台中市太平區
+Taiwan,taichung xinshe 台中市新社區
+Taiwan,"taiwu township, pingtung county 屏東縣泰武鄉"
+Taiwan,yunlin
+Taiwan,yunlin gukeng he bao 雲林縣古坑鄉荷苞村
+Taiwan,yunlin 雲林縣石壁
+Taiwan,卓溪鄉zhuoxi township
+Taiwan,南投國姓
+Taiwan,古坑鄉荷包村尖山坑60號
+Taiwan,台中和平區
+Taiwan,台中新社
+Taiwan,台南市東山區
+Taiwan,台東太麻里
+Taiwan,台灣
+Taiwan,台灣屏東
+Taiwan,嘉義阿里山
+Taiwan,國姓鄉 guoshing township
+Taiwan,壽豐鄉shoufeng township
+Taiwan,新北市
+Taiwan,新竹縣
+Taiwan,桃園市
+Taiwan,玉里鎮yuli township
+Taiwan,秀林鄉show linxia township
+Taiwan,臺北市
+Taiwan,苗栗三灣
+Taiwan,苗栗泰安
+Taiwan,苗栗縣
+"Tanzania, United Republic Of",arusha
+"Tanzania, United Republic Of",arusha meru
+"Tanzania, United Republic Of",ikand village
+"Tanzania, United Republic Of","ilomba vilage, mbozi"
+"Tanzania, United Republic Of","iwala village, mbeya rural"
+"Tanzania, United Republic Of",karatu arusha
+"Tanzania, United Republic Of",karatu ngorogoro
+"Tanzania, United Republic Of",karatu northern
+"Tanzania, United Republic Of",kilimanjaro
+"Tanzania, United Republic Of","manyara, karatu"
+"Tanzania, United Republic Of",mbeya
+"Tanzania, United Republic Of",mbinga
+"Tanzania, United Republic Of",meru
+"Tanzania, United Republic Of",mkuu rombo
+"Tanzania, United Republic Of",moshi
+"Tanzania, United Republic Of",ngorogoro
+"Tanzania, United Republic Of",nkure meru
+"Tanzania, United Republic Of",northern
+"Tanzania, United Republic Of","oldeani, mongola"
+"Tanzania, United Republic Of",ruvuma
+"Tanzania, United Republic Of","ruvuma, mbinga"
+"Tanzania, United Republic Of",shizingo village
+Thailand,chiang mai
+Thailand,chiang rai
+Thailand,chiang rai thailand
+Thailand,chiangrai
+Thailand,"doi chaang village, chiang rai, thialand"
+Thailand,north of thailand
+Thailand,phahi
+Thailand,suan ya lung
+Uganda,bulambuli eastern region
+Uganda,eastern
+Uganda,eastern uganda
+Uganda,kapchorwa
+Uganda,kapchorwa eastern
+Uganda,kasese
+Uganda,"kasese, mt rwenzori"
+Uganda,mbale
+Uganda,mt elgon
+Uganda,mt rwenzori
+Uganda,rwenzori
+Uganda,"sipi, mt elgon"
+Uganda,west nile
+United States,antioquia
+United States,berastagi
+United States,central america
+United States (Hawaii),ka u
+United States (Hawaii),ka u district of big island
+United States (Hawaii),kona
+United States (Hawaii),kona district of big island
+United States (Puerto Rico),yauco region
+Vietnam,dala
+Vietnam,dalat
+Vietnam,don duong
+Vietnam,"eatan commune, krong nang district, krong nang province"
+Vietnam,lam dong province
+Vietnam,quang tri
+Vietnam,vietnam cau dat
+Vietnam,vietnam tutra
+Zambia,mubuyu estate
